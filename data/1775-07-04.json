@@ -1,0 +1,22 @@
+{
+  "date": "1775-07-04",
+  "continental_congress": [
+    {
+      "title": "Continental Congress Issues Military Directives",
+      "summary": "Congress continues organizing the Continental Army and addresses supply coordination."
+    }
+  ],
+  "battles": [
+    {
+      "title": "Siege of Boston (Ongoing)",
+      "summary": "American forces maintain pressure on British troops following the events at Bunker Hill."
+    }
+  ],
+  "letters_and_deeds": [
+    {
+      "title": "George Washington to the Continental Congress",
+      "summary": "Washington writes regarding the condition and discipline of the army."
+    }
+  ]
+}
+
