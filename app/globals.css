@@ -1,26 +1,124 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* ===== Parchment system (per spec) ===== */
+
+:root{
+  --paper: #E6D3AE;
+  --ink-strong:#1E1A16;
+  --ink:#2A241E;
+  --ink-muted:#4A4036;
+  --rule: rgba(42,36,30,.35);
+  --border: rgba(42,36,30,.20);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+body{
+  font-family: var(--font-body), Georgia, "Times New Roman", serif;
+  color: var(--ink);
+  background-color: var(--paper);
+
+  /* vignette + parchment texture */
+  background-image:
+    radial-gradient(circle at 50% 20%, rgba(255,255,255,.25), rgba(0,0,0,.12) 65%),
+    url("/textures/parchment.png");
+  background-size: cover, 900px 900px;
+  background-attachment: fixed;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+.parchment-sheet{
+  max-width: 980px;
+  margin: 32px auto;
+  padding: clamp(20px, 4vw, 44px);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: linear-gradient(180deg, rgba(255,255,255,.10), rgba(255,255,255,.02));
+  box-shadow: 0 14px 40px rgba(0,0,0,.18);
+}
+
+.date-title{
+  font-family: var(--font-display), var(--font-body), serif;
+  color: var(--ink-strong);
+  font-size: clamp(44px, 5.2vw, 68px);
+  line-height: 1.05;
+  text-align: center;
+  margin: 0 0 10px 0;
+  letter-spacing: 0.02em;
+}
+
+.flourish{
+  display:flex;
+  justify-content:center;
+  margin: 8px 0 20px;
+  opacity: .7;
+}
+
+.section-label{
+  text-align:center;
+  font-variant: small-caps;
+  letter-spacing: .12em;
+  font-weight: 600;
+  color: var(--ink-strong);
+  margin: 22px 0 12px;
+  font-size: 18px;
+}
+
+.quote{
+  font-size: 22px;
+  line-height: 1.62;
+  margin: 0 0 10px;
+}
+
+.citation{
+  font-style: italic;
+  color: var(--ink-muted);
+  margin: 0 0 12px;
+  font-size: 16px;
+}
+
+.context{
+  color: var(--ink-muted);
+  font-size: 17px;
+  line-height: 1.55;
+  margin: 0 0 18px;
+}
+
+.rule{
+  height: 1px;
+  background: var(--rule);
+  margin: 22px 0;
+}
+
+.facsimile{
+  border: 1px solid rgba(42,36,30,.35);
+  background: rgba(255,255,255,.12);
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0 10px 22px rgba(0,0,0,.18);
+}
+
+.facsimile img{
+  width: 100%;
+  height: auto;
+  display:block;
+  border-radius: 6px;
+  filter: sepia(.18) contrast(1.06) saturate(.92);
+}
+
+.caption{
+  margin-top: 8px;
+  color: var(--ink-muted);
+  font-size: 15px;
+  line-height: 1.35;
+}
+
+/* Responsive “inline insert” behavior */
+@media (min-width: 900px){
+  .inline-grid{
+    display:grid;
+    grid-template-columns: 1fr 380px;
+    gap: 22px;
+    align-items:start;
   }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
 }
