@@ -29,9 +29,10 @@ function addDays(dt, n) {
 function emptyDay(iso) {
   return {
     date: iso,
-    continental_congress: [],
-    battles: [],
-    letters_and_deeds: [],
+    soldiers_day: [],
+    men_of_command: [],
+    continental_congress_committees: [],
+    voices_beyond_the_line: [],
   };
 }
 
