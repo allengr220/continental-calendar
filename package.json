@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "audit": "node scripts/audit-data.mjs",
+    "promote": "node scripts/promote-intake.mjs",
+    "promote:next": "node scripts/promote-intake.mjs 0000-00-00 --next-missing"
   },
   "dependencies": {
     "next": "16.1.6",
