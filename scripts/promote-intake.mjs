@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import { execSync } from "child_process";
 
 const dataDir = path.join(process.cwd(), "data");
 const intakeDir = path.join(process.cwd(), "intake");
@@ -115,6 +116,20 @@ function findNextMissing() {
   return null;
 }
 
+function openTargets(iso) {
+  try {
+    const url = `http://localhost:3000/${iso.replace(/-/g, "/")}`;
+    console.log(`Opening browser: ${url}`);
+    execSync(`wslview "${url}"`, { stdio: "ignore" });
+
+    const dataPath = path.join(process.cwd(), "data", `${iso}.json`);
+    console.log(`Opening editor: ${dataPath}`);
+    execSync(`code "${dataPath}"`, { stdio: "ignore" });
+  } catch {
+    console.log("Note: Could not auto-open browser/editor. Continue manually.");
+  }
+}
+
 function main() {
   const args = process.argv.slice(2);
   if (!args.length) {
@@ -133,6 +148,7 @@ function main() {
   const listOnly = hasFlag("--list");
   const overwrite = hasFlag("--overwrite");
   const dryRun = hasFlag("--dry-run");
+  const openAfter = hasFlag("--open");
 
   let iso = args[0];
 
@@ -235,6 +251,9 @@ function main() {
 
   writeJson(dataPath, data);
   console.log(`\nWrote curated data: data/${iso}.json`);
-}
 
+  if (openAfter) {
+  openTargets(iso);
+}
+}
 main();

@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "audit": "node scripts/audit-data.mjs",
-    "promote": "node scripts/promote-intake.mjs",
+    "promote": "node scripts/promote-intake.mjs --open",
     "promote:next": "node scripts/promote-intake.mjs 0000-00-00 --next-missing"
   },
   "dependencies": {
