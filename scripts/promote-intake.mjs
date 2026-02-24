@@ -129,7 +129,52 @@ function openTargets(iso) {
     console.log("Note: Could not auto-open browser/editor. Continue manually.");
   }
 }
+function nyMonthDay() {
+  // Get month/day in America/New_York regardless of server timezone
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/New_York",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(new Date());
 
+  const m = parts.find((p) => p.type === "month")?.value;
+  const d = parts.find((p) => p.type === "day")?.value;
+  if (!m || !d) throw new Error("Failed to compute NY month/day");
+  return { m, d };
+}
+
+function publishIsoTodayMapped() {
+  const { m, d } = nyMonthDay();
+  // Rule: if today is before July 4, map into 1776; else 1775
+  const month = Number(m);
+  const day = Number(d);
+  const afterJul4 = month > 7 || (month === 7 && day >= 4);
+  const year = afterJul4 ? 1775 : 1776;
+  return `${year}-${m}-${d}`;
+}
+
+function findEarliestMissingSoldiers() {
+  const files = fs
+    .readdirSync(dataDir)
+    .filter((f) => f.endsWith(".json"))
+    .sort();
+
+  for (const f of files) {
+    const iso = path.basename(f, ".json");
+    const fp = path.join(dataDir, f);
+
+    try {
+      const data = readJson(fp);
+      const soldiers = Array.isArray(data.soldiers_day) ? data.soldiers_day : [];
+      if (soldiers.length === 0) return iso;
+    } catch {
+      // audit script will catch parse errors; skip here
+      continue;
+    }
+  }
+  return null;
+}
 function main() {
   const args = process.argv.slice(2);
   if (!args.length) {
@@ -149,7 +194,9 @@ function main() {
   const overwrite = hasFlag("--overwrite");
   const dryRun = hasFlag("--dry-run");
   const openAfter = hasFlag("--open");
-
+  const publishMode = hasFlag("--publish");
+  const backfillMode = hasFlag("--backfill");
+  
   let iso = args[0];
 
   if (hasFlag("--next-missing")) {
