@@ -14,7 +14,8 @@
     "promote:backfill": "node scripts/promote-intake.mjs 0000-00-00 --backfill",
     "seed:intake": "node scripts/seed-intake.mjs",
     "seed:intake:publish": "node scripts/seed-intake.mjs 0000-00-00 --publish",
-    "seed:intake:backfill": "node scripts/seed-intake.mjs 0000-00-00 --backfill"
+    "seed:intake:backfill": "node scripts/seed-intake.mjs 0000-00-00 --backfill",
+    "status": "node scripts/intake-status.mjs"
   },
   "dependencies": {
     "next": "16.1.6",
