@@ -11,7 +11,10 @@
     "promote": "node scripts/promote-intake.mjs --open",
     "promote:next": "node scripts/promote-intake.mjs 0000-00-00 --next-missing",
     "promote:publish": "node scripts/promote-intake.mjs 0000-00-00 --publish",
-    "promote:backfill": "node scripts/promote-intake.mjs 0000-00-00 --backfill"
+    "promote:backfill": "node scripts/promote-intake.mjs 0000-00-00 --backfill",
+    "seed:intake": "node scripts/seed-intake.mjs",
+    "seed:intake:publish": "node scripts/seed-intake.mjs 0000-00-00 --publish",
+    "seed:intake:backfill": "node scripts/seed-intake.mjs 0000-00-00 --backfill"
   },
   "dependencies": {
     "next": "16.1.6",
