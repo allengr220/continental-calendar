@@ -1,0 +1,20 @@
+{
+  "date": "1776-02-20",
+  "soldiers_day": [
+    {
+      "quote": "We lay in camp under bitter cold; rations short; many without shoes...",
+      "citation": "Placeholder citation",
+      "source_url": "",
+      "context": "",
+      "facsimiles": [],
+      "actor_role": "enlisted",
+      "source_type": "letter",
+      "author": "(unknown)",
+      "source_path": "rag/corpus/sample_soldier_letter_1776-02-20.txt",
+      "date_hint": "1776-02-20"
+    }
+  ],
+  "men_of_command": [],
+  "continental_congress_committees": [],
+  "voices_beyond_the_line": []
+}

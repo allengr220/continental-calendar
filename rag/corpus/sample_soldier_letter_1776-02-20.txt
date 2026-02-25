@@ -1,0 +1,9 @@
+DATE: 1776-02-20
+AUTHOR: (unknown)
+ROLE: enlisted
+SOURCE_TYPE: letter
+CITATION: Placeholder citation
+URL:
+TEXT:
+We lay in camp under bitter cold; rations short; many without shoes...
+

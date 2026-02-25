@@ -8,14 +8,16 @@
     "start": "next start",
     "lint": "eslint",
     "audit": "node scripts/audit-data.mjs",
-    "promote": "node scripts/promote-intake.mjs --open",
+    "promote": "node scripts/promote-intake.mjs",
     "promote:next": "node scripts/promote-intake.mjs 0000-00-00 --next-missing",
     "promote:publish": "node scripts/promote-intake.mjs 0000-00-00 --publish",
     "promote:backfill": "node scripts/promote-intake.mjs 0000-00-00 --backfill",
     "seed:intake": "node scripts/seed-intake.mjs",
     "seed:intake:publish": "node scripts/seed-intake.mjs 0000-00-00 --publish",
     "seed:intake:backfill": "node scripts/seed-intake.mjs 0000-00-00 --backfill",
-    "status": "node scripts/intake-status.mjs"
+    "status": "node scripts/intake-status.mjs",
+    "rag:build": "python3 scripts/rag_build_index.py",
+    "rag:query": "python3 scripts/rag_query_to_intake.py"
   },
   "dependencies": {
     "next": "16.1.6",
