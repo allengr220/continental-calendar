@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# RAG artifacts (rebuildable)
+rag/index/
+rag/processed/
+
+# Local notes/logs
+*.log
