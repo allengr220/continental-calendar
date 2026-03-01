@@ -1,0 +1,17 @@
+date: 1775-07-05
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 30e4801a040f34fd4d64ea323395931b8d0e1e2c
+chunk_index: 64/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders July 5th 1775
+
+Parole Cumberland Countersign Dudley 
+A Genarel Courtmarlhel is orderd to Set tomor- 
+row Ten Oclock for the Tryal of John Seymore John

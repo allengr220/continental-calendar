@@ -1,0 +1,21 @@
+date: 1776-01-29
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: fdd841f221598c94b05df1116ff9f9456b301236
+chunk_index: 62/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+29th to 31st. — Two men of Captain Ward’s company died of the
+small-pox. The men are getting well, some of them.
+
+February \st to 5th. — There were two men deserted. Seven of our
+men died with the small-pox, and one of our men died with the pleurisy ;
+he was sick but one day,
+
+oth to 9th. — Three men deserted, and forty men lay sick in
+prison.

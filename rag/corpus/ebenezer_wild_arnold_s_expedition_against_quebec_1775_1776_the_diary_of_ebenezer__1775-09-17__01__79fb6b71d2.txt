@@ -1,0 +1,16 @@
+date: 1775-09-17
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 79fb6b71d28b869c620e3d0bbe8c4e26a7b50df2
+chunk_index: 6/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+17th. — This day had a general review, and our men appeared very
+well and in good spirits, and made a grand appearance ; and we had
+the praise of hundreds of spectators, who were very sorry to see so
+many brave fellows going to be sacrificed for their country.

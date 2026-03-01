@@ -1,0 +1,23 @@
+date: 1775-07-01
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: c6083ee374a83baecaf3c201bf7617ef4c7d0a8f
+chunk_index: 69/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+1st It is with Inexpresable Confern that the General 
+upon his first Arrivel in the army should find an officer
+
+37
+
+Sentenced By a General Courtmartial to be Cashiered 
+for Cowardile a Crime of all others the moft Infameus 
+in a Soldiar the moft Infamius to an army and the Laft 
+to be Forgivin In as much as It may and often Dos 
+happen that the Cowardiie of a single officer may prove 
+the Destrution of a whole army

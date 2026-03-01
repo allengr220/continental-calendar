@@ -1,0 +1,15 @@
+date: 1776-08-18
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 62b1b273a78e3aaba59ec2cca74aba2bfecd2f4a
+chunk_index: 115/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Sunday August 18 this Day we have 1 S 1 Corp! and 12 Privats on
+y § y
+Duty from our company—

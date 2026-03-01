@@ -1,0 +1,13 @@
+date: 1776-05-01
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 6ef79d054c67301cefbebf9ceaf9e7aa2a88f1fb
+chunk_index: 74/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+May 1st to 6th. — Nothing strange, but in grea distress and despair.

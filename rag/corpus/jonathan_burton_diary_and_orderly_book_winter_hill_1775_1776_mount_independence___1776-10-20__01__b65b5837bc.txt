@@ -1,0 +1,14 @@
+date: 1776-10-20
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: b65b5837bc7c711becaa24a92455ed8cd2e08836
+chunk_index: 151/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Sunday october 20 1776 The Doctor came Through the Regt to take
+an acct of all the sick in the Regt, for what Reason then unknown to me

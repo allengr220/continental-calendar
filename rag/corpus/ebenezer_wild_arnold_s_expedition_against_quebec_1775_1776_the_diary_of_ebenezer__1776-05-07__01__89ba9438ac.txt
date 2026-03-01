@@ -1,0 +1,16 @@
+date: 1776-05-07
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 89ba9438acd5aa2afad7204fb989adb03482bce5
+chunk_index: 76/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+7th and 8th, — The general ordered the irons to be taken off the
+prisoners. Ile also gave the emigrants their liberty again. This
+morning two ships came in. The ships have gone up the river and
+a number of troops by land to Montreal,

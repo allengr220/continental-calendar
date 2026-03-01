@@ -1,0 +1,14 @@
+date: 1776-01-03
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 853946b395675b7a99674dc206ad23adf9ca61f0
+chunk_index: 31/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Head Quarters Jan' 3" 1776
+Parrole Woodford, Countersign Norfolk

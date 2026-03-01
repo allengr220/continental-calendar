@@ -1,0 +1,16 @@
+date: 1776-10-16
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 2c62a5f6ed636b3f91b49ef4395cedc42529d03e
+chunk_index: 147/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Wednesday october 16 There was an alarm in camp last Night caused
+by the centries fireing on Some cattle which allarmed our Reg! at midnight and caused them all to turn out and in the forenoon I went out a
+Scouting Partey and in the afternoon Parker and Parkhurst went home
+and at night I was ordred with Party of 44 Men from our Brigade to Reinforce the Mane Guard

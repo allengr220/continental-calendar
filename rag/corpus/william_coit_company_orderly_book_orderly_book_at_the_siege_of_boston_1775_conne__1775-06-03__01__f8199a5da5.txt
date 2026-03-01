@@ -1,0 +1,29 @@
+date: 1775-06-03
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: f8199a5da567aaf511833a53d524e5db820038a0
+chunk_index: 6/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+June 3d 1775
+
+Parole Marblehead Counterfign Lynn 
+Field officer of the Day to Morrow Colo" Manfneld 
+Field officer of the Picquit guard to Night Majr 
+Field officer Main guard Lev1 Colo" Bond 
+Officer of the Fitigue to Morrow Putnam 
+adjutant of the Day to Morrow Putnam
+
+General orders 
+that the Commanding officer of Each Regm* Detach- 
+ment or Company oblige all that are of Duty under his 
+Command to be paraded at 4 oclock in the afternoon 
+and be Redy the Whipping 2 prifenors Steeling at 5 
+oclock
+
+Samul Ofgood Majr of Brigad

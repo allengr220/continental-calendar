@@ -1,0 +1,14 @@
+date: 1776-07-30
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 6cb18765e90a7f0b6541f989d3f67d78bfcc8b16
+chunk_index: 100/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Tuesday July 30" the above S# Companyes March‘ from N° 4 for
+Crownpint about Nine o Clock

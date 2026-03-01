@@ -1,0 +1,24 @@
+date: 1775-07-13
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: a49dbce2027db843bca9ac6850475d369b696e5f
+chunk_index: 99/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Head Quarters Cambrigde 13th July 1775
+
+Parole Georgia Counteriign Huntington 
+as the army will be Fourthwith formd into Brigads 
+the Adjutant General will at orderly Times this Day 
+Deliver to the adjutant of Each Regm* a number of 
+printed Returns one of Which will be Imeadiatly Filld 
+up &amp; Signed by the Commanding officer of Each 
+Regm1 and Sent as Soon as poseble to the Adjutant 
+gen1 By the Adjutunt of Each Regm* on the Back of 
+the Return it will be Nefsesary [to state] where and in 
+what Manner the Regm* is at Prefant posted

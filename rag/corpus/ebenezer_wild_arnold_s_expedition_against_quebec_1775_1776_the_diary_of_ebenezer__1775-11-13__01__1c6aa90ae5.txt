@@ -1,0 +1,16 @@
+date: 1775-11-13
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 1c6aa90ae5c914f892a0e0afd212aafb70c07eb6
+chunk_index: 48/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+13th. — Crossed the river at night in long boats and canoes. Some
+of the canoes overset in the river; but none of the men were lost, only
+some few guns and clothes. Got all over before morning at a place
+called Wolf’s Cove.

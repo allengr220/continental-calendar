@@ -1,0 +1,21 @@
+date: 1775-07-04
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 2c0bb15db88501be4f729d6b11866095cde68c8f
+chunk_index: 80/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+* Sic, but see July 4, twice.
+
+40
+
+Deisition upon the Report untill Further Confederation, 
+in the Mean time the Adjutant gen11 Is orderd to wait 
+on Genorl ward by whom the prisoner was Confined 
+and Learn from him upon whole Complaint and what 
+wittnefs there are to Suport it

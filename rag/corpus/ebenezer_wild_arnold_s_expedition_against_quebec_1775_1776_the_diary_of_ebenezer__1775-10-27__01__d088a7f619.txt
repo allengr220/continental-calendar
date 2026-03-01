@@ -1,0 +1,17 @@
+date: 1775-10-27
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: d088a7f6195f2dec6be835f730a4cc3070310a55
+chunk_index: 33/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+27th. — Crossed a pond half of a mile over, and carried fifteen rods
+to another pond, two miles over, to the great carrying-place, four miles
+and fifty rods over. Here it was agreed to leave most of our bateaux,
+being greatly fatigued by carrying over such hills, rocks, and swamps as
+were never passed by man before.

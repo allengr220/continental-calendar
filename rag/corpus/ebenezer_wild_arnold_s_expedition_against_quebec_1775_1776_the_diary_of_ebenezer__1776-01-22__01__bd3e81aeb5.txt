@@ -1,0 +1,15 @@
+date: 1776-01-22
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: bd3e81aeb5bf6b9bbfdbd0aebc44774706f60c6b
+chunk_index: 60/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+22d to 25th. — There were three vessels and a house burned by our
+people. The enemy went into St. Rochs after plunder. ‘There were
+two of our people taken going to set fire to the shipping.

@@ -1,0 +1,31 @@
+date: 1775-07-29
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: bb4246c91e81cbc6ef4941e6c0cf1a9999689fab
+chunk_index: 161/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Cambridge Head Quarters 29th July 1775
+
+Parole Dartmouth Counterfign Cork
+
+a serjant and Six men to parade at head quarters at 
+Eleven Oclock to Eicort Sertan Prisoners and Diserters 
+To Woster this party to be Vitueled for this Day and 
+tomorrow the Serjant will Reeve his orders from the 
+adjutant
+
+Mr Benjamin Whiting Tryd by a Court of Inquire 
+orderd in the General orders of the 27th Inftant whereof 
+Lev1 Colo11 James Prefcott was Preafadant the Court 
+having Maturely Confiderd the Evadance for and 
+aganft the prisoner as well as what the Perfon had to 
+offer in his Defence are of opinon that the prisoner is 
+not Guilty of the Crime Lade to his Charge and Do 
+therefore acquit the prifoner the Gen11 therefore orders 
+the prisoner to be Relefed

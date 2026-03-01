@@ -1,0 +1,14 @@
+date: 1776-08-22
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 11c89a56501815dc2471fe5437b695c257d3162b
+chunk_index: 89/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+22 William Butterfield 56 Eleazer Reading
+\) 23, John Burns 57 Ebenezer Rea

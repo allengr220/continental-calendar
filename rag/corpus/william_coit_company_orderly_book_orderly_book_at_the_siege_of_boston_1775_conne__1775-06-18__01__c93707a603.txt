@@ -1,0 +1,17 @@
+date: 1775-06-18
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: c93707a60361500c49207723f0831c57d0ac1ca4
+chunk_index: 25/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders 18 June 1775
+
+Parole Maiden Courterfign Westown 
+Field officer of the Day M Colo11 Mansfield 
+Field officer of the Picquit Night Majr Poor

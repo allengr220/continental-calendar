@@ -1,0 +1,20 @@
+date: 1775-10-19
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: e4d8d15ce604e429bca1f0a17ebf5af7d7270f98
+chunk_index: 27/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+19th. — Carried over four carrying-places, and rowed up about five
+miles.
+
+ll
+
+a
+
+af

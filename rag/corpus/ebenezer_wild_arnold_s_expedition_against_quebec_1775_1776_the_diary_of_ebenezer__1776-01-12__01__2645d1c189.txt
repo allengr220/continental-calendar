@@ -1,0 +1,14 @@
+date: 1776-01-12
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 2645d1c189f1bca170626e6f6ba4e634de608419
+chunk_index: 64/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+12th to 15th. — This morning sixty men went to the hospital with
+the small-pox. The men have it very horribly.

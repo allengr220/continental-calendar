@@ -1,0 +1,27 @@
+date: 1775-07-04
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 2aeb34016a0b7e880435ba728248b546d847b36c
+chunk_index: 182/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Cap1 oliver parker of Colo11 prefcotts Regm1 Tryed 
+By a Gen11 Court Martial whereof Colo11 Glover was 
+Preasadant for Defrauding his Men of there advance 
+pay and by Falf Returns Imposing upon the Comifary 
+and for Drawing More Money then he had men in his 
+Company and for Selling provifions he by that Means 
+'obtained he is By the Court Found Guilty of the Whole 
+Charge Laid againft him and Sentanced to be Cashiered 
+and Mulcted of all his pay and Renderd Incaperable of 
+all Service, Cap* Criftopher Gardiner of Colo" Vernams 
+Regmts in the Rode Iiland Brigade Tryd. By a geno1 
+Court Martial whereof Colo11 Church was prefadant for 
+Diserting his post is Found Guilty of his Crime Laid 
+to his Charge and Unamoufly Sentanced to be Cashired 
+as Incaperable of the Service of his Countray in any

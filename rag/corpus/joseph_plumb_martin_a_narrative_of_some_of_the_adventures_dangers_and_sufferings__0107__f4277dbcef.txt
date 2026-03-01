@@ -1,0 +1,15 @@
+date: 1783-01-01
+author: Joseph Plumb Martin
+title: A Narrative of Some of the Adventures, Dangers and Sufferings of a Revolutionary Soldier
+role: enlisted
+service: Continental Army
+source_type: memoir
+chunk_id: f4277dbcefce8ca1079c8e10a26f1187de16f814
+chunk_index: 107/115
+campaign_year: 1783
+
+---
+
+CHAPTER IX. Campaign of 1783. When we see th' end of strife and war— And gain what we contended for;— Remember that our thanks are due To HIM whose mercy brings us through.
+
+THE winter set in rather early for that part of the country, and not over gentle. We had a quarters guard and a magazine guard to keep; the magazine was situated on one of the highest hills, or rather ledges, on the island. In a cold northeast snow storm it would make a sentry shake his ears to stand two hours before the magazine. We likewise kept a small guard to protect the slaughter-house, about half the winter, the Invalids kept it the other half. All this made the duty of our little corps (of less than seventy men) rather hard.

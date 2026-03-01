@@ -1,0 +1,19 @@
+date: 1775-11-09
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 61c0c537d8e0e6d52ef20dcddedc71cafc5e3fcd
+chunk_index: 47/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+9
+
+woods, During our stay here, we took a midshipman belonging to a
+frigate in the harbor, who came on shore with several others in a boat,
+to carry away flour from a mill on our side of the river, which is about
+a mile or some better wide. At the city one twenty-eight-gun frigate
+and a sloop-of-war, with some merchantmen, were in the harbor.

@@ -1,0 +1,19 @@
+date: 1775-11-01
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 1336f52d8be787f8b74ecc35f360b49c470a81cc
+chunk_index: 39/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+November 1st.— This morning started very early, hungry and little
+satisfied with our night’s rest. ‘Travelled all day very briskly, and at
+night encamped in a miserable situation, Ilere we killed a dog, and
+we made a very great feast without bread or salt, we having been four
+days without any provisions ; and we went to sleep that night a little
+better satisfied. Our distress was so great that dollars were offered for
+bits of bread as big as the palm of one’s hand.

@@ -1,0 +1,15 @@
+date: 1776-08-29
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 3759259cacb21176decdf788ccf231645b09b915
+chunk_index: 127/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Thursday August 29 this Day Died James Holden of Capt Mans comp
+In Col? Reeds Regt the News to Day in camp is of a battle fought at
+New york but it wants conformation and we regard it not

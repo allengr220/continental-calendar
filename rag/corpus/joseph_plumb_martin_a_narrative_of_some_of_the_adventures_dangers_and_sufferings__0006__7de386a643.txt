@@ -1,0 +1,15 @@
+date: 1776-01-01
+author: Joseph Plumb Martin
+title: A Narrative of Some of the Adventures, Dangers and Sufferings of a Revolutionary Soldier
+role: enlisted
+service: Continental Army
+source_type: memoir
+chunk_id: 7de386a64352d3aeee1486dce073b747d655d8ec
+chunk_index: 6/115
+campaign_year: 1776
+
+---
+
+CHAPTER II. Campaign of 1776. At Uncle Joe's I liv'd at ease; Had cider, and good bread and cheese; But while I stay'd at Uncle Sam's I'd nought to eat but—"faith and clams."
+
+DURING the winter of 1775—6, by hearing the conversation and disputes of the good old farmer politicians of the times, I collected pretty correct ideas of the contest between this country and the mother country, (as it was then called.) I thought I was as warm a patriot as the best of them; the war was waged; we had joined issue, and it would not do to "put the hand to the plough and look back." I felt more anxious than ever, if possible, to be called a defender of my country. I had not forgot the commencement affair, that still stuck

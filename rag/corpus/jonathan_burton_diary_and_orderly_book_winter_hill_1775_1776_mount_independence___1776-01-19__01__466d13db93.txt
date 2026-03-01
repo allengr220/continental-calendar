@@ -1,0 +1,21 @@
+date: 1776-01-19
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 466d13db93f51134df0e61fcd2f90211a5c3dc8b
+chunk_index: 58/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+19
+
+Punished as Desarters, The Col and commanding officers of Rig" or
+corpes are Positively ordred not to permit any men Furloughs or Leave
+of absence to any officer Non commisioned officer or Solder, any former
+permition heretofore given Notwith Standing His Excelency therefore
+Expect Every Col? and commanding officer of Rig" and corps will Direct
+all those absent from their Rig or corps to pay Strict obidence to this
+order that no person may plead or be allowd to plead Igronance, Thereof

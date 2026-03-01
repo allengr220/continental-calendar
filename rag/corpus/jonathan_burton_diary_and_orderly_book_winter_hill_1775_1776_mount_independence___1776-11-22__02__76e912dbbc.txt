@@ -1,0 +1,15 @@
+date: 1776-11-22
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 76e912dbbc05526bb1829b7257128ad7a421a438
+chunk_index: 165/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Tuesday Nov' 26 I Set of from my Lodging about two hours before
+day and about Sunset T crosed the greate River and got into N° 4 that
+Evening and Log* at M" Bakers

@@ -1,0 +1,21 @@
+date: 1775-07-03
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 495c9b9f2dc281249cbc1c988038839b37ff55ed
+chunk_index: 163/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+3 Eniign plats
+
+Fetigue 6 Lev1 Router
+
+Meeting picq1 3 Le1 galop
+
+Camp guard 4 Lev1 Collin
+
+Quarter guard o

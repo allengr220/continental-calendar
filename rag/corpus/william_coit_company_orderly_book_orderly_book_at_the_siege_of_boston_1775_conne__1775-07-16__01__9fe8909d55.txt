@@ -1,0 +1,18 @@
+date: 1775-07-16
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 9fe8909d5533440c302e830422812f4ed600fcf6
+chunk_index: 109/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Head Quarters Cambrigde July 16th 1775
+
+Parole, Carolina Counterfign Springfield 
+The Continnetal Congrefs having Earnftly Recom- 
+ended that thurfday Next the twenthth InP Be obferved 
+by the Inhabents of all the Inglish Coloneys upon this

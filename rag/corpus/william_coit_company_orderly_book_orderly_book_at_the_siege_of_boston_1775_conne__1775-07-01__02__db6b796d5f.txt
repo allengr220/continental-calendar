@@ -1,0 +1,24 @@
+date: 1775-07-01
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: db6b796d5f471142fc6cc57595f526d9f723b433
+chunk_index: 95/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+. Notwithftanding the orders of the Provential Congrefs 
+Some perfons are So Dairing as to Suply the Soldiers 
+with Immoderate quantitys of Rum &amp; other Speiratus 
+Licquers any Seller tavern keeper or Lifanced Inholder 
+who Shall Prefume after the Date of this orders to Sell 
+to Any Non Commifioned officer or Soldir Any Spiritus 
+Licqures whatever without an orders in Writing from 
+the Cap1 of the Company to Which Such Noncomifsiond 
+Officer or Soldier Belongs he or they So offending May 
+Expect to be Severly punihed
+
+Lev1 Coln Ward Presadant of the Court Martial

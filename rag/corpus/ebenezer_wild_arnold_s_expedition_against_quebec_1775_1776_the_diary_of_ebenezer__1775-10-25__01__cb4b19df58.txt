@@ -1,0 +1,14 @@
+date: 1775-10-25
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: cb4b19df588afc1ae136457b09568c070c517451
+chunk_index: 31/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+25th. — Snowed all night; very cold this morning, Pushed over
+two carrying-places. Got forward eight miles to-day.

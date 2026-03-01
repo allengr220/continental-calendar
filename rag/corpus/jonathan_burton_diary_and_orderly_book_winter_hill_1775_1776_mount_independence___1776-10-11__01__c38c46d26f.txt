@@ -1,0 +1,22 @@
+date: 1776-10-11
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: c38c46d26fa64e8569ef4f3d8e6640150f7878bf
+chunk_index: 142/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Fryday october 11" 1776 Six of our company got a Discharge from
+the army Viz.
+
+rene nae 1 aa i RS a AE Kae aa gage ee
+rt i a sec mee sda
+
+34
+Serj’ Vikrey Henry Stevens
+Levi Lund Isaac Peabody and
+Elezar Readin Archelaus Putnam

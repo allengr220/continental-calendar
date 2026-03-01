@@ -1,0 +1,21 @@
+date: 1775-07-08
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: f1f45f10cb86fb7ad47a105c1eb6f51d2beaeb16
+chunk_index: 183/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+8o
+
+Millatary Capasaty the Genor1 approves of Both Sen- 
+tances and orders the Commanding officers of the Regm1 
+to See the prisoners Dismifed from the army
+
+July* 3d 1775
+
+Detaile C S S C Privits

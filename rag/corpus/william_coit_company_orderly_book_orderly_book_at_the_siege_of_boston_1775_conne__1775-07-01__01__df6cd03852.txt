@@ -1,0 +1,18 @@
+date: 1775-07-01
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: df6cd0385224d79a69d778f8de2102a9cbed7341
+chunk_index: 60/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+1st the Adjutant of Each Regment is Requird To take 
+Spefial Caire that all General orders are Communicated as 
+well to the privit men as to the officers that there may be 
+no Plee of Ignorance thy will be Deemed Anfwerable 
+for all Confequinces Which may Follow from any Neg- 
+lect of these orders

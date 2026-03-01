@@ -1,0 +1,14 @@
+date: 1776-08-26
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 04c1399c2995f076f5a3f0643b6f674a090de8bb
+chunk_index: 124/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Monday August 26" this Day Proved to be Rainey all Day I being
+unwell made it uncomfortable for me—

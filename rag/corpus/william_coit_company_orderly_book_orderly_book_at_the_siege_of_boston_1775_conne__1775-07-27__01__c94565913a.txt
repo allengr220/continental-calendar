@@ -1,0 +1,26 @@
+date: 1775-07-27
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: c94565913a171148d8548c6f73a3d151a4f92244
+chunk_index: 151/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Cambrigde head quarters July 27th 1775
+
+Parole Bedford Countersign Guilford
+
+John Trumble Esqr Being apointed adeCamp to his 
+Exelancy the Commander in Chief he is to be obeyed 
+as Such
+
+A Court of Inquire to set to morrow morning at 8 
+oclock in the tuters Chamber Mr halis to Examin into 
+a complaint Exhibeted upon oath in the publick News 
+papers againft Mr Benjamin Whiting now a prisoner in 
+the Colege all Evedance and perfons Confemed to attend 
+the Court

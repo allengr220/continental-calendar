@@ -1,0 +1,15 @@
+date: 1778-01-01
+author: Joseph Plumb Martin
+title: A Narrative of Some of the Adventures, Dangers and Sufferings of a Revolutionary Soldier
+role: enlisted
+service: Continental Army
+source_type: memoir
+chunk_id: c9d4dcfea3fa0fca1eb327e67a1fdcbc4e92c4dc
+chunk_index: 41/115
+campaign_year: 1778
+
+---
+
+early in the morning before the people of the house were stirring, consequently did not know or see the woman's chagrine at having been overreached by the soldiers. This day we arrived at Milltown, or Downingstown, a small village half way between Philadelphia and Lancaster, which was to be our quarters for the winter. It was dark when we had finished our day's march. There was a commissary and a wagon-master-general stationed here, the commissary to take into custody the provisions and forage that we collected, and the wagon-master-general to regulate the conduct of the wagoners and direct their motions. The next day after our arrival at this place we were put into a small house in which was only one room, in the centre of the village. We were immediately furnished with rations of good and wholesome beef and flour, built us up some births to sleep in, and filled them with straw, and felt as happy as any other pigs that were no better off than ourselves. And now having got into winter-quarters, and ready to commence our foraging business, I shall here end my account of my second campaign.
+
+CHAPTER IV. Campaign of 1778. A serene and cloudless atmosphere Betokens that a storm is near; So when dame Fortune proves most kind,— Be sure, Miss-Fortune's close behind.

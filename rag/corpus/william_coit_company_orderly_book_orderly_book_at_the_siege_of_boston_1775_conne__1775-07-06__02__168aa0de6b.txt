@@ -1,0 +1,31 @@
+date: 1775-07-06
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 168aa0de6bc579334c5d38980abd8a8df8aba82c
+chunk_index: 137/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+the Surgan of Every Regm* in the Lines Redouts or 
+in or Near Cambrigde to Diliver to morrow at twelve at 
+Noon to the adjutant Gen11 at head quarters an Exact 
+Return of the Sick in the Regm1 they Belong to the 
+Names Ranks and Disorder of Each officer noncom- 
+mifioned officer &amp; Soldier to be Mentioned in the 
+Return, the Return of the Surgans of the Corps Sta- 
+tioned in or Near Roxbury to be Maide to the Com- 
+mander Gen11 at Roxbury tufday noon in the Maner 
+and Form Dere&amp;ed by the above orders, and the Gen11 
+Commanding at Roxbury will tranfmitt them to head 
+Quarters on wenfday at orderly times
+
+Head Quarters Cambrigde 25th 1775
+
+Parole Halefax Counterfign York 
+Field officer of the Day to Morrow Ll Co1 Robarson 
+For the Main Guard to Morrow Majr woods 
+adjutant of the Dayto Morrow Gibbs

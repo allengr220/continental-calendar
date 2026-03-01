@@ -1,0 +1,25 @@
+date: 1775-06-07
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: df144611e4ad097f6bc251df79cd86142e45dfef
+chunk_index: 10/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+June 7th 1775
+
+Regmential orders
+
+That the Commanding officers of Each Regment De- 
+tachment &amp; Company make out a Compleat Return of 
+the Numbers in his reipe&amp;ive Regment Detachment and 
+Company the Number of arms Sutiable for Servic and 
+how Many Rounds Each Man is furnished with
+
+^ Samuel Ofgood Majr of Brigade
+
+«7

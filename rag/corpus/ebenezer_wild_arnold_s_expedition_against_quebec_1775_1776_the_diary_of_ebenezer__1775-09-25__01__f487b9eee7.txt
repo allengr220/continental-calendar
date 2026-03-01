@@ -1,0 +1,13 @@
+date: 1775-09-25
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: f487b9eee7908f073de63f836238bd78455b1cca
+chunk_index: 11/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+25th. — Embarked on board our bateaux, and arrived at Fort Halifax in the evening of the 26th.

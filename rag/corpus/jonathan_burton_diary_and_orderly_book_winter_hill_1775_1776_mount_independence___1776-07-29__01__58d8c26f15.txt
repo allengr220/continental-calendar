@@ -1,0 +1,13 @@
+date: 1776-07-29
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 58d8c26f151f13910f9c7a28039c28754045b4c6
+chunk_index: 99/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Monday July 29" four companyes of our Reg* and four of Col? Winships Rec* order for Marching

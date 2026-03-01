@@ -1,0 +1,16 @@
+date: 1776-10-27
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 2f2a4c612ff66a7f93280bf9f5398233304ebab8
+chunk_index: 156/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Sunday October 27" 1776 we had the News in camp of a Victory won
+caused by the Continental Troops over the Britans at New york.—In the aftert mid- noon there was an Alarm in camp ocasioned by Some boats being Dist outa covered Down the Lake This Day Ensign Gillmore of our company
+home got his Discharge from the Army—
+to Re- f

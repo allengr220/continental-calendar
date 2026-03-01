@@ -1,0 +1,24 @@
+date: 1775-06-10
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 626942fffe76df979b4c595337151178a66cdab7
+chunk_index: 13/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders June 10th 1775
+
+Parole Northfield Counterngn Brimfield 
+Field officer of the Day to Mor Colo" Gerish
+
+Field officer of the picquit Night Maf Butrick 
+Field officer of the Main guard to Morw Morning
+
+Lev4 Colo11 Bracket
+
+Adjutant of the Day to Morrow Febdiget [Febiger] 
+Draught of Cap* Coit Company l Serf 1 Corperal &amp;

@@ -1,0 +1,17 @@
+date: 1776-01-04
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: bd93e3686665688d479c7351fe42ec70b5349400
+chunk_index: 35/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Head Q™ January 4 1776
+
+Parrole Amstradam Countersign Dewitt
+
+Camp on Winter Hill January 4 174

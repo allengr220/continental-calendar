@@ -1,0 +1,14 @@
+date: 1776-10-18
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 774d9d03eb90002a4f56393b4629f06f5e8b26b6
+chunk_index: 149/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Fryday october 18 was a very Raney all Day Nothing Meterial
+hapned In camp worthy of Notice

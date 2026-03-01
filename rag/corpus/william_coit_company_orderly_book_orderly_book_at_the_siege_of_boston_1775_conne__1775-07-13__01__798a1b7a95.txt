@@ -1,0 +1,34 @@
+date: 1775-07-13
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 798a1b7a95c82b4f4150aaef85e6e69fd78db934
+chunk_index: 83/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+13th .
+
+In orders that all the Sick &amp; the wounded may be 
+Provided for and taken Care of in the Beit way and 
+manere posable it is orderd that when any Officer or 
+Soldier is So ill Eather by A wound [or] otherwile that 
+the Surgan of the Regm* to which he Belongs finds he 
+Cannot be properly taken Care of in Such Regm* Such 
+Surgan Send him to the Camp hofpitale to which they 
+Belong with a Certificate of the mens Name the Com- 
+pany And Regment to which he Belongs and in that 
+Cafe the Surgan of the hofpittle Shall Rcieve Sad Sick 
+and wounded and in Cale Such hospittle Shall be tow 
+full in that Cafe the Surgan of Said hospittle Shall Send 
+Such of his patiants as may be Removed with Safty to 
+the hospittle at Watertown with the Like Certificat as 
+above on which the Surgan of watertown hospittle Is to 
+Receve and take Care of him
+
+Finas
+
+41

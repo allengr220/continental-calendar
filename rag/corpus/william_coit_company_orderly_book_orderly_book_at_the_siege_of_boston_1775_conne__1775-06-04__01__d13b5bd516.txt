@@ -1,0 +1,26 @@
+date: 1775-06-04
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: d13b5bd5163b885827bfde7e49ec444f106763b8
+chunk_index: 7/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+June 4th 1775
+
+Parole Beverly Counterfign Rowly 
+Field Officer of the Day to Morrow Colo" Wood- 
+brige
+
+i6
+
+Officer of the Picquit to Night Butterik 
+Field officer of the Main Guard to Morrow M. Le1 
+Co1 Parker
+
+Field officer of the Fitigue Majr Putnam 
+Adjutant of the Day to Morrow Montague

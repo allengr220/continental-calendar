@@ -1,0 +1,28 @@
+date: 1775-07-14
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: d315ba18983e88aa94b62bbf66c7910c99437be2
+chunk_index: 104/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+48
+
+Coulard Ribband Wore in the Like Maner the Adecamps 
+by a Green Ribband
+
+A Courtmartial of which Colo11 ward was prefadant is 
+Deiblved Daniel Carmil of Colo" Patterfons Regment 
+Tryed for Disobadance orders in Reinlisting and taking 
+Advance Money twife over and for Drunkenefs is found 
+Guilty of the Several Charges and ordered to Be whipt 
+on the Bare Back with 39 Lashes and Discharged from 
+the army
+
+The General approves the Judgment and orders it to 
+Be Executed to Morrow morning at the head of the 
+Regment he Belongs to

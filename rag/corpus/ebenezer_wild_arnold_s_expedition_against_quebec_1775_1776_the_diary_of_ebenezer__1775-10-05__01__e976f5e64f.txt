@@ -1,0 +1,15 @@
+date: 1775-10-05
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: e976f5e64f31422ec4e0bf2eac96e5f5a41052e4
+chunk_index: 19/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+5th, 6th, and 7th. — Pushed up to the head of the Kennebec, where
+we carried out into a pond. These three last days we came about
+twenty miles.

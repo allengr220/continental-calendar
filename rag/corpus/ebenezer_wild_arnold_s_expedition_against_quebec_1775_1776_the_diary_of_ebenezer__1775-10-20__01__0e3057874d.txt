@@ -1,0 +1,13 @@
+date: 1775-10-20
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 0e3057874dc31570507513bafd9de57261a5174c
+chunk_index: 28/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+20th, 21st, and 22d.— Were detained in our tents by heavy rains.

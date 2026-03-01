@@ -1,0 +1,14 @@
+date: 1776-08-12
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 163b368515d898af397d020ce11c61bdd36a1720
+chunk_index: 110/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Monday August 12" this Day we Begin to be very busy in fixing to
+Build our camps and went over the bay after bark to cover the Roof,

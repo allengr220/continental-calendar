@@ -1,0 +1,23 @@
+date: 1775-07-03
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 7b5755e5893522a55edef4d6322691df4b078da2
+chunk_index: 201/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+3
+
+Main guard Enfign Wade
+
+Freeman 5
+
+quarter guard Enfign adams
+
+0
+
+Fatigue Lev1 Darrow

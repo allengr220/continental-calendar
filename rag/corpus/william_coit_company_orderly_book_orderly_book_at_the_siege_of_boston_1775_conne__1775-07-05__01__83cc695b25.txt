@@ -1,0 +1,23 @@
+date: 1775-07-05
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 83cc695b254b8b2680dc44e4004bb369af428b3d
+chunk_index: 213/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+5. Whatever Prisoners you may take you are to 
+treat with Kindness &amp; Humanity as far as is consistent 
+with your own Safety, their private stock of Money &amp;
+
+94
+
+Apparel to be given them after being duly searched, &amp; 
+when they arrive at any Port you are to apply to the 
+Committee or to any officer of the Continental Army 
+Stationed at such Port for a Guard to bring them up to 
+Head Quarters.

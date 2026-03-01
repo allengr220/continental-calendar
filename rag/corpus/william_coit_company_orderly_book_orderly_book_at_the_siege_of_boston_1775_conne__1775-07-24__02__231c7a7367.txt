@@ -1,0 +1,28 @@
+date: 1775-07-24
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 231c7a7367d062f08fba007dbb1ed2b0dcd52f05
+chunk_index: 135/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+as any Atempt of the Enamy From the Late Disapoint- 
+ment may have the Rashnefs or hardnels to make an 
+atempt it will be Violent and Suden the Gen11 Expeds 
+the officers and soldiers Will be not only Refelute But 
+alart to Defeet [it] and in perticuler he Inforfes his orders 
+to Every officer upon no Account Duty Excepted to 
+Lay out of Camp But upon Every Ocation to shew by 
+there Example that Acdivaty and Couarge to Defeat 
+the Interprifing Enamy and notwithstanding the orders 
+of the 1 1th Inst Exprefsly Forbiding all officers and 
+soldjers from Quiting there Guard before they are 
+properly Releafed and Dismifsed, the Gen11 is Informed 
+Such [un]Soldier Like pradices is still Commited he 
+therfore orders that officrs &amp; noncommifioned officers 
+not to Suffer any perfon to Ouit there guard upon any 
+pertence

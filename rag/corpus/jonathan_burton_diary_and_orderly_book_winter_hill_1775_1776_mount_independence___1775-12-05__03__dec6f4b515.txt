@@ -1,0 +1,17 @@
+date: 1775-12-05
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: dec6f4b515a3440f4597d5d9b986e689bdef83b6
+chunk_index: 24/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Camp on Winter Hill Jan’ 1, 1776
+Brigedir Gen! Sullivans orders
+Field officer of the Day Tomorow Col? Nixon
+Adj Peabody Field officer of the Piquet
+Col? Starks Major Coburn Piquet within the Lines to night

@@ -1,0 +1,20 @@
+date: 1776-01-21
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 121bc7d249a1611dbbe0c31537ea0451a329ee14
+chunk_index: 71/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Adj' Person—Field officer of the Piquet
+
+Lt Col? Nixon—Piquet within the Lines to Night Col? Poors Rig™
+Piquet on Ploughd Hill Main and Magizine Gard
+
+Gard Col? Reed 1-1-2-2-59 Prs
+
+Camp on Winter Hill Ja" 17, 1776

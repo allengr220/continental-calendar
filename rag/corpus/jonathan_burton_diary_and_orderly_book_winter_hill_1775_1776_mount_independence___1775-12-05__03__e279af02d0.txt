@@ -1,0 +1,17 @@
+date: 1775-12-05
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: e279af02d0c1095763555233eb4e6c47b365c558
+chunk_index: 7/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+caS Sc
+Piquet on Plough® Hill Col? Reet 1-2-2-3-52
+The Court of Enquiry whereof Col? Nixon is President to Set Tomorrow
+at 9g oclock A. M. Upon Cap! Marcey &amp; all concerned to attend at Col?
+Nixons Barrak

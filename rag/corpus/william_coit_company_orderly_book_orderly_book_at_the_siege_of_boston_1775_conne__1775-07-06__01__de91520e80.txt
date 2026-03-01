@@ -1,0 +1,21 @@
+date: 1775-07-06
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: de91520e805ce075856de48b13d3d47a8d22e0d0
+chunk_index: 136/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+6i
+
+Care to be taken that the men are Suplied with pro 
+vinon before they mount the Guard Report being Maid 
+this morning to the Gen11 that the Main guard Room is 
+keep* abominable Filthey and Durty that for the Future 
+no Commanding officer is to Releve another upon that 
+Guard untill he is Afuered that the officers and mens 
+apartments are Cleaned &amp; in Deafant orders

@@ -1,0 +1,14 @@
+date: 1776-01-09
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 55baf48b4ce29ffd42ec2e2caa113ee9a62cc786
+chunk_index: 63/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+9th to 12/h. — Very wet and snowy; the storm very heavy. Three
+men were stifled to death on duty.

@@ -1,0 +1,15 @@
+date: 1776-10-19
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 52f104d6326c546bbee609e5a89daf7e0a07d649
+chunk_index: 150/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Saturday october 19" there was greate Preperations Making In the
+camps (Expecting that the British Troops would come in on the morrow.) That we Might be Readey for the Reception of those Enemies
+whenever they come to Desturbe us

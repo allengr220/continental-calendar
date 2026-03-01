@@ -1,0 +1,21 @@
+date: 1775-06-28
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 0db11f97c04e526a6ceee45c9c8061787b3263c1
+chunk_index: 40/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders 28th June 1775 
+Parole Swanzey Counterfine Dartmouth 
+Field officer of the Dav to Morrow Coln Prescott 
+of the Picquit Captains
+
+of the Main Guard to Morrow Majr Johnnot 
+Adjutant of the Day to morrow Green 
+Draught of Cap1 Coits Companyany for Leachmeers 
+point 1 Subateran 1 Serjant 1 Coparl and 30 privits

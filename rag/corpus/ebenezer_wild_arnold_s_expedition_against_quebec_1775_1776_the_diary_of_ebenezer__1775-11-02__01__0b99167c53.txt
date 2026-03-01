@@ -1,0 +1,24 @@
+date: 1775-11-02
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 0b99167c53f52a424de2f3b7e20a100d93aaced6
+chunk_index: 40/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+2d. — This morning when we arose, many of us were so weak that
+we could hardly stand; we staggered about like drunken men, — Iowever, we made shift to get our packs on our backs, and marched off,
+hoping to see some inhabitants. ‘This night a small stick across the
+road was sufficient to bring the stoutest to the ground. In the evening
+we came in sight of the cattle coming up the river-side, which were sent
+by Colonel Arnold, who had got in two days before. Jt was the joyfullest night that ever I beheld, and some could not refrain from crying
+for joy. We were told by the men who came with the cattle that we
+were yet twenty miles from the nearest inhabitants. Ifere we killed a
+“ereetur,” and we had some coarse flour served out, with straws in it
+an inch long. Here we had a noble feast, and some of the men were
+so hungry that before the “creetur” was dead the hide and flesh were
+on the fire broiling.

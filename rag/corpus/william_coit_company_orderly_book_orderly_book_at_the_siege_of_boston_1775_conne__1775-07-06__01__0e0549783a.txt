@@ -1,0 +1,17 @@
+date: 1775-07-06
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 0e0549783ac6c50f3b9d80b855f4cb4329af91bf
+chunk_index: 66/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders July 6th 1775
+
+By his Exalency General Washingtown
+
+Parole Dorchelter Counterfign Exeter

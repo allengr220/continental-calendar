@@ -1,0 +1,15 @@
+date: 1776-01-08
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: c0035f3292a2d2d5b3575313a0ae190e04273592
+chunk_index: 58/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+8th to 15th. — The general sent for a list of the occupations of the
+prisoners. ‘The small-pox is very plency with us. Captain Hubbard
+died with the wound he received in coming in.

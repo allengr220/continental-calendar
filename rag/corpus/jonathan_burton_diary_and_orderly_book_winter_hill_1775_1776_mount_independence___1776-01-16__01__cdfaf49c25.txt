@@ -1,0 +1,16 @@
+date: 1776-01-16
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: cdfaf49c25cd7b272c994b3480ff7e11c284e5c1
+chunk_index: 47/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+16
+
+Head Quarters Jan’ 9 1776
+Parole Knolten Countersign Charlstown

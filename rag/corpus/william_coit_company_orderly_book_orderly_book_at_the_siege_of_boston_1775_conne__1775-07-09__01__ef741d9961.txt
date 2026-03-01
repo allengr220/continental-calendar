@@ -1,0 +1,33 @@
+date: 1775-07-09
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: ef741d99617a43d92f9da4f1f6e749ee48c69f62
+chunk_index: 188/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+9
+
+82
+
+Command the Covering party &amp; a Field officer from 
+Conne&amp;icut Command the Fetigue Party Colo11 Walkers 
+Rgmt To Send 40 men For Each party the other Regmts 
+to Send the Same Number as orderd the Night before 
+Last
+
+For Fetigue To Night Cap1 gale Lev* Eldrige Enfign 
+Nevens
+
+Cambrigde Head quarters 4th Auguit 1775
+
+Parole London Counteriign Iceland
+
+it with Indignation and Shame the Gen11 obferves that 
+notwithstanding the Repeated orders which have Ben 
+Given to pervent the Firing of guns in and about the 
+Camp that it is Daily and hourly Pratised

@@ -1,0 +1,15 @@
+date: 1775-07-05
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: a82bca99b73812a86d9312d58c93ae5f3113ef2d
+chunk_index: 75/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+5th the Adjutant General is Required to make a 
+Retun as Quick as pofable of the Troops in Cambridge 
+there Number and the Duty they Due

@@ -1,0 +1,18 @@
+date: 1776-05-09
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 645049db22af6144675cd205e9ed7ac020ccebac
+chunk_index: 77/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+9th to 14th, — Three ships and three brigs came in. There were
+Six prisoners put in with us, taken stealing about. One company set
+out for Montreal.
+
+l4th to 19th. — Two ships went out, one of them a packet for
+England.

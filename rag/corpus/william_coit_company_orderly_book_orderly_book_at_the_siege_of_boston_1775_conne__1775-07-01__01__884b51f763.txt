@@ -1,0 +1,35 @@
+date: 1775-07-01
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 884b51f763d1e18eb008455cc039215f024db1d0
+chunk_index: 94/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Head Quarters Cambrigde July 1 1th 1775
+
+Parole Guilford Counterfign Hartford
+
+Officer of the Day to Morrow Coln Glover
+
+officer of the Main Guard Majr Wood
+
+Adjutant of the Day Harday 
+General orders
+
+the Courtmartial of which Colo11 William Prescott 
+was Presadant is Defolved and A General Courtmartial 
+to be Afembeled at Cambrigde as Soon as posable to 
+try Such Parfons as Shall be Brought before them all 
+Evedance and persons Concerned to attend the Court 
+the General underftanding there is a bad Cuftom Pre- 
+vailing in the Non Commifiond officers and Solders 
+abfinting themfelfes from Guard under the Pretence 
+of Going for provifions it is therefore ordered that all 
+officers &amp; Soldiers Bring there provifions to the Guard 
+they Mount &amp; on no pretence quit there guards untill 
+Regulurly Dismifsed

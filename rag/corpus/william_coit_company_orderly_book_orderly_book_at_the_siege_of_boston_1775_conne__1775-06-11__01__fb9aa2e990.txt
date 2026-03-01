@@ -1,0 +1,30 @@
+date: 1775-06-11
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: fb9aa2e990a588ebbdb3d9994765da7462ac2bf8
+chunk_index: 14/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders June 11th 1775
+
+Parole Glyn Counteriign Wilkes 
+Field Officer of the Day to Morw Colo11 Manffield 
+Field Officer of the Picquit to Night Majr putnam 
+Field Officer of the Main guard to Morw Morning
+
+Lev1 Colo" Clark
+
+Field officer of the Fitigue to Morrow Maf poor
+
+Adjutant of the Day to Morrow Putnam
+
+Draught of Cap1 Coits Company
+
+one Serf and 5 men for the picquit guard to Night
+
+ten Men for the Main guard to Morrow Morning

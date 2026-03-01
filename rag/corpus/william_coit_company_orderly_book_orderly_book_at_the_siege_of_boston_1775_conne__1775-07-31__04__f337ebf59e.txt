@@ -1,0 +1,25 @@
+date: 1775-07-31
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: f337ebf59e102b718fa207eaccb8d3bd10a18c4e
+chunk_index: 172/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Regmential orders 
+Notwithftanding Former orders For making Return 
+of the Number of tents in Each Company in the Reg- 
+ment [there are] Great Complaints that more tents are 
+in the Company or in the posestion of Idevideals Be- 
+longing To the Companys then the Number Returned 
+it is therfore orderd that the Commanding officer of 
+Each Company Forthwith Mak a Return under his 
+own hand of the Number of men in there Respective 
+Companys and of the Number of tents in there Re- 
+spective Companys or of any Noncomifiond officer or 
+soldier in there Company that Equil Juftus may be 
+Don to the Companys Respecting the tents

@@ -1,0 +1,23 @@
+date: 1775-07-06
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: a0adcade750dddf17696aaba8512afb24a4898af
+chunk_index: 214/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+6. For your own Encouragement &amp; that of the other 
+Officers &amp; Men to Activity &amp; Courage in the Service 
+over and above your Pay in the Continental Army, you 
+shall be entitled to one third Part of the Cargo of every 
+Vefsel by you taken &amp; sent into Port (military &amp; naval 
+Stores only excepted, which with the Vefsels &amp; Apparel 
+are reserved for the Public Service) which said third 
+Part is to be divided among the Officers &amp; Men in the 
+following Proportions.
+
+Captain 6 shares

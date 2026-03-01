@@ -1,0 +1,17 @@
+date: 1776-05-19
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 6d06611e6bd00d944285139af9bbf69c019fe8a2
+chunk_index: 78/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+19th to 28d.— One ship and a number of small crafts came in.
+
+Thirteen prisoners enlisted into the King’s service. One ship sailed out,
+
+o

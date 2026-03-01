@@ -1,0 +1,24 @@
+date: 1775-07-15
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: db451524279c516c0cb22cdfa64ab15351a62e48
+chunk_index: 105/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Head Quarters Cambrigde July 15th 1775
+
+Parole Verginia Counterfign Meryland
+
+The Commanding officer of each Regment to Report 
+the Names of Such Men in there Refpe&amp;ive Corps as 
+are most Expert in the Managment of Whale Boats 
+when any Comminoned or Noncominond officer is Sent 
+upon any Datachment or duty of honour or Fetigue or 
+to See the Execution of Any Perticuler work he is Soon 
+as the Service is preformed to Make a report thereof to 
+his Commanding officer

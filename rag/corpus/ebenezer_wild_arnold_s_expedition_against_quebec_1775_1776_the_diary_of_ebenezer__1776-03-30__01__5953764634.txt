@@ -1,0 +1,23 @@
+date: 1776-03-30
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 59537646343aa160c7fae7c60fe00ff4cb355799
+chunk_index: 71/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+30th and 31st. — Most of the prisoners consulted together to break
+out of prison, and to try their best to take the town ; but as one of the
+prisoners was cutting away some ice at the cellar door, in order to have
+it handy to open in a moment to fo out at, the sentry standing near
+and hearing the cutting acquainted the officers of the guard, who acquainted some other officers. They, coming in, inquired who was
+cutting at the door, and what they were upon. One of the prisoners
+informed them of all the transaction that was going forward. The
+officers searched all the rooms in the prison and every man’s pack to
+see if they could find any arms or ammunition, for they supposed
+some of the people in the town had supplied us with arms and ammunition, but they could not find any such things with us. At this, we
+were all put into strong irons.

@@ -1,0 +1,19 @@
+date: 1775-07-07
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 6aa30efbe82a7f84d1ed25a90cb4d94b276268f2
+chunk_index: 216/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+7. You are particularly charged to avoid any En- 
+gagement with any Vefsel of the Enemy, tho' you may 
+be equal in strength or may [have] some small advan- 
+tage; the Design of this Enterprise being to intercept 
+the supplies of the Enemy, which will be defeated by 
+your running into unnecefsary Engagements. In this 
+your own Discretion &amp; Prudence must Govern.

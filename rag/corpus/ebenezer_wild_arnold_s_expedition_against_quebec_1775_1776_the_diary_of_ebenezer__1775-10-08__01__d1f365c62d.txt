@@ -1,0 +1,16 @@
+date: 1775-10-08
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: d1f365c62d6e89924aa61ae918228deb11dd38ad
+chunk_index: 38/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+8
+
+hunger and cold and fatigue. Were the captain with the ablest men
+pushed on in order to get provisions to send back for the sick,

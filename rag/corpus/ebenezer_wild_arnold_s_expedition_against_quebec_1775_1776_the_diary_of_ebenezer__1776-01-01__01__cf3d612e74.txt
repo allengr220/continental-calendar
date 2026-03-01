@@ -1,0 +1,14 @@
+date: 1776-01-01
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: cf3d612e74041bd78827f849dac3001f6de2ffb0
+chunk_index: 53/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+Jan. 1, 1776. —In the French convent they gave us some rum
+to drink and some hard bread to eat. Our allowance of provisions was

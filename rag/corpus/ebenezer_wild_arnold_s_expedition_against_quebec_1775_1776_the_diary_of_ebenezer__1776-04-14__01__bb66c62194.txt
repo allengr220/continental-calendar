@@ -1,0 +1,13 @@
+date: 1776-04-14
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: bb66c62194a62eac9a4aafe80546d6b2cb77b2f0
+chunk_index: 73/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+14th to 27th. — It is very sickly with us. The scurvy and lamehess rage very much, occasioned by living on salt provisions,

@@ -1,0 +1,16 @@
+date: 1775-07-06
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 5a9754c20e646f32882e643e0558ebe17e1bdf9a
+chunk_index: 133/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+6o
+
+Colo" Littles Regm1 ommitted in yerfterdyes orders is 
+in Gen11 Greens Brigade &amp; to be potted on profped hill

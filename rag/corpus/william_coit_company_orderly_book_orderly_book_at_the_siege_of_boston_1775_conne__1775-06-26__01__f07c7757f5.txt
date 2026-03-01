@@ -1,0 +1,24 @@
+date: 1775-06-26
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: f07c7757f56a7c8fe0868308fbfe7d1a500dce2b
+chunk_index: 35/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+26
+
+Company all Belonging to and Raised in the Colony 
+of Connecticut are orderd on Every ocation when the 
+Drums Beat to armes Immediatly to Repaire to the 
+Parade Near the Incampment Laid out for my Regment 
+and there form themfelfs and wait for Further orders and 
+it is Further orderd that all the Drums and Fifes in the 
+Regm1 Do there Duty at the proper houres according 
+to the Rules of there Duty in the Camp
+
+Sined By Ifrael Putnam

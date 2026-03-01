@@ -1,0 +1,25 @@
+date: 1775-07-05
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 81ca6fc2f85d8fc841ab5a619ce8527cc6ad5380
+chunk_index: 154/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+5 5 S 151
+
+Main Guard \ TtT&lt; 4
+
+( Lev1 Darrow
+
+Quarter gd .0
+
+Meeting houle g he1 Rayd 3
+
+Fetigue Levt Edmunds Burnam 6
+
+Camp guard Enfign adams .0

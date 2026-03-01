@@ -1,0 +1,31 @@
+date: 1775-07-26
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: aaec84cc4d37f277b3fce4b3cda9d330202f3fa9
+chunk_index: 149/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+it is notwithstanding ye Strict and Repeeted orders 
+given out againft firing small armes it is hourly praticed. 
+all officers Commanding poll Guards and Detachments 
+to be Alart in aprehending all Future tranfgrefsors.
+
+Cap1 Clark of gen11 putnams Regm1 Confind in arreit 
+for Negle6t of Duty when on guard tryed by a General 
+Court Martial is acquited and is Immediatly to be 
+Relefed from his Arreft Luis wood a soldiar In Cap1 
+Norttons Company Colo11 prelcotts Regm* Confined for 
+Abfenting himfelf without Leave and Refufsing to take 
+the oath and threatening to Leave the Army the Court 
+Martial upon the Prifbners pleading Guilty and prom- 
+ising to be Obediant for the future Recommanded him 
+to the Genlls Merfy who was pleafed to pardon the 
+prisoner
+
+67 
+Roxbury after orders

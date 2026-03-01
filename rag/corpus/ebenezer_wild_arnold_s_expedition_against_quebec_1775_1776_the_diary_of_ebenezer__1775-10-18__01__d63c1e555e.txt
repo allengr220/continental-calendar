@@ -1,0 +1,13 @@
+date: 1775-10-18
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: d63c1e555e2fc6996e14be2d12b6121be46d2012
+chunk_index: 26/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+18th. — Rowed up twenty miles, and carried over a small carryingplace

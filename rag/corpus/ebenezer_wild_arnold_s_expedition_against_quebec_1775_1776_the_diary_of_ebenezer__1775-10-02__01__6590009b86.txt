@@ -1,0 +1,15 @@
+date: 1775-10-02
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 6590009b862bb45055ce67a61df5c608f11251da
+chunk_index: 16/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+2d.— This day carried over Norridgewalk Falls one mile and a
+quarter, and then encamped. We felt very uncomfortable this night
+after dragging our boats over roots and rocks and mud.

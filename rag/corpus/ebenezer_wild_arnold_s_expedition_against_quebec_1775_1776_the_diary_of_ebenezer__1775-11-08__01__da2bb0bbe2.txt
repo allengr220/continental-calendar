@@ -1,0 +1,14 @@
+date: 1775-11-08
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: da2bb0bbe2f7bd3333cdfeccabcf413871538147
+chunk_index: 46/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+8th. — Took up our quarters along the river-side until our troops behind could come up. Here we stayed until the 13th. By this time all
+the men alive had come, several having perished with hunger in the

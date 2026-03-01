@@ -1,0 +1,21 @@
+date: 1776-01-06
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 4168d2b55a77c599993765e952ccf4f21651f1a4
+chunk_index: 44/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Camp on Winter Hill Jan 6 1776
+Brigadeer Gen! Sullivans orders
+
+Field officer of the Day Tomorow Major More
+Adj’ Webb—Field of the Piquet Major Hale—Piquet within the Lines
+Col’ Webbs Rigt Piquet on Ploud Hill Colo Reed 1—2—3—3—58
+
+Camp on Winter Hill Jan* 8 1746
+Brigadier Gen! Sullivans orders—

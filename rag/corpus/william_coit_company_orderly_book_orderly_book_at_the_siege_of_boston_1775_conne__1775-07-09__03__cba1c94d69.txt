@@ -1,0 +1,41 @@
+date: 1775-07-09
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: cba1c94d69f2bcc651948197af22b2150cca310f
+chunk_index: 190/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+83
+
+the Commanding officer of Every Regm1 is to Derid 
+that Every man in his Regm1 is Made accquanted with 
+thefe orders to the End that no one may plead Ignor- 
+ance and that all may be apriid with the Consiquences 
+of Disobediance the Colo" of Regmts and the Com- 
+manding officers of Cores to orders the Role of Each 
+Company to be Called twice a Day and Every mans 
+Amunition to Examined at Evening Role Calling and 
+Such as are Found Difficant are to be Confined the 
+Guards are to Aprehend all Perfons Near there Posts 
+whether towns people or Soldiers
+
+Roxbury 5th
+
+Auguit 1775
+
+Datails
+
+C S
+
+S
+
+C
+
+privits
+
+0 4

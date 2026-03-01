@@ -1,0 +1,18 @@
+date: 1776-08-01
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: f7da623a29475df2774ab5716375255d76cd5bdb
+chunk_index: 87/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+IN THE CANADA EXPEDITION, FROM AUG. 1, 1776,
+TO NOV. 209, 1776.
+
+A List of Capt William Barrons Company
+
+r Capt William Barron 35 Peter Honey

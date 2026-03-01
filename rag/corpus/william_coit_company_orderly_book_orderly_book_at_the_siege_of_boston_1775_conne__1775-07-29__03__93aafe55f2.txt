@@ -1,0 +1,29 @@
+date: 1775-07-29
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 93aafe55f2acb0b1036ba5929ec925a3a9dae7fa
+chunk_index: 178/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+one man from Every Company in Every Regm* in 
+the army to be apointed as Camp coleman to Du Per- 
+ticuler Duty it muft be to attend the quarter Mailer 
+&amp; quarter Matter Serjts to Sweep the Streets of there 
+Respective Incampments To Fill up the old Nesesery 
+houfes &amp; to Dig New ones to Bury all awfull Naufances 
+that may poifon and affect the health of the Trops 
+and the quarter Matters to be anfwerable to there Com- 
+manding officers a strict obfervance of this orders by 
+perievering in the Conftant well Doing and untramilled 
+Execution thereof to Remove that Odious Reputation 
+which with But two much Reifon hath Stigmatised the 
+Character of American Troops
+
+the Colons and Commanding officers of american 
+Troops are to be anfwerable to the Gen11 For all Du 
+obediance to thefe orders

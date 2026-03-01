@@ -1,0 +1,18 @@
+date: 1775-06-30
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 93c9974a8387580f7801c5f7c5e34c1d9e205c06
+chunk_index: 43/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders June 30th 1775
+
+Parole Pennsylvinia Countersign Jamaica 
+Field Officer of the Day to Morrow Coln Prefcott 
+Field officer of the Main guard to morrow Morning 
+Lev1 Colo11 Robarion

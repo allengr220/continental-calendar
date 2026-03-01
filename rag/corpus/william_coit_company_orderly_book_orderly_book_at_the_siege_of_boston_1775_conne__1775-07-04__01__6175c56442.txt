@@ -1,0 +1,16 @@
+date: 1775-07-04
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 6175c56442a1c4cb31e960dac41cd8666d31cc05
+chunk_index: 212/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+4. You are to be very particular and diligent in 
+your Search after all Letters or other Papers tending to 
+discover the Designs of the Enemy or of any other 
+Kind, and to forward all such to me as soon as pofsible.

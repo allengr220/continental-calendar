@@ -1,0 +1,21 @@
+date: 1775-07-29
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: ad588be2b5a2e0895eb3facb1bb83aa12f88f1c1
+chunk_index: 176/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+of Reprefentatives watertown July 29th 1775 Whereas 
+Sundry Complaints has Bin Made by ^Sundry Soldiers 
+Raised by this Colony that they have not Reed, there 
+allowance [advance?] pay of Forty Shillings agreeable 
+to the Refolution of provential Congrefs that A Com- 
+mitte be apointed Fourthwith to Apply to the Colon 
+[els] of the Sevarl Regmts Raised by this Colony and
+
+77

@@ -1,0 +1,15 @@
+date: 1775-09-21
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: e8025254291843ce1d2993096facfe60687717d7
+chunk_index: 10/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+21st. — Arrived at Fort Weston [ Western], where we halted for
+some days, and here we were furnished with bateaux and provisions
+for carrying us up the river. Continued here the 22d, 2dd, and

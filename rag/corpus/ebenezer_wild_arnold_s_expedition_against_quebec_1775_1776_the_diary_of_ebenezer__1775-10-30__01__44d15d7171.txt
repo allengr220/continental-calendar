@@ -1,0 +1,14 @@
+date: 1775-10-30
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 44d15d71716feeccba33cbadad28d0344cbd9c16
+chunk_index: 36/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+30th. — At noon were relieved from our miserable situation, and
+made the best of our way through the woods for Chadier [sie].

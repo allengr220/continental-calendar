@@ -1,0 +1,19 @@
+date: 1776-01-02
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: f3ac5ec7a1a073acba39c2d2524d0397f643b349
+chunk_index: 30/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+After order of January 2™4 14476
+
+The men who have ben Draughted for the secrit Expedition are to
+Return to their Duty till further orders yet they are by no means to considder themselves as freed fromthe Obligation they have Laid themselves
+under but upon Proper notice Given are to prepare to Execute the com-
+
+mands that may then be given.

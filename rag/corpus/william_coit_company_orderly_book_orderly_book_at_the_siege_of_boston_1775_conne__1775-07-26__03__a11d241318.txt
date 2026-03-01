@@ -1,0 +1,15 @@
+date: 1775-07-26
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: a11d24131824b620f4e6a784801be1f4648f4d0a
+chunk_index: 150/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+that 16 men upon the hundred march to Dorcheiter 
+Meeting houfe to morrow morning at the Beating of 
+the Revelle to Bring up Whale Boats to Reads Creek

@@ -1,0 +1,13 @@
+date: 1776-01-01
+author: Joseph Plumb Martin
+title: A Narrative of Some of the Adventures, Dangers and Sufferings of a Revolutionary Soldier
+role: enlisted
+service: Continental Army
+source_type: memoir
+chunk_id: 3034fcd9ffd2e652a20bce03ca2927ec82b428f6
+chunk_index: 22/115
+campaign_year: 1776
+
+---
+
+terrors was more potent than king George, for his master had certain intelligence that poor Cuff was laid flat on his back. This man had likewise a negress who (as he was a widower) kept his house. She was as great a doctress as Cuff was a politician, and she wished to be a surgeon. There was an annual thanksgiving while we were here. The sick men of my ward had procured a fine roasting pig, and the old negro woman having seen the syringe that I picked up in the retreat from Kipp's bay, fell violently in love with it, and offered me a number of pies, of one sort or other for it. Of the pig and the pies we made an excellent thanksgiving dinner, the best meal I had eaten since I left my grandsire's table. Our surgeon came amongst us soon after this, and packed us all off to camp, save two or three, who were discharged. I arrived at camp with the rest, where we remained, moving from place to place as occasion required, undergoing hunger, cold and fatigue, until the twenty-fifth day of December, 1776, when I was discharged, (my term of service having expired,) at Philip's manor, in the State of New-York, near Hudson's river. Here ends my first campaign. I had learned something of a soldier's life; enough, I thought, to keep me at home for the future. Indeed, I was then fully determined to rest easy with the knowledge I had acquired in the affairs of the army. But the reader will find, if he has patience to follow me a little longer in my details, that the ease of a winter spent at home, caused me to alter my mind. I had several kind invitations to enlist into the standing army, then about to be raised, especially a very pressing one to engage in a regiment of horse, but I concluded to try a short journey on foot first. Accordingly, I sat off for my good old grandsire's, where I arrived, I think, on the twenty-seventh, two days after my discharge, and found my friends all alive and well; they appeared to be glad to see me, and I am sure I was really glad to see them.

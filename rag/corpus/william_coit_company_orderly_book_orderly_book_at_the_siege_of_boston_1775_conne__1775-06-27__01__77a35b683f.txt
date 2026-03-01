@@ -1,0 +1,25 @@
+date: 1775-06-27
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 77a35b683fbc43efce9c70096efbb5bdbf2f26c9
+chunk_index: 39/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders June 27th 1775
+
+Parole Prefscott Counterfign Dana
+
+Field Officer of the Day to morrow Colo11 glover
+
+27
+
+Officers of the Picquit to Night Captains 
+Field officer of the Main guard to Morrow Majr wood 
+Adjutant of the Day to morrow Gibbs 
+Draught of Capt Coits Company for a Scouting party 
+to Night one Subaltain one Serf 1 Corperl and 30 Privits

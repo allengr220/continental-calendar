@@ -1,0 +1,19 @@
+date: 1775-07-21
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: da83f5c348ac0930db6231378646adbe9829c94b
+chunk_index: 124/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Head quarters Cambrigde 21th July 1775
+
+Parole Maiden Countersign Chelfey 
+officer of the Day to Morrow Colon Johonett 
+officer of the Main Guard to Morrow Majr Woods 
+Adjutant of the Day to Morrow Gibbs 
+Draught of Capt Coits Company for Leachmr Point

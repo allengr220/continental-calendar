@@ -1,0 +1,16 @@
+date: 1776-10-25
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: c7d2e4d1fe219a2d935d48f20b9ee9275eb3b17c
+chunk_index: 154/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+of our Fryday October 25" I was on forteauge in building a brestwork for
+going our Reg'—This Day Died Lieut Hunter of Cap! Parkers comp’ of this
+id was Regt (Belonging to Jaffery)
+ige-in

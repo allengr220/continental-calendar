@@ -1,0 +1,31 @@
+date: 1775-06-21
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 816e7992fff40e32a407b3a152e39c9302ee7678
+chunk_index: 30/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders June 21th 1775
+
+Parole Pomphrett Counterngn Bristoll 
+Field officer of the Day to Morrow Colo11 Wm Pres- 
+cott
+
+Field officer of the Picqutt guard to Night Majr 
+Jackfon
+
+Field officer of the Main Guard to M. Lev1 Colon 
+Baldwin
+
+Adjutant of the Day to Morow Prescott 
+that Commanding officer of Each Regment Detach- 
+ment and Company make a Compleat Return of there 
+Number in there Refpetive Regmls Detachment and 
+Company fit for Duty abfent on Furlow Deferted Sick 
+and wounded in the Lair. Engagment or Mising on a 
+Count thereof

@@ -1,0 +1,33 @@
+date: 1775-07-15
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 90ce64b2f23b2143a6ac0757c98b384311479d74
+chunk_index: 107/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Any officer Noncomiisioned officer or Soldier or 
+Any Perfon whatfoever who is Detected holding Any 
+Couraipondance or Carring on any Converfation with 
+the officers or Centernils of the advancd poft of the 
+Enamy will be Immediatly Brought before A General 
+Court martial and punished with the Utmoft Severity
+
+The General alone is to Judge of the propriaty of" 
+Any Intercoufe with the Enamy and no one Else is to 
+prefume to Interfear
+
+the Chief Enginnier Colo11 Gridley to orders an Engin- 
+nier and a Field officer of arrtillery to Go Round the 
+Lines and Redouts to Examin if the Guns are plafed 
+properly in the ambrufsears and if the ambrufsiers are 
+properly maid and properly Sloaped towards the Country 
+the Enginnier and Artilery officer to Report to the Com- 
+mander Commander in Chief as Soon as they Have 
+Obeyd this orders
+
+Field officer of the Day to Morrow Colo11 Glover

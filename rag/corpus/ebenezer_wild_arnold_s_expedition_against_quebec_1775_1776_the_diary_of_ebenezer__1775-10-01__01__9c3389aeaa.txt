@@ -1,0 +1,15 @@
+date: 1775-10-01
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 9c3389aeaa6080b6958468b97fc5fd5963e81b9a
+chunk_index: 15/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+October 1st. — Pushed up over rocks and shoals, where we were
+many times over head in water pulling the bateaux over; we arrived
+at the third carrying-place in the evening.

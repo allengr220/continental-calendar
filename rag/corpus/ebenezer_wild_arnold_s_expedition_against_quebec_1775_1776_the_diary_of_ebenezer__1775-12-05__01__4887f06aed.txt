@@ -1,0 +1,18 @@
+date: 1775-12-05
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 4887f06aed5c18f5f618993a147ecd2e7e5d19a3
+chunk_index: 51/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+December 5th. — Marched back to Quebec and laid siege to the town;
+continued the siege until the 29th, during which time we took several
+prisoners. Cannonaded and bombarded each other both day and night.
+During these transactions the two men who had been left with Lieutenant MeSolan came to us and informed us that they had buried him
+at the first inhabitant’s, after he had been brought down the river by
+two Indians, hired by Captain Smith for the purpose.

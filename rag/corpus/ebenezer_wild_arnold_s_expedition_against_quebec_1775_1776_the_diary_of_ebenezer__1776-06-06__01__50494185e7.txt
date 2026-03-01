@@ -1,0 +1,24 @@
+date: 1776-06-06
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 50494185e7a684ed52985ccacc7287c6c9f9d0bc
+chunk_index: 83/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+June 6, 1776. A Copy of an Answer sent to General Carleton.
+
+May it please your Excellency : We, the prisoners in his Majesty’s
+jail, return your Excellency our most hearty and unfeigned thanks for
+your clemency and kindness to us, while in prison, being sensible of
+your humanity. We return your Excellency thanks for your offer
+made us yesterday, and having a desire to return to our friends and
+families, we will promise not to take up arms against his Majesty, but
+remain peaceable and quiet in our respective places of abode; and we
+further assure your Excellency that you may depend on our fidelity,
+and we remain your Excellency’s humble servants. Signed in behalf of
+the prisoners.

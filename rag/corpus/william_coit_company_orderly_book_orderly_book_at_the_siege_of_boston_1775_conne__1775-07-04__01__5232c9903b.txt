@@ -1,0 +1,30 @@
+date: 1775-07-04
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 5232c9903b651f0519e7f08c478255303f277c1b
+chunk_index: 186/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+4 5 5 151
+
+Lev1 galop . . Camp Guard . Hill Lathrop o 
+Lev1 Rositer . . Fetigue . . Read Spicer 6 
+Enfign Wade . Main guard . hascoll gates 5 
+Enfign Latham . Metting picquit Douglals Bill 1 
+Quarter guard Wait Burnam o
+
+General orders
+
+Field officer of the Day to Morrow Majr Jacobs 
+Colo11 Danilfons Regrm To Find a Cap1 for Main guard 
+Morrow
+
+Fetigue Party &amp; Main guard as Ufual Colo11 Coton 
+Colo11 Bruers Colo" DaniHbns to Send no Fetigue to 
+Morrow after orders from Geno11 wards that 300 men 
+be Paraded this Night at the work houi'e at 6 oclock &amp;

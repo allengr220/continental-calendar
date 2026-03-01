@@ -1,0 +1,29 @@
+date: 1775-07-02
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 170676d91665ac3f50b4c7c58dfcc18a9315167e
+chunk_index: 61/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+2 article a General Courtmafhill is orderd to Set to 
+Morrow 10 Oclock A.M. For the Tryall of William 
+Pattors* Charged with Leving his post while on Duty 
+and a Sentinal David wells and Gidion Cole for for 
+Sleeping or Leving there post as Senternals John Scot 
+for Infulting the Sentra or attemting to pafs the guard 
+to Bolton James Foster for theft when the Wittnefs is 
+to attend and the partys Charged are to have Notis this 
+Day that they may be prepaired For there Trials
+
+Article 3 the General moft genorally Recomends 
+and Requires of all the officers that they be Exceeding 
+Diligant and Strict in Preventing all Invations of Pri- 
+vit Property in these Quarters or Elsewhere he hopes 
+and Indeed Flatters himfelf that Every Privit Soldier 
+will abhorr and Delist [from] Such pratices when he 
+Confiders that [it] is for the prefervation of his own

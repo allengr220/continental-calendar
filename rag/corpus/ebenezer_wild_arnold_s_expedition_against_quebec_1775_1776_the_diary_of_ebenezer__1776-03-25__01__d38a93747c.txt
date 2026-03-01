@@ -1,0 +1,15 @@
+date: 1776-03-25
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: d38a93747cf808ec852cd83ad74e9202eb7006d3
+chunk_index: 70/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+25th to 30th. — In the night one of the prisoners got out of prison,
+and run to our people. We are in a miserable condition. Having no
+wood, we are almost frozen.

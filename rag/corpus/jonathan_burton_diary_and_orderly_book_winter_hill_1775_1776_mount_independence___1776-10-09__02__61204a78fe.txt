@@ -1,0 +1,18 @@
+date: 1776-10-09
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 61204a78fed8bf60142caed78654c660be00d115
+chunk_index: 163/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+of Mount Independence and our Little camp where we had Rested So
+many Nignts and Days and we march off with the Remainying Part of
+our company and travled about 18 miles and Encamped at a Place
+
+Known by the name of Camp there we Lay our Selves Down to
+Men in rest—

@@ -1,0 +1,19 @@
+date: 1776-01-05
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 675dcb2e4fb0f6e8d49d278a85d52672c7497f20
+chunk_index: 63/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+5 It is Expected that Every officer and Solder in this Rig' Strictly
+observe and obey the Eighteenth and Nineteenth articles in the Book of
+Rules and Goverment of the Troops of North America
+
+Pr James Reed Colo
+Head Qr'* Jan’ 13, 1776
+Parole Conway Countersign Grafton

@@ -1,0 +1,23 @@
+date: 1775-07-09
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 165359716f0a83ada899e9382f8032db18f78b76
+chunk_index: 78/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+9th A Complaint of a moft Extraordeary kind hav- 
+ing bin Maide to the General that Soldiers Inlifted in 
+one Regm* have ben Sedused to Reinlist into others by 
+agents inployed for that Purpofe under the Spacetious 
+promies of money or Leave of Abfance From the army 
+A proceeder Subverfive of all orders Disapline and of 
+the Very Existance of the army Cannot be Forgivin 
+the stricteft orders are therefore Given againft Scuch 
+Pratices and the General moft Eraneftly Declares that 
+if any agant or Soldier Shall hearafter be Found So 
+offending he will punifh them with the Utmoft Severaty

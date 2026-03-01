@@ -1,0 +1,16 @@
+date: 1775-07-02
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 0036b93666c6b1bfc7a5b3c507a222fc53de0dbb
+chunk_index: 72/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+2d Cap1 Scots and Cap1 Stiles Companys from New 
+hamfhire are to be Incorporated or aded to Colo" Ser- 
+gants Regment Agreeable to the aplication Made for 
+that purporfe

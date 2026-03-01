@@ -1,0 +1,22 @@
+date: 1775-04-24
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 77ee49a5959db81d203292b633c3e5735f53b233
+chunk_index: 4/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+that 2 Companys be Datached from the picquit and 
+posted as Follows (Viz) one at Mr Inmans and one at 
+Charleston Rode that the Revaley Beat Every Morning 
+at 4 oclock that at the Beating of the Troop the officers 
+and picquit be Immeadatly Afembeled on the parade the 
+tatoe to Beat Every Eveing at Nine oclock that after 
+ye Beating of the Tatoo there Be a profound Silance 
+through the Camp
+
+"p Adjutant of the Southgate

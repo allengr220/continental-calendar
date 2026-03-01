@@ -1,0 +1,25 @@
+date: 1776-01-03
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 4de0c02665872b75245a900280bfc759f5ab1bba
+chunk_index: 34/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+The companies now Stationed in Cambridge belonging to Col? Prescots Rig' are to march Immeadetly and Joyn their Rigt at Sewals Point,
+the companies now Stationd at Sewals pinte under the command of
+Maj’ Weston are Immeadatly to March and take part at Fort N° 1—
+
+Camp on Winter Hill Jan’ 3" 1776
+Brigadier Gen! Sullivans orders—
+Field officer of the Day Tomorrow Lt Col? Nixon
+Adj‘ of the Day Tomorrow Chandler—
+Field officer of the Piquet Maj More
+Piquet within the Lines Col® Starks Rigt
+ec S S&amp;S cor Privats
+
+on Ploughd Hill Col? Reed 1-2-3-2-57

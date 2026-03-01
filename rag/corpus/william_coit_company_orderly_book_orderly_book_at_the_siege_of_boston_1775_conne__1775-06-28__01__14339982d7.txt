@@ -1,0 +1,19 @@
+date: 1775-06-28
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 14339982d7f3502a38fdbdadf03bd5a77dbc0ebe
+chunk_index: 42/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+28
+
+upon the Plafe of parade for Guard, and other Duty, 
+Perfisly at the time apointed by the adjutant General
+
+For Fitigue of Capt. Coits Company to morrow one 
+Serf l Corparel and twelve Privits

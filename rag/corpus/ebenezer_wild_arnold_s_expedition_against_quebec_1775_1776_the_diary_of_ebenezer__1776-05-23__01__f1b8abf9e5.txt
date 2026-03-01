@@ -1,0 +1,14 @@
+date: 1776-05-23
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: f1b8abf9e57853583c03421599716fccfa623d7d
+chunk_index: 79/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+23d. — Our allowance is one pound of soft bread and one pound of
+beef per day.

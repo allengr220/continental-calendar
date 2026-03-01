@@ -1,0 +1,14 @@
+date: 1776-01-02
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: f3f5fce88b4a35f17d14f84de3e99972a92bdeaa
+chunk_index: 60/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+2:ly the adj‘ is to order a Drum to beat to cale the Solders togeather
+for Role call at 8 o clock in the morning and 4 in the afternoon—

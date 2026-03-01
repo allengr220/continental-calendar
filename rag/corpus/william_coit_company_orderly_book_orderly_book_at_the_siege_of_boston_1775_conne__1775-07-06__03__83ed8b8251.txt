@@ -1,0 +1,27 @@
+date: 1775-07-06
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 83ed8b8251e7a1d19675bd8f22f8f6ac86d9ae0b
+chunk_index: 158/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Field officer of the Day to Morrow Colo11 Danillbn 
+Colo11 Bruer to Find a cap1 the Main guard to Morrow 
+De tales are made out for Main guard to morrow
+
+Detale
+
+c
+
+o 
+Mane guard 
+Meeting houfe 
+Quarter Guard 
+Camp Guard
+
+S

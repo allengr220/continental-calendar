@@ -1,0 +1,14 @@
+date: 1776-10-09
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: d3a31c82578d2e2e4e19c6093088ae986fad6d2e
+chunk_index: 140/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+inesday October 9" 1776 I was on forteauge with a Party of men
+Reg* in the woods Cuting and Carring out Piquets this mornced Will™ Jones of Capt Manns Comp’ In Col? Reeds Reg*

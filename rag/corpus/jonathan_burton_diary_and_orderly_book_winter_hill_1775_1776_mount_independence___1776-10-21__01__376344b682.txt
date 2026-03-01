@@ -1,0 +1,21 @@
+date: 1776-10-21
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 376344b682d3b06ba1eb8555fc27bda1b75bf4c9
+chunk_index: 152/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Monday October 21" the whole of our Brigade fit for Duty was ordered on forteauge in cutting and halling Timber ints the Lake in order
+to build a Boom across the Lake to Prevent the Shiping comeing by the
+fort to Land.
+
+Prather mer tonlat threat bene”
+
+ion’
+
+35

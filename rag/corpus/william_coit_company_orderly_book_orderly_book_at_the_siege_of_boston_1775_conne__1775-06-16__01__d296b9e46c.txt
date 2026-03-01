@@ -1,0 +1,28 @@
+date: 1775-06-16
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: d296b9e46c5cb1af558f8fd7301516b089469e36
+chunk_index: 23/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders 16th June 1775
+
+Parole Leabanon Counteriign Coventry 
+Field Officer of the Day m Colo11 Nixon 
+Field officer of the Picquit Night Majr Brooks 
+Field Officer of the Main guard m. LeP Colon
+
+Hutchfon
+
+Adjutant of the Day to Morrow Holden
+
+Draught Cap1 Coits Company
+
+One Subaltain 9 Privits for the picquit guard one
+
+Serf and seven privits for Advance guard To Night

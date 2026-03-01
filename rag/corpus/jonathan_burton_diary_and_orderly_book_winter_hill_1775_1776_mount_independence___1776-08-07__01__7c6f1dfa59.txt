@@ -1,0 +1,16 @@
+date: 1776-08-07
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 7c6f1dfa59912261d15b0d7b843f1090b3b84f34
+chunk_index: 105/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Wednesday August 7" we built us a new camp and covered it with
+Bark hoping against the next Rain to be a Little more comfortable though
+the flies and gnats ware very troublesome This Day we have Six men
+on command up the River after Boards.

@@ -1,0 +1,17 @@
+date: 1775-07-02
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 80cb4615d461b8e3d18b0475b9c497c4494e7c39
+chunk_index: 86/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+2d
+
+the Commanding officer of each Regm* or Corps in 
+Cambridge as soon as there men are paraded after an 
+alarm to send an officer to head quarters for orders

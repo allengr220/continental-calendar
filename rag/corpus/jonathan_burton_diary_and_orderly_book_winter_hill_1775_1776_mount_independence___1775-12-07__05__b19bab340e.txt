@@ -1,0 +1,18 @@
+date: 1775-12-07
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: b19bab340ed6b7edbb17699fef161bad6b50266e
+chunk_index: 19/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Field officer of the Piquet, L' Col? M*Duffee.
+
+Piquet within the Lines to Night Col’ Webbs Rigement—
+
+Head Quarters Dect 18" 1775
+Parole Leachmore Countersign Sears

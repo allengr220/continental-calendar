@@ -1,0 +1,19 @@
+date: 1776-01-15
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 23d14b995859b0890f5d8561b3e7d8b93da79575
+chunk_index: 43/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+15
+
+fore orders a Total Stop to be put to that Practice, for the future any
+officers, offending will be Immeadetly put in a Rest and Tryd for Disobedance of Orders the Freequant application for flags at Roxbery having
+ben found Very Troubelsom at the Same time attended with Inconvianiences, Major Ge™ Ward is Reposed to Suffer no More than one a Week
+to go in unless it be on Special occation and this to hapex: on Tuesday at
+which time he will appoint a Proper officer to attend—

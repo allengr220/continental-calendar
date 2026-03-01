@@ -1,0 +1,15 @@
+date: 1775-09-28
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: e01163a55a993032ca72921c99d1e9fb74815399
+chunk_index: 13/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+28th. — Pushed up eight miles; the water so bad that the bateaux
+men were obliged to drag the boats up over shoals; in many places
+were up to their chins in water.

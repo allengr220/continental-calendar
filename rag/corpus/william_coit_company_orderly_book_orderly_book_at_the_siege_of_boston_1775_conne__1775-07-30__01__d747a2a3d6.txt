@@ -1,0 +1,16 @@
+date: 1775-07-30
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: d747a2a3d6e80908265795ec9e6522462d5890c6
+chunk_index: 187/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+300 men on the Grand Parade at the Same Time for a 
+Covering Party with Sufficent officers the Fatigue Men 
+to Draw there allowance of Rum Before Night and Each 
+man have his Cantine Full of water that Colo11 Baily

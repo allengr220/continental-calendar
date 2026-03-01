@@ -1,0 +1,14 @@
+date: 1776-10-28
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 619c03abcfddcade09b10bea60be50c45b1cbfb7
+chunk_index: 157/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Monday October 28" 1776 there was an Alarm in the Morning, and
+Some boats was Discovered Down the Lake and Men Landing on the

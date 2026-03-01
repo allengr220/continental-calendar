@@ -1,0 +1,17 @@
+date: 1775-07-12
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 0acf786f00c86b480cd24c664ae68e540860668c
+chunk_index: 58/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Morrow morning who are to Make Due Enquiry Deter- 
+min and Report
+
+Draught Cap1 [Coit's] Company for a scouting party 
+one Subaltain 2 Serf and 30 Privits

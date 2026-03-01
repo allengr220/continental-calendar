@@ -1,0 +1,15 @@
+date: 1776-01-23
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: a336b2a57fdb2fb0465b2c4743cad5917cd61267
+chunk_index: 79/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Field officer of the Day tomorrow L* Colo! M*Fee Adj' Putnam Field
+officer of the Piquet Maj' Colburn: Piquet within the Lines to Night
+Colo! Hutchinsons Regt Piquet Main &amp; magazine Gard Colo! Reed 1:2:

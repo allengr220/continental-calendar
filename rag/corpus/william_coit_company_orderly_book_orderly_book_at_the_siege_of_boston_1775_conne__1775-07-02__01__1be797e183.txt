@@ -1,0 +1,20 @@
+date: 1775-07-02
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 1be797e1831357a00d6244f369d0a2bb4b1565a0
+chunk_index: 210/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+2. You are to proceed as Commander of said schooner 
+immediately on a cruise against such Vessels as may be 
+found on the High Seas or elsewhere, bound inward or 
+outward to or from Boston, in the Service of the Minis- 
+terial Army, &amp; to take &amp; seize all such Vessels laden 
+with Soldiers, Arms, Ammunition or Provisions for or 
+from said Army, or which you shall have good Reasons 
+to suspe6t are in such service.

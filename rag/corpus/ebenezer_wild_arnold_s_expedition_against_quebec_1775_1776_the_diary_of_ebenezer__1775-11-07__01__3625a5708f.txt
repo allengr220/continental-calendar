@@ -1,0 +1,16 @@
+date: 1775-11-07
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 3625a5708f5a47421295243e08dbc5b8c35bc42a
+chunk_index: 45/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+7th. — Marched three [miles]; then halted till night, when a lieutenant was sent forward with thirty men to see if our way was clear.
+Accordingly they marched till near two o'clock in the morning, when
+we halted. We were in sight of Quebec, the river St. Lawrence
+between us and the town.

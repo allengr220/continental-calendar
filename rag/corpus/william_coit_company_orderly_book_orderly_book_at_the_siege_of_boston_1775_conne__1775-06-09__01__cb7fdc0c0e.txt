@@ -1,0 +1,27 @@
+date: 1775-06-09
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: cb7fdc0c0eaa4035acc243efab717b284598e4ac
+chunk_index: 12/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders June 9th 1775
+
+Parole Sunderland Countersign Montague
+
+Field officer of the Day to Morrow Colo11 Nixon .
+
+Do officer of the Picquit to Night Majr Woods
+
+Do officer of the Main Guard to M -M. Le1 Co1 Bond
+
+Do officer of Fitigue to Morrow M. Majr Wood
+
+Adutant of the Day Holdan
+
+from Cap* Coits Comp. 1 Subn 1 Corp1 &amp; 15 privits

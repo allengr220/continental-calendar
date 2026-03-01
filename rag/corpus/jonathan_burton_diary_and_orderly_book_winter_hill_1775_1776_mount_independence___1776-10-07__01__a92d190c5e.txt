@@ -1,0 +1,15 @@
+date: 1776-10-07
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: a92d190c5ee624d09efd1e6c1a197f4317d810dd
+chunk_index: 138/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Monday October 7 This morning Died and at Night was buried Benj
+Baley of our company: who made the 20 which We have Lost from
+our Regt Sence we came to this Place—

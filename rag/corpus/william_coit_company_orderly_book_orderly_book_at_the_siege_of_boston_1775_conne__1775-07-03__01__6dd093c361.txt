@@ -1,0 +1,19 @@
+date: 1775-07-03
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 6dd093c36104f9dde0b685a3daa9121218f3777f
+chunk_index: 73/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+3d No officer or soldier posted in the Lines or for the 
+Defence of them on profped hill or winter hill or Else 
+where are upon any account to Sleep out of there 
+Incampment or Leave it at Night the Tropes Raised 
+in New hamfhire are perticulerly Required to Attend 
+to this orders from the perticular Curcomitances of the 
+Situation

@@ -1,0 +1,16 @@
+date: 1776-01-03
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: dcc2464d5744e80c1a5af1b12772ffb898e26a61
+chunk_index: 29/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Colo Sub Srt' cc P D&gt; 36 ? : Capt SS Cor
+
+L—=3——-2—-3-—-59-——-I—1 the Main Guard to consist of :—2—2—2—
+Privats

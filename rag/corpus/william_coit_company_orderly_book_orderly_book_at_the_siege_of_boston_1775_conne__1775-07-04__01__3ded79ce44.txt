@@ -1,0 +1,19 @@
+date: 1775-07-04
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 3ded79ce44aa231347ea5233bd73b9ffdfcca66d
+chunk_index: 59/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+July 4th By his Exalency General Washington Esqr
+
+J775
+
+Parole Be[d?]ford Counterfign Cambrigde
+
+General orders

@@ -1,0 +1,17 @@
+date: 1775-07-09
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: d71ce9f35faef10e27f637a6841b41e8dded047e
+chunk_index: 218/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+9. In Case of retaking the Vefsel of any Friend to 
+the American Cause, I will recommend it to such Person 
+to make a suitable Compensation to those who have 
+done such a service, but such vefsels and cargoes do not 
+come within the Directions respecting other Vefsels.

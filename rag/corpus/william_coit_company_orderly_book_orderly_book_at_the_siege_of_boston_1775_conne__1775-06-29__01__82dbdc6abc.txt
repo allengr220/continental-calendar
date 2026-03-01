@@ -1,0 +1,32 @@
+date: 1775-06-29
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 82dbdc6abc24038100c2e8aa32892083a8760aa3
+chunk_index: 41/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders June 29th 1775
+
+Parole Washington Countersign Virginia 
+Field officer of the Day to morrow Colo11 Gerish 
+Officers of the picquit to Night Captains 
+Field officer of the Main guard to Morrow Majr 
+Brooks
+
+Adjutant of the Day to Morrow Hardy
+
+Regmential orders 29th June 1775
+
+that the Regments in this Incampment parade to 
+morrow morning at 5 oclock on the Common Where 
+the Prisoners will be Brought from the Main guard and 
+the Sentanc of the genorl Courtmarihel will be put in 
+Execution againft them the Officers Commanding Com- 
+panys will take Care that the men in there Refpe&amp;ive 
+Companys turn out Immediatly when Called upon for 
+Duty the adjutant will take Care to Bring the men

@@ -1,0 +1,17 @@
+date: 1776-07-28
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 2d2eafc49468958de3bf2911040737d37e8edb9c
+chunk_index: 103/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Monday August y® 5 we Set of from Rutland fort the Place formerly
+cald oter creek on our March for Scheensborough and after a Long and
+worrysome March of about twenty five Milds About half of the comp’
+got into the first house in S* Town which was about 3 Milds from South
+Bay or the Mill

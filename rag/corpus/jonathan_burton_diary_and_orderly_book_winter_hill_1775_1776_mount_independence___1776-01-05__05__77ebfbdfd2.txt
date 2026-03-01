@@ -1,0 +1,17 @@
+date: 1776-01-05
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 77ebfbdfd2def89ac4d194f6ce10a37ba2255544
+chunk_index: 67/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Field officer of the Day Tomorow Major Coburn Adj Holdin—Field
+officer of the Piquet Lt Col° Holdin—Piquet within the Lines to night
+Col? Starks Rig*
+
+Piquet on Ploughd Hill Col° Reed 2—3—3—2—57

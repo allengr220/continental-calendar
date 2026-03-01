@@ -1,0 +1,14 @@
+date: 1776-01-02
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 792695c6863faf6671c8478c233df60c1830a3dd
+chunk_index: 55/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+2d. — In prison, this day we had a cask of porter [given] by some
+gentleman of the town.

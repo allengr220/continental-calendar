@@ -1,0 +1,14 @@
+date: 1776-08-13
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 5b48bc8b61f45a39c62f4e992c01387ae2f76e53
+chunk_index: 111/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Tuesday August 13 1776 This Day hapned to be fair all day and we
+busied our Selves in git Stuf for our hut and Writing Letters all day

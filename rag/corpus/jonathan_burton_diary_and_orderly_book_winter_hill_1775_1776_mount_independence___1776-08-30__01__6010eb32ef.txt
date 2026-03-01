@@ -1,0 +1,19 @@
+date: 1776-08-30
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 6010eb32ef1194c0affa5556c6283d20ba4f358e
+chunk_index: 119/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+30
+
+the Morning with a fair gale of Wind and about noon we came to the
+mouth of ottercreek there we had to go nine mild up the creek there to
+Load with hay but the hay not being Ready I could not Load my Boats
+and was obliged to Lay there that night in my boats (This creek is about
+forty Milds from Ticonderoga Down the Lake Toards St Johns)—

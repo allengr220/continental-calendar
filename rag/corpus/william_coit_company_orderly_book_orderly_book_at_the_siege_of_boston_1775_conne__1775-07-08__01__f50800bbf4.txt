@@ -1,0 +1,16 @@
+date: 1775-07-08
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: f50800bbf4a44f0bdc49ebda88c40cba57d4fa7b
+chunk_index: 84/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Head Quarters Cambridge July 8th. 1775 
+General orders
+
+Parole Efsex Counter Sign Falkland

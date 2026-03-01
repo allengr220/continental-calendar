@@ -1,0 +1,23 @@
+date: 1775-07-28
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 5bf9d739a866925c0bc60bb65cec1c8ef556d4a1
+chunk_index: 153/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Cambrigde Head Quarters 28 July 1775
+
+Parole Cumberland Counterfign Brookline 
+the Surgans of Learnords heaths Phineys Litles &amp; 
+Perfons Regmts having Negle&amp;ed to Deliver in there 
+Returns of the Sick in there Refpective Regmts to the 
+Adjutant Gen11 thofe Returns to be Deliverd in Fourth- 
+with and the Surgans of those Regmts are to be more 
+Exa6t in there obeadance to orders
+
+Detale C S S C Pts

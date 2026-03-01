@@ -1,0 +1,15 @@
+date: 1776-01-20
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 71b93b082f8f9edf5c119e0183cb5608f65c525a
+chunk_index: 66/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+20th to 24th, — Five men died with the small-pox. The enemy
+made an attempt to go out after our people’s cannon, and were driven
+back. There was a continual firing after them.

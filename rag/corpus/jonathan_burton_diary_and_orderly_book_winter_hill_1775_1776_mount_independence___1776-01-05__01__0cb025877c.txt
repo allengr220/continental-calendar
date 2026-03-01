@@ -1,0 +1,16 @@
+date: 1776-01-05
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 0cb025877cc0674cc32be85666ef71089d519db3
+chunk_index: 50/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+5 Be pajsyup |:
+ps 8 yy puvwoiq | a
+S 0O'5 : |
+SSG Ars 8 Cole a ar

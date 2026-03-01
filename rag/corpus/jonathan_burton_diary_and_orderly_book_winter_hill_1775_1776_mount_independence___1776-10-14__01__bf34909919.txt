@@ -1,0 +1,17 @@
+date: 1776-10-14
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: bf349099191b2a9da58a08223a375b8da3939169
+chunk_index: 145/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Monday October 14 about two hours before Day the whole of our
+Brigade was mustred again and went Down to the Lines and after going
+through the fireings at the Alarm Post we Returnd to the camp and was
+Dismissed and Every man in our Regt was ordered on forteauge- in
+throughing up a brestworke Round the camps and in Scouting Parties—

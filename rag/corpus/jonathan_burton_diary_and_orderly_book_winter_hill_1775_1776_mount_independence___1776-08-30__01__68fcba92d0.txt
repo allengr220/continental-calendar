@@ -1,0 +1,19 @@
+date: 1776-08-30
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 68fcba92d0e6ee52e6aacd82b1cc4c9a531f306f
+chunk_index: 90/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+30 Jonathan Greele 64 John Vickere
+ar Robart Gibs 65 Abijah Usher
+32 Thomas Goodridge 66 George Wilson
+33, William Hardwick 67 Jacob Wendol
+34 Thomas Harris
+
+HILE

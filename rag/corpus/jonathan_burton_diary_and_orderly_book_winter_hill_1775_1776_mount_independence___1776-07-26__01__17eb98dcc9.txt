@@ -1,0 +1,14 @@
+date: 1776-07-26
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 17eb98dcc92e3b80d21675575129cbee2c8a5b09
+chunk_index: 96/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Fryday July 26 we Marcht into N° 4 and Lodg* at Sattles [Sawtell’s]
+Tavern three Mild from the Meeting house.

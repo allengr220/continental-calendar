@@ -1,0 +1,16 @@
+date: 1776-10-05
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 9920c85d1d042af10495a0544acea1f5ea4e67b0
+chunk_index: 137/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Saturday october 5 Nothing Meterial to day hapned in camp
+
+Sunday october y* 6" The Rev™ M' Porter of Col? Wingates Reg*
+Preached to our Regt two Sermons

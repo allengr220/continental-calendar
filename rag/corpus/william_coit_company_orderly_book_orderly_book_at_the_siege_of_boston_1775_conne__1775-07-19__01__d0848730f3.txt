@@ -1,0 +1,18 @@
+date: 1775-07-19
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: d0848730f3296288451b18dad8b61734ac541644
+chunk_index: 120/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+July 19th 1775 
+Camp Before Bofton at Cambrigde 
+Parole Darby Counterfign Marbelhead 
+Officer of the Day to Morrow Coln Glover 
+officer of the Main Guard to Mo. Majr Brooks 
+Adjutant of the Day to Morrow Hardy

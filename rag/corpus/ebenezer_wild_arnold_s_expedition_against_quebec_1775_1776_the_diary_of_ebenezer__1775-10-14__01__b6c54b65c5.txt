@@ -1,0 +1,16 @@
+date: 1775-10-14
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: b6c54b65c5d0b88ae7bce4ba48af0a9a4eb33c06
+chunk_index: 23/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+14th and 15th. — Carried to the Dead River three miles, and went up
+one mile; then encamped at night. ‘This river runs so still that it can
+scarce be perceived which way it runs; it is black water, about four
+rods wide, and runs southeast.

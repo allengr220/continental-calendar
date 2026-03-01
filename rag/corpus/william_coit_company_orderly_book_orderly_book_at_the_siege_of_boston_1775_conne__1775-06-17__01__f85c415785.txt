@@ -1,0 +1,32 @@
+date: 1775-06-17
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: f85c4157854779e8b91c6ceb4140fe7b87e4ba3f
+chunk_index: 24/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders June 17th 1775
+
+Parole Dearfeild Counteriign Conway 
+Field Officer of the Day to Morrow Gerish 
+Field officer of the Picquit to Night wood 
+Field officer of the Main guard tom Lev1 Colo11 
+Baldwin
+
+Adjutant of the Day to Morrow Febegin [Febiger]
+
+Regmential orders 17th June 1775
+
+Capt. Coit and ten Privits muft prade on the grand 
+prade 6 oclock this afternoon Equipt with two Days 
+prevention Readay Drefsed and Blankets in orders to 
+march to the Releve of the Connecticut Troops at 
+Charlestown
+
+^ orders General Putnam 
+Dan1 Tyler Adjutant

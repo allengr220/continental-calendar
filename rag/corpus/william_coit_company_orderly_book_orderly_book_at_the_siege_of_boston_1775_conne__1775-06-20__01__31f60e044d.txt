@@ -1,0 +1,22 @@
+date: 1775-06-20
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 31f60e044d0b0d487a0cb94871ef3023ca50d2ca
+chunk_index: 18/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+20
+
+Viwing the Fire Locks and See that they be Fit for 
+Auction and Each man provided with 18 Round Car- 
+theradegs and two Flints or more and in Cafe of an In- 
+gagment that no man prefume to fire over a Battalion 
+Engaged in Battalion that the officer of Every Company 
+Parade with his own Company on the grand prade at 
+Sun Rinng in the Morning and at Four oclock in the 
+afternoon

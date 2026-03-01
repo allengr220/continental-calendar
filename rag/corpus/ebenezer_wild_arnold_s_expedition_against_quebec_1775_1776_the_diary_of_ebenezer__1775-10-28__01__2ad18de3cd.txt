@@ -1,0 +1,16 @@
+date: 1775-10-28
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 2ad18de3cd7c6925733e5a6534265c137a0df3fc
+chunk_index: 34/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+28th. — After carrying over the great carrying-place, we encamped
+by a small stream, running into Chadore pond. Dealt out to each man
+four pints of flour and what little meat we had left, which was about
+four ounces per man.

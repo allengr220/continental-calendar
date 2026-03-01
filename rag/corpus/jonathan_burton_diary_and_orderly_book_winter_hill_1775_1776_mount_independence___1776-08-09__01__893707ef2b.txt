@@ -1,0 +1,15 @@
+date: 1776-08-09
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 893707ef2bb41cf533ffbea07adb8a52ae4667a4
+chunk_index: 88/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+9g Corp! William M° Cluer 43, Levi Lund
+ro Corp! John Fletcher 44 Jonathan Lamson
+tr Corp! Josiah Parker 45 John Loide

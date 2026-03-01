@@ -1,0 +1,18 @@
+date: 1775-07-12
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 69f3ff2bdc70467c2c4fe9899aa621b87f4448ef
+chunk_index: 82/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+12th
+
+A General Court Martial to Set to morrow ten Oclock 
+for the Trial thomas Dunly Charged with Steeling Each 
+of the above prifoners to have Notice to Day and the 
+wittness in Like Manner orderd to Attentd

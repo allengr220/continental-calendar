@@ -1,0 +1,21 @@
+date: 1775-04-23
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 8db570a8290ea356843c7b9e5e4e05b55aeedcdd
+chunk_index: 1/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders April 23d 1775
+
+That Each Adjutant Serf Majr and Each Ser* be Imme- 
+diatly provided With orderly Books in orders Regularly 
+to Enter the orders of the army.
+
+that the Adjutant General obtain as Soon as posable 
+a Compleate Return of the army in orders to Form an 
+Eaqiul Duty Rool [? Roll'?]

@@ -1,0 +1,27 @@
+date: 1775-07-08
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: e48957cd7beb87d01c396c318bc7d8bae3511e3f
+chunk_index: 169/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+8
+
+74
+
+the Court Coln pitkin Presadant Cap1 Jonah Fay Ifral 
+Chapin Dan11 Lathrop Levi Wells &amp; Ruben Davis 
+Noah Hall amos Ellis John McGregor Silas Goodrich 
+Mr Skiner Mr Sheppard Mr pop[e] Levtanants that
+
+600 men be paraded this afternoon at 6 oclock 
+properly officerd Each man with a Kanteen for Battle 
+water as no Man will be allowed to git water in the 
+Night the plafe of parade is the orchard Wist of Mr 
+Blanys Stores to be Imployed as Coln Putnam Shall 
+Derid

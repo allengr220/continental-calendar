@@ -1,0 +1,27 @@
+date: 1775-07-31
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: d6083f064391127525af8b953237df9bd146531a
+chunk_index: 171/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+75
+
+A Return Sined by the Commanding officer of the 
+Regm* or Corps to be Deliverd to the adjutant Gen11 to 
+Morrow Morning at Gen11 orders Time of the Names 
+Rancks &amp; Dates of the officers Comifions in there 
+Respe&amp;ive Regments and Corps Mentioning alfo the 
+Vacances and how ocationed
+
+A Gen11 Courtmartial to Set Emediatly to Try Cap1 
+Gardiner of Colo" Hitchcocks Regm1 for Courdife 
+Denying his Post and Deferring his Men all Evadance 
+and perlons Confernd to attend the Court
+
+Auguft 1st 1775

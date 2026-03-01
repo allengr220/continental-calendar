@@ -1,0 +1,15 @@
+date: 1776-03-13
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: b81b963f6d148d506e3d86f64603ec8b93f1477d
+chunk_index: 69/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+13th to 18th. — The emigrants are moved to the artillery barracks
+and the rest of us into a stone jail, and are locked up at seven o’clock
+at night.

@@ -1,0 +1,21 @@
+date: 1775-06-25
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: ad563dd40a2257aa8de6a5f098625301e09f4d79
+chunk_index: 36/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders June 25th 1775
+
+Parole Halley Countersign Freeman 
+Field Officer of the Day to Morrow Coln Fry 
+officers of the picquit to Night Captains 
+Field officer of the Main guard to M. Lev1 Coln Rob- 
+erfon
+
+Adjutant of the Day to Morrow Harday

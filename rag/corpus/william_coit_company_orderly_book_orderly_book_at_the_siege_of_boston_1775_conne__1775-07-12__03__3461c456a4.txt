@@ -1,0 +1,16 @@
+date: 1775-07-12
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 3461c456a477c68e4cd0664b5b35150c1110a148
+chunk_index: 98/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+* Scammans, but too carefully made w's to ignore. See Frothingham's 
+" Seige of Boston " for the facts in the case.
+
+46

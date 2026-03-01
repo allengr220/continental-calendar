@@ -1,0 +1,18 @@
+date: 1775-06-30
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 40dc00010fc9267cffad4f778318015da01eb6f4
+chunk_index: 45/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+that all posable Care Be taken that no Lewd Woman 
+Com into the Camp and all Perfons are ordered to give 
+Information of Such Perfons if any there be that proper 
+Mefures may Be taken to Bring to Condine punifliment 
+and Ride [rid] the Camp of all Such Noufances that the 
+Rules and Regulations for the amarican army be Read

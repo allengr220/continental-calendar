@@ -1,0 +1,26 @@
+date: 1775-06-23
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: e32783fd5fbefc081d00c7b9e6fedf09e84b689f
+chunk_index: 33/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders 23d June 1775
+
+Parole Lyman Counterlign Hopkins 
+Field Officer of the Day to Morrow Colo11 Glover 
+officers officers of the Picqutt Guard to Night Cap- 
+tains
+
+Field officers of the Main Guard to Morw Majr Brooks 
+Adjutant of the Day to Morrow Glovers 
+that Colo11 Bruers Nixons Scammons Gerishs Littles 
+Gardiners Manffield Regments on or Near prospect hill 
+the officers of Sad Regment not to Desert there posts 
+upon any Confederations whatever and Ufe there utmoil 
+Endeavours to prevent the Doing the Same

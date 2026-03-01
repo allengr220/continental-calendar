@@ -1,0 +1,25 @@
+date: 1775-06-24
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 9f50301a1c7737bc02800f4c3b718f815eaa7d9f
+chunk_index: 34/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders 24th June 1775
+
+Parole Trowbrigde Counterfign Wattes 
+Field officer of the Day to Morrow Colo11 Brigges 
+officers of the Picquit to night Captains 
+Field officers of the Main Guard to Morw Lev1 Coln 
+Stores
+
+Adjutant of the Day to Morrow — Fox
+
+Regmential orders 
+that Every officer and Soldier under My Command 
+and Cap1 Coits and thofe officers and Solders in his

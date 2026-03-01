@@ -1,0 +1,17 @@
+date: 1776-05-06
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: f0c089f1af5533778ba55d6f49a76d12fb13a2f7
+chunk_index: 75/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+6th. —- This morning three ships came in with reinforcements of
+about one thousand men. Ali the bells in the town rang for joy most
+of the day ; then all the forces marched over to Abram’s plains to have
+a battle with our people, but they retreated as fast as possible, and left
+av umber sick in the hospital, likewise some of their cannon and ammunition, \ th a number of small arms and packs.

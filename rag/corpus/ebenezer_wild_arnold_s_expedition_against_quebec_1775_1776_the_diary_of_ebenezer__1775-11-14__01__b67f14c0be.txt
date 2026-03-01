@@ -1,0 +1,21 @@
+date: 1775-11-14
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: b67f14c0bed8b99367eb778040ae7815870bd379
+chunk_index: 49/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+14th.— ‘This morning were fired upon by the frigate, but received
+no damage, Took up our quarters in some good houses near the town,
+which were forsaken by the owners. Here we remained until the 20th,
+during which time we were informed that there were not more than one
+hundred regulars in the city, with a number of sailors and other new
+recruits, in all not exceeding four hundred under arms. The first day
+we came over the river, we passed close by the walls of the town, and
+gave three cheers without being molested by the enemy, who fired a few
+shots from their cannon, but did us no harm.

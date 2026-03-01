@@ -1,0 +1,19 @@
+date: 1775-10-03
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 8679cef0536b55fc5b9ef19cb18523f28cc0a3f5
+chunk_index: 17/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+3d.— Pushed up eleven miles on our way. Captain Hendricks’
+company of riflemen shot a young moose, which weighed about two
+hundred pounds. But we had none of it, they being before us. This
+day we left all inhabitants, and entered an uncultivated country and
+barren wilderness. The timber for the most part is birch, pine, and
+hemlock. Some places on the river there are places where large sugar
+trees grow.

@@ -1,0 +1,23 @@
+date: 1775-10-24
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 47f96b0307f5cb9ec6805c5c548816cbf1bef757
+chunk_index: 30/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+24th, — Our provisions growing scanty, and some of our men being
+sick, we held a council, and agreed to send the sick back, and send a
+captain and fifty men forward to the inhabitants as soon as possible,
+that they might send us some provisions, Accordingly, the sick were
+sent back, and Captain Hanchitt, with fifty men, sent forward. Before
+this, Colonel Enos, with three captains and their companies, turned
+back, and took with them large stores of provisions and ammunition,
+being discouraged (as we supposed) by the difficulties they met with.
+This day got forward nine miles. The water being very rapid, many
+of our boats were upset, and much of our baggage lost, with provisions
+and guns.

@@ -1,0 +1,15 @@
+date: 1779-01-01
+author: Joseph Plumb Martin
+title: A Narrative of Some of the Adventures, Dangers and Sufferings of a Revolutionary Soldier
+role: enlisted
+service: Continental Army
+source_type: memoir
+chunk_id: 97b7a7e9957b84725e59d35d585d6057086a9b7b
+chunk_index: 58/115
+campaign_year: 1779
+
+---
+
+warming. And as I have got into winter-quarters again, I will here bring my third campaign to a close. 1. Jump up↑ Professor Silliman has said, on the authority of a certain Dr. Somebody, that jack-o-lanterns never move. With due submission to such high authority, I would crave their pardon for telling them that they labour under a mistake. I have seen many of these exhalations, two of which I am satisfied beyond a doubt were moving when I saw them, the one mentioned in the text and the other when I was a youngster. I was one evening walking in a lane in a sequestered place, the road crossing a low boggy piece of land, when I saw one of these meteors, if they may be so called, coming down the low ground before the wind, which was quick, it crossed the road within ten feet of me and passed on till it was lost in the distance. Now I could not be deceived in this instance; I saw it, and I could see with my natural eyes as well as a philosopher could with his. But I have lately heard of a new idea concerning them,—that is, that they are a species of glowworm in their butterfly state. If that is the case, they must of necessity move, the opinion of those scientific gentlemen to the contrary, notwithstanding.
+
+CHAPTER V. Campaign of 1779. You may think what you please, sir, I too can think— I think I can't live without victuals and drink; Your oxen can't plough, nor your horses can't draw, Unless they have something more hearty than straw;— If that is their food, sir, their spirits must fall— How then can I labour with—nothing at all?

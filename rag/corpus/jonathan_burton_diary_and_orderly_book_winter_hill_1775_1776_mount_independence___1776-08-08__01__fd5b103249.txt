@@ -1,0 +1,17 @@
+date: 1776-08-08
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: fd5b103249af3dee419820f847b68cb9033e9264
+chunk_index: 106/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Skeensborough Thursday August 8 1776
+
+This Day in the afternoon we rec? orders for to go to Ticonderoga to
+Joyn Gen! Reeds Brigade at that Place to Draw one Days Provition and
+to be ready to Set off Early the Next morning.

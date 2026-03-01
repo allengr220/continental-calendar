@@ -1,0 +1,20 @@
+date: 1775-06-28
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: fa7e335ac25fd637fc9dcb19b1640d066468f5b0
+chunk_index: 38/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+[Johonnot; cf. June 28]
+
+Adjutant of the Day to Morrow Green
+
+Draught Capt. Coits Company for a scouting Party 
+at Leachmers point to Night one Subaltain 1 Serf 1 
+Corperal and 30 Privits to apear on the grand parade a 
+Little Before Sunfett to Night

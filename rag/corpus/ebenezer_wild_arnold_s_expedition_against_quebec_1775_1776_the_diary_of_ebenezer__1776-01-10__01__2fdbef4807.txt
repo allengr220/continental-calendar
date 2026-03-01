@@ -1,0 +1,16 @@
+date: 1776-01-10
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 2fdbef48073b56858932d0bfdbef9b4ad1ef4c09
+chunk_index: 54/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+10
+
+One pound of bread, one half pound of pork, one gill of rice for a day,
+and six ounces of butter a week.

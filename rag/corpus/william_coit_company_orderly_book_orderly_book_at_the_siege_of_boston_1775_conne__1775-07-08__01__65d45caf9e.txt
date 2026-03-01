@@ -1,0 +1,22 @@
+date: 1775-07-08
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 65d45caf9e60dba34bfe3d12674abd8ae1f0809c
+chunk_index: 77/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+8th the General has Great Reafon and is highly 
+Displeasd With the Neglenance and Inatention of thofe 
+officers who have plafed as Senterys at the outposts 
+men with whofe Caricteras they are not accquainted he 
+therefore orders that for the Futer no man Shall be 
+Apointed to thofe Importent Stations who is not a Native 
+of this Contray or has a wif or Family in It to whome 
+he is known to Be Attached this is to be Confiderd as a 
+standing one and the officers are to Pay Obediance to 
+it at there Pearl

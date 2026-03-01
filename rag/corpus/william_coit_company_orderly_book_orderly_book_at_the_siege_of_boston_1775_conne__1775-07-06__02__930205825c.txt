@@ -1,0 +1,29 @@
+date: 1775-07-06
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 930205825c013f02b4593c7b23f84694ec82b3d8
+chunk_index: 54/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Article 7th all officers are Required and Expected to 
+pay a Diligant attention to keep there men Neat and 
+Clean to Vifet them often at there quarters Inculiate 
+upon them the Nefefiaty of it as Afsental to there Health 
+and Service they are particulerly to Se that they have 
+Straw to Ly on if to be had and to make it known if 
+Distitute of this article they are alfo to take Care that 
+Nefiserays are provided in the Camps and Frequently 
+Filled up to prevent Being ofTenfive and Unhealthfull 
+proper Notice will be taken of Such officers and Men 
+as Shall Distinguish themfilves By a Due attention to 
+thefe Nefsafery Dutys
+
+Article 8 the Commanding Officer of Each Reg- 
+ment is to take perticuler Care that not more then two 
+men of a company be absent on Furlow on the same 
+time unlefs on Very Extraornary Cafes

@@ -1,0 +1,15 @@
+date: 1776-10-12
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 7a8614c18bb075c700ab916b009b8beec8bf2160
+chunk_index: 143/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Saturday october 12" 1776 the afforementioned Six Persons that was
+mn . * / ‘7 .
+yesterday Discharged Set off from the camps for home—

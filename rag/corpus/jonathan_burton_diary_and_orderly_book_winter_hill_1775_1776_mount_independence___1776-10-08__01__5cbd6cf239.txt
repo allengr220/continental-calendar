@@ -1,0 +1,14 @@
+date: 1776-10-08
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 5cbd6cf2396aa10ce37126ed50deba338ff8cfc3
+chunk_index: 139/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Tuecday October 8" 1776 This Day the Capt Draw! the mens Wages
+“'“e Last of Sept" and we began to Pay off the Men

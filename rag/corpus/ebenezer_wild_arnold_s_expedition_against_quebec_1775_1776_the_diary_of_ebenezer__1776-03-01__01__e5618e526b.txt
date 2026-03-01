@@ -1,0 +1,16 @@
+date: 1776-03-01
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: e5618e526b8aca2c5150870a4ba48ed23e8c2880
+chunk_index: 67/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+March 1st to 6th. — Three men deserted.
+
+bin to 10th. — One of the prisoners was put in irons for talking with
+one of the sentries. We hear that Boston is taken by our people

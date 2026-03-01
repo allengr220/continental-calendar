@@ -1,0 +1,15 @@
+date: 1776-01-16
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 62f9d9333e4c0f09452130a7ad0632a96aa5f2f6
+chunk_index: 65/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+16th to 20th. — Six of the old countrymen that enlisted in the King’s
+service deserted, and the remainder were put in prison again because
+those deserted.

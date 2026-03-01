@@ -1,0 +1,14 @@
+date: 1776-10-10
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 57eef2a4c4dd1e3368725b9fc10676d7a4dc1489
+chunk_index: 141/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Thursday october 10" 1776 I Rec! half a month Pay Which was
+£2-14-0 L: M.

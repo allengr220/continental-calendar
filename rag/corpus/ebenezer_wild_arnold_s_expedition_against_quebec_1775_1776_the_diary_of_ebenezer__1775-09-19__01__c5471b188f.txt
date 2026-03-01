@@ -1,0 +1,19 @@
+date: 1775-09-19
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: c5471b188f8481b63698cc338e994db9113ebfbb
+chunk_index: 8/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+19th. — Early this morning weighed anchor with a pleasant gale, our
+colors flying, drums beating, fifes playing, and the hills all round covered
+with pretty girls, weeping for their departing swains. ‘This night had
+like to have proved fatal to us, for we were close on board of rocks before we knew anything about it. We were immediately all called upon
+deck, expecting every moment to be dashed to pieces against the rocks;
+but the wind freshing we got clear after several tacks, to the great joy
+of us.

@@ -1,0 +1,21 @@
+date: 1775-07-02
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 3ab9be47ddf4f5020dcf8d0453d5652f95ecb3f0
+chunk_index: 204/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Daniel McCan Soldier in Capfc gales Company Con- 
+find for Swearing &amp; Striking was Brought' Before Sad 
+Court on Examination of the prisoner and hearing the 
+Evadance it is the opinion of this Court that the pris- 
+oner is Guilty of the Crimes Laid to his Charge &amp; For 
+Swearing to pay a Fine of one Shilling according to 
+the Law Martial &amp; For Striking and other unjustyfi- 
+able Infults to alexander keeney &amp; others to Reeve 
+ten Stripes on his Naked Body

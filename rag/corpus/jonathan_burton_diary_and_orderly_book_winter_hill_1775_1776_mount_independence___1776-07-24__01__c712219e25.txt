@@ -1,0 +1,14 @@
+date: 1776-07-24
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: c712219e259354ee24f220fb3c3b097b835f0f74
+chunk_index: 94/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Wednesday July 24"" we Marcht from Millikens in Wilton and Log® in
+Dublin about 18 Mild from Wilton.

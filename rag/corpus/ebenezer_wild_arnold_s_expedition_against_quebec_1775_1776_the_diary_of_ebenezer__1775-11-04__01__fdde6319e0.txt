@@ -1,0 +1,15 @@
+date: 1775-11-04
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: fdde6319e09a5e1f08c6274bf908062aa2fdb493
+chunk_index: 42/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+4th. — Last night had plenty of beef and potatoes; but little or no
+bread was to be had. Snowed most of the night. In the morning
+marched down the river to inhabitants thick settled.

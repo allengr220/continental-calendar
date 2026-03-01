@@ -1,0 +1,25 @@
+date: 1775-07-21
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 1d71a0d5c0c0f14c0072c6360b1a8cefa2b2b838
+chunk_index: 145/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Regm41 Court Martial held July 21th at Cap4 Silles 
+Marque Cap4 Sill Lev4 Waterhoufe Lev4 Brulter Enfign 
+hall Enfign Latimer Enfign Latham Members Tryd Dan11 
+McCain a soldier in Cap4 Gailes Company Confined for 
+Intemperate Drinking Spiritus Licquers when on guard 
+for Swearing &amp; quariling and is found guilty of the 
+Crimes alledged to his Charge Sad Court are of Opinon 
+that the prifoner pay a fine of ten Shillings Lawfull
+
+65
+
+Money to be Disposed of Agreeable to the 51th article 
+of the Martial Law &amp; be Returned to his Duty

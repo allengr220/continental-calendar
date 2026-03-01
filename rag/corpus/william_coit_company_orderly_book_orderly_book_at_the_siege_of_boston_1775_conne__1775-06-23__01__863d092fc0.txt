@@ -1,0 +1,21 @@
+date: 1775-06-23
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 863d092fc079fa0180f88ef2d3f102fb29f8a88b
+chunk_index: 26/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+23
+
+Field officer of the Main guard to morrow Morning
+
+Lev1 Colo11 Bond
+
+Adjuntant of the Day to Morrow Putnam
+
+Draught of Cap1 Coits Company one Subaltain and

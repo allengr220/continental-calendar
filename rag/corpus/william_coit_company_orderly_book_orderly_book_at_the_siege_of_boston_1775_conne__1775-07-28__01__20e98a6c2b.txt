@@ -1,0 +1,28 @@
+date: 1775-07-28
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 20e98a6c2bc9e28a77624ef8d839a40f085157d6
+chunk_index: 191/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Roxbury 28th July 1775 after orders
+
+A Regmential Court Martial held agreeable to orders 
+in the Camps at Roxbury Cap1 Coit Prefadent
+
+Cap1 Chapman ^
+
+^ tp, |- Members ( Lev1 Roseter
+
+r, t c? • of Said -i Lev1 Eldrige
+
+Cap Spicer . to
+
+^ t c-jj Court Martial V. Lev1 Edmunds
+
+84

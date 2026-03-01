@@ -1,0 +1,26 @@
+date: 1775-07-09
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: dd462d831afd72a8c9e3dd88f7c01d30fcc7647e
+chunk_index: 90/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Head Quarters Cambrige July 9th 1775
+
+Parole Effingham \ Countirfign Watertown 
+Officer of the Day Colo" Brigges
+
+, St
+
+The Contental Congrefs having Ben pleafed to Apoint 
+Haratio Gates Efqr Brigader Genor1 and Adjutant Gen- 
+oral of the Army he is to be obeyed as Scuch and all 
+orders tranfmitted Through him from the Commander 
+in Cheaif Whether in writing or Verbal are to be
+
+Imeadiatly and puntuly Complyed with

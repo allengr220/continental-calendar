@@ -1,0 +1,14 @@
+date: 1776-01-02
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 80ec26da5360190e9e13a87f22a28cc6100488e7
+chunk_index: 25/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Head Quarters January 2" 1776
+Parole Holland Countersign Wiiliam

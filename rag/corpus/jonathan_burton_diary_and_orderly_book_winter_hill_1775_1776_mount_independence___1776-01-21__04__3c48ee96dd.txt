@@ -1,0 +1,23 @@
+date: 1776-01-21
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 3c48ee96dd0ae0b313a4a5e18bfc62473f86d353
+chunk_index: 73/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Camp on Winter Hill Ja" 17% 1776
+Gen! Sullivans orders—Field officer of the day Tomorow Lt Col? Holdin—Adj' of the Day Putnam—Field officer of the Piquet Col? Webb—
+Piquet within the Lines Col? Hutchinsons Rigt Piquet Main and Powder
+Guard Col? Reed 1-3-2-3-59
+
+NS
+te
+
+Head Quarters Jan’ 17" 1776
+
+Parole Conwallis Countersign Hartley

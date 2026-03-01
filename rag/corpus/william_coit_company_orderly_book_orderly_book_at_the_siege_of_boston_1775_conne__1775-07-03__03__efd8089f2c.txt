@@ -1,0 +1,26 @@
+date: 1775-07-03
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: efd8089f2c9f81817e241b4b1ee8eb6d6d5f464d
+chunk_index: 51/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+the Contintial Congreis not having Compleated the 
+apointment of the officers in sd army nor had Suffiste- 
+ant time to Prepaire and Forward there Commisions so 
+Every officer is to Continue to Do Duty in there Rank 
+and Station he at Prefants holds untill Further orders
+
+Article 3d
+
+Thomas Mifflin Esq1" is Apointed by the General of 
+his adeCamps Joseph Reed Eiqr is in Like maner 
+apointed Secretary to the genarol and they In Futer to 
+be Confidered and Regarded as Such
+
+Article 4

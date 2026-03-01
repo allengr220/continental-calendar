@@ -1,0 +1,24 @@
+date: 1775-07-28
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 888c2dd7e3d82b3aa158246718499cd5deb8e5c5
+chunk_index: 160/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Camp at Roxbury July 28th 1775
+
+Regmen11 Courtmartial held agreeable to orders Cap1 
+Coit Presadant Cap1 Chapman Cleft Sill Spicer Levts 
+Rositer Eldrige Edmunds
+
+Thomas Brown of Majr Prentices Company Colo11 
+Perfons Regm1 Confined for Disobedance of orders and 
+Negled of Duty the prisoner plead not Guilty the 
+Evadance being heard it is the oppion of this Court 
+that Said Brown is not Guilty and therefore give Judg- 
+ment that he be Releafed from the Guard

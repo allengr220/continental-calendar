@@ -1,0 +1,27 @@
+date: 1776-11-04
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 2c498f564b10a662be6dc4bf0ff7987c10629148
+chunk_index: 167/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+4 that
+
+it ten
+avern
+
+le and
+Two
+
+Dub-
+
+ig and
+
+</pre> </div><!--/.container-->
+ </main>
+ </div><!--/#wrap-->

@@ -1,0 +1,13 @@
+date: 1776-10-17
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 4eed394e69483c393c6c689bd9377b559aa90127
+chunk_index: 148/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Thursday October 17 the forteauge and Scouting Parties as usual

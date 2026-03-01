@@ -1,0 +1,27 @@
+date: 1775-07-24
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 73fd8e4ac54c3c90786ffcb247344d24172dd114
+chunk_index: 134/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Head Quarters Cambrigde July 24th 1775
+
+Parole Salsbury Counterfign Cumberland 
+It being thought proper to Distingufh the Majrs 
+from the Brigadear Gen11 by som perticuler mark for 
+the Future the Majrs Gen11 will weare a Broad purpel 
+Ribband
+
+Notwithftanding the Genlls orders Marking the Dis- 
+tinguishing officers Adcamps &amp;C the Genolls are Freo 
+quently stoped by the Centrnels which Can only happen 
+by the Cap4 Neglecting to Read the orders to there 
+Refpedive Companys If any Gen11 officers adecamps 
+or Majrs Brigade is again stoped through the Ignornce 
+of the Centernels the Capts will be Confidered Refponfble

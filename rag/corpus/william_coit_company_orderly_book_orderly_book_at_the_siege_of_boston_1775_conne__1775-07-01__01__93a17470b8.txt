@@ -1,0 +1,18 @@
+date: 1775-07-01
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 93a17470b882f74a9024e85ab10517ae0da96835
+chunk_index: 209/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+1. You being already appointed a Captain in the 
+Army of the United Colonies of North America, are 
+hereby directed to take the Command of a Detachment 
+of said Army and proceed on board the armed Schooner 
+Harrison, lately fitted out &amp; equipped with Arms, Am- 
+munition &amp; Provisions at the Continental expence.

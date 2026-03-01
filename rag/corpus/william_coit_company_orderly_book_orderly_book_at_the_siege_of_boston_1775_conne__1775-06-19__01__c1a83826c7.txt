@@ -1,0 +1,34 @@
+date: 1775-06-19
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: c1a83826c70088ed4d9c7d7cdff62657ddf45434
+chunk_index: 27/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders 19th June 1775
+
+Parole Scarbouagh Countersign Brunfwick 
+Field officer of the Day to Morrow Coln Woodbrigde 
+Field Officer of the Picquit Night Majr Stacy 
+Field officer of the Main guard to Morrow Lev4 Colo11 
+Bruckit
+
+Adjutant of the Day to Morrow Montagu
+
+Regmential orders
+
+That the Cap* of Each Company Make a Return of 
+there Company therin mentioning the Number Fit for 
+Duty Sick and wounded Mising and the Number of 
+armes Lost and that there Be a Regmential Courtmarfhel 
+Immeadiatly Sit in orders to try John Bray of Capt. 
+Clarks Company Members for Sd Courtmarfhell one 
+Captain and 4 Subaltains
+
+*p orders General putnam 
+Daniel Tyler Adjutant

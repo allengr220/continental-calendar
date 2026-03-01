@@ -1,0 +1,15 @@
+date: 1775-10-12
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: af1369c71d347ced337f41df47f52419b6496a48
+chunk_index: 22/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+12th and 13th. — Carried to a second pond three quarters of a mile ;
+crossed the pond one mile over, then carried two miles to a third pond,
+and crossed the pond two miles over.

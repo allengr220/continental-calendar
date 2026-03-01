@@ -1,0 +1,15 @@
+date: 1780-01-01
+author: Joseph Plumb Martin
+title: A Narrative of Some of the Adventures, Dangers and Sufferings of a Revolutionary Soldier
+role: enlisted
+service: Continental Army
+source_type: memoir
+chunk_id: 8124a9ed3c31550d8a8ba6c9cb81317939a1d832
+chunk_index: 81/115
+campaign_year: 1780
+
+---
+
+had to go six miles down the river, and there hew the timber, then carry it on our shoulders to the river, and then raft it to West point. We, however, soon completed this part of the business ourselves, when the carpenters took it in hand, and by newyear's day they were ready to receive us; till then, we had been living in the old barracks, where there were rats enough, had they been men, to garrison twenty West points. Our barracks being completed, and we safely stowed away in them, I shall here conclude the campaign of 1780.
+
+CHAPTER VII. Campaign of 1781. I saw the plundering British bands, Invade the fair Virginian lands. I saw great WASHINGTON advance With Americans and troops of France; I saw the haughty Britons yield, And stack their muskets on the field.

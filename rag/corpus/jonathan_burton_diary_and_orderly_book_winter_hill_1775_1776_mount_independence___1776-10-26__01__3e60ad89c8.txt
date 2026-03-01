@@ -1,0 +1,16 @@
+date: 1776-10-26
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 3e60ad89c89f869eee857a4ba742a7cf2be9f892
+chunk_index: 155/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+‘ties— Saturday October 26 1776 John Burnes and Benj" Sterns of our company got a Discharge from the Regt This Day came into camp about
+in the one hundred of the Green Mountain Boys and Encamped on the other
+d two Side of the Lake
+me

@@ -1,0 +1,19 @@
+date: 1775-07-25
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 143a5dccd45cf2f8d195120b773ae607507782c3
+chunk_index: 143/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Bynarjar Beebe a soldier in the 5th Company Confined 
+of propain Swaring was Brought before Sd Court &amp; on 
+Examination plead Guilty of the Crime Laid to his 
+Charge it is the opinon of Sd Court that Sd Beebe pay 
+the Sum of one Shilling as a fine all Which fines are to 
+be Dispofed of Agraeble to the Fifty firft Article of the 
+Martial Law

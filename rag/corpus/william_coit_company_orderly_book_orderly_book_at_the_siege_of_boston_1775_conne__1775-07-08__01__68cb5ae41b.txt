@@ -1,0 +1,20 @@
+date: 1775-07-08
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 68cb5ae41b5bc716ff65f5caf898fb7c5707d7f2
+chunk_index: 217/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+8. As there may be other vessels employed in the 
+same service with yourself, you are to fix upon proper 
+signals, &amp; your stations being Settled so as to take the 
+greatest Range, avoid cruizing on the same grounds. If 
+you should happen to take prizes in sight of each other, 
+the Rules which take Place among private Ships of 
+War are to be observed in the Distribution of the Prize 
+Money.

@@ -1,0 +1,15 @@
+date: 1776-01-03
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: dd7b410d1c584a64bf52054b024dcbf544550490
+chunk_index: 56/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+3d and 4th, — The general sent for a list of our names, of the old
+countrymen in particular by themselves that were with us, and they
+chief'y enlisted in the King’s service.

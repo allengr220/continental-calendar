@@ -1,0 +1,14 @@
+date: 1776-01-04
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 02d56537c03b1777b01b8cbea75c865eb1af2aa2
+chunk_index: 62/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+4” the orderly Serj’ are to See to it that they Read the orders Daly to
+the officers of their companies

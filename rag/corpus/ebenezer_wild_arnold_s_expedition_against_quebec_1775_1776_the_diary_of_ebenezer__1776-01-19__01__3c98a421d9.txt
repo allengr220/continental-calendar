@@ -1,0 +1,15 @@
+date: 1776-01-19
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 3c98a421d9f4acd358ce1842cd69c93c260b44ba
+chunk_index: 59/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+19th to 22d.— Five of those that enlisted out of prison and five
+others deserted in the night. There were two men put in irons for
+attempting to break out of prison.

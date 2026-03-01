@@ -1,0 +1,19 @@
+date: 1775-12-06
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 2984d55d00541ab0ad2686b51bf301fc2e3481e3
+chunk_index: 9/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+6
+
+Bravery and Such only as are Inlisted for the next campaign, an Exact
+List of their Names to be returned to their Respective Colonels, The
+Carbenes taken in S* Ship are not to be Delivered without Special Orders
+
+Camp on Winter Hill Dec’ 13" 1775

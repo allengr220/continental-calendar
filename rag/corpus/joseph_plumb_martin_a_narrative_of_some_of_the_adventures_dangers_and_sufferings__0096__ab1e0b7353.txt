@@ -1,0 +1,13 @@
+date: 1776-01-01
+author: Joseph Plumb Martin
+title: A Narrative of Some of the Adventures, Dangers and Sufferings of a Revolutionary Soldier
+role: enlisted
+service: Continental Army
+source_type: memoir
+chunk_id: ab1e0b7353280ba623545358f22d2fc62d94e623
+chunk_index: 96/115
+campaign_year: 1776
+
+---
+
+and his own honour, that is, something to eat, and being all in good health, and having the prospect of a quiet night's rest; all which comforts happening to us at this time, put us in high spirits. We hadreceived some fresh beef and bread that morning, and, after being settled in our quarters, we set about cooking our suppers. There were three or four small boys belonging to the house, who were so taken up with their new guests, that they kept with us the whole evening. We traded with these boys for some potatoes to cook with our meat; we gave them two or three cartridges and they gave us as many potatoes as we needed. Just as we had got our supper upon the table, the man of the house passed through the room, and seeing that we had potatoes, asked us where we procured them; some of the men replied, "in Philadelphia." He took up one from the dish and broke it: "miserable things," said he, "my potatoes are worth double the value of these." We laughed in our sleeves at his simplicity—his own boys skinned their teeth to think how their father was deceived, but said nothing. When we turned out in the morning to resume our march, upon examination we found these roguish urchins had undertaken to serve us with the same sauce they had their father, for they had, during the night, nearly emptied all our cartridge boxes. We saw where they deposited those we gave them; when, upon examining the place, we found our lost goods which we did not fail to secure: and likewise those which we had given them, as a punishment for their roguery. We marched again and crossed a narrow ferry, called Penny ferry; arrived at Bristol and crossed the Delaware, to Burlington, where the Artillerists went into barracks, and our corps of Miners were quartered in a large elegant house, which had formerly been the residence of the Governour, when the State was a British province. The noncommissioned officers, with a few others had a neat room in one of the wings, and the men occupied the rest of the house, except the rooms in the third story, which were taken up by the officers and their attendants. Now we thought ourselves well situated for the winter, (as indeed we were, as it respected shelter,) after a tedious campaign; but it turned out quite the reverse with several, and myself among the rest, as in the next chapter will appear. Being once more snugly stowed away in winter-quarters, it of course ends my sixth campaign.

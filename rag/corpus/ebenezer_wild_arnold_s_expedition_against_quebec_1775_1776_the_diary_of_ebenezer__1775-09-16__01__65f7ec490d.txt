@@ -1,0 +1,14 @@
+date: 1775-09-16
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 65f7ec490df88279773d298b4213a8242371cc00
+chunk_index: 5/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+16th. —In Newburyport, waiting for the vessels getting ready to
+carry us to Kennebec.

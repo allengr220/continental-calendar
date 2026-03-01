@@ -1,0 +1,15 @@
+date: 1779-01-01
+author: Joseph Plumb Martin
+title: A Narrative of Some of the Adventures, Dangers and Sufferings of a Revolutionary Soldier
+role: enlisted
+service: Continental Army
+source_type: memoir
+chunk_id: 93964fe9b907d0d22ef1fc9710cedd2c421d5caf
+chunk_index: 65/115
+campaign_year: 1779
+
+---
+
+these were then bound on by a straight pole with withes, then another double tier with the butts resting on this pole and bound on as before, and so on to the end of the chapter. A chimney was then built at the centre of the backside, composed of stone as high as the eves and finished with sticks and clay, if clay was to be had, if not, with mud. The last thing was to hew stuff and build us up cabins or births to sleep in, and then the buidings were fitted for the reception of gentlemen soldiers, with all their rich and gay furniture. Such were the habitations we had to construct at this time. We got into them about the beginning of the year, when the weather became intensely cold. Cold weather and snow were plenty, but beef and bread were extremely scarce in the army. Let it be recollected that this was what has been termed the "hard winter," and hard it was to the poor soldiers, as will appear in the sequel. So here I will close the narrative of my campaign of 1779. And happy should I then have thought myself if that had ended the war, but I had to see a little more trouble before that period arrived.
+
+CHAPTER VI. Campaign of 1780. The soldier defending his country's rights, Is griev'd when that country his services slights; But when he remonstrates and finds no relief, No wonder his anger takes place of his grief.

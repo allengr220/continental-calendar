@@ -1,0 +1,14 @@
+date: 1775-09-15
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: c995a69a26bdb228177dcdf2b20b500726794c23
+chunk_index: 1/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+A Journal of a March from Cambridge, on an Expedition against Quebee in Colonel Benedict Arnold’s Detachment, Sept. 15,1775. [By
+Ebenezer Wild. |

@@ -1,0 +1,19 @@
+date: 1776-01-14
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: e5f08c9bd1e9ab543938e5390b8acab6d58d9fc2
+chunk_index: 42/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Head Qua™ Jan’ 6 1776
+Parole Gerry Countersign Chase—
+
+The Gen! is Sorrey that a custome hath Prevaled at the Main Gard in
+Cambrige of Perrmiting Prisnors to be absent on their Parrole, He there-
+
+‘e-

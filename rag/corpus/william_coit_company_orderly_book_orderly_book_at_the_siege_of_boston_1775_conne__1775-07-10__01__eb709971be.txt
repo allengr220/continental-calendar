@@ -1,0 +1,17 @@
+date: 1775-07-10
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: eb709971be34f48edc3e8c8f45691245cbd469cf
+chunk_index: 79/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+10th
+
+A General Court Martial having Set upon William 
+Patten* and Reported that no Evedance apeared againft 
+him to Soport the Charge the General Defers his

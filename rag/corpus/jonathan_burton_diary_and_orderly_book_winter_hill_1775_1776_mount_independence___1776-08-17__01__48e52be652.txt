@@ -1,0 +1,15 @@
+date: 1776-08-17
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 48e52be6527387bff2cf87b899730aa3c9d6ad65
+chunk_index: 114/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Saturday August 17" this Day we have twelve men from our company
+on the works two men from the Bay cared of Sick with the Small Pox
+this Day we had the Boston Print as Late as the 8" of August

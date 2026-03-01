@@ -1,0 +1,14 @@
+date: 1776-01-05
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 455f96aab0a5e9f128223f13554ecc437bfdbc40
+chunk_index: 57/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+5th to 8th. — The prisoners petitioned to have their packs sent in to
+them, whereupon they sent out a flag and received them for us.

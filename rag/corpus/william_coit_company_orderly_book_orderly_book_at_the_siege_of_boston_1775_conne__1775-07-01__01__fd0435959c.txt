@@ -1,0 +1,19 @@
+date: 1775-07-01
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: fd0435959cba334d1cd72b51e7387ee66e678427
+chunk_index: 56/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+1 1 Article
+
+It is Strictly Required and Commanded that there 
+be no Peace of Canon no Small arms Firid from any of 
+the Lines or Else where Except in Cafe of Nefesesary 
+and Immedeate Defence or spefial orders Givin for that 
+Purpols

@@ -1,0 +1,29 @@
+date: 1776-01-01
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 01214c392ba23adfe4435577aba7eb09e9e09f59
+chunk_index: 39/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Camp on Winter Hill Jan'’ 4 1776
+
+Rigermental orders Each officer that hath Rect Enlistments to Recrute this Rigt are Desired to make an Exact Return of the Non commissiond officers and Solders they have Enlisted from the first to Saturday morning next at which time the Returns are to be made without
+fale Likewise it is Desired that commanding officer of companies Employ
+their Drummers and fifers in Lerning their Duty as fast as Posable and
+the Drill Serj* to Exercise the new Troops Every Day and that their
+Roles are kept cald every Day Agreable to Gen! orders and the Serj'* of
+Each company See to it that in Dividing the wood that each Mess have
+their Proper Proportion
+
+PF James Reed Col?
+Camp on Winter Hill Jan-5-1776
+
+Brigideer Gen™ Sullivans orders
+
+Field officer of the Day Tomorow Major Brook
+Adj‘ of the Day Putnam

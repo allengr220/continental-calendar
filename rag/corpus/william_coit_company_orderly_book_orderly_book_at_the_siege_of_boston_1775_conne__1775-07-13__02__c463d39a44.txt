@@ -1,0 +1,19 @@
+date: 1775-07-13
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: c463d39a44648ccbbc6a939b2dd3839b22d07446
+chunk_index: 100/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+the Commanding officer at Chelfe is as soon as posa- 
+ble after the Recept of this orders to Deri&lt;5t all the Cattle 
+upon pudding point Shirleys Point and the Intermediate 
+Space Betwen Powderhorn hill &amp; See to be Driven 
+of[f ] and it is Recomended to the Commisary General 
+to Endevour to Agree with the Owners of Sad Cattle 
+and to Furnish them for the Ufe of the army

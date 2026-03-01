@@ -1,0 +1,21 @@
+date: 1775-06-20
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: b72e06d3264d922f5482d1092da12b3ca442adc3
+chunk_index: 32/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+June 20]
+
+Regmential orders
+
+that every Compy Make out and Return to the Adju- 
+tant a Compleat Return of the Number Men and Mifs- 
+ing wounded of Guns and Blanckets Lost in the Last 
+Ingagment at Charlestown this Day or by 9 oclock to 
+morrow Morning

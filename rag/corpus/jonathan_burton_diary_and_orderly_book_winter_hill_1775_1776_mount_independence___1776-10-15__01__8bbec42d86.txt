@@ -1,0 +1,15 @@
+date: 1776-10-15
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 8bbec42d86f0465bc53eaf4aaafca4908019bd37
+chunk_index: 146/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Tuesday October 15 I was on forteauge in the forenoon and in the
+afternoon I was out with a Scouting party 37 Privats one Serj' and two
+Corp" Jn° Stevens came up to camp and I Rece* a Letter from home

@@ -1,0 +1,23 @@
+date: 1776-01-05
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 8c501da0fdc8a36c3dbd0b700ee5fef462a23ccb
+chunk_index: 64/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+To prevent any Misconception of the orders of Yesterday itis Declared
+that the commanding officers of Rig" are not Restrained from Sending out
+as many Recruting officers as can be Spared from y* Duties of their Respective Rign® but that those officers Together with Such as are now out
+with their Recrutes be Posetively ordred to be in camp by the last of this
+month That our Real Strength May be fully and clearly Assertained, it
+is Expected that Each Rigt will Exert themselves to the Utmost to Recrute what men they can in the Time mentioned. The Col™ and commanding officers of corps to recomend it Directly to their Recruting
+officers in the country or at Least as many as it is Posable to have Supplied with arms From thence
+
+Head Quarters Ja" 14" 1776
+
+Parole Peterborough Countersign London

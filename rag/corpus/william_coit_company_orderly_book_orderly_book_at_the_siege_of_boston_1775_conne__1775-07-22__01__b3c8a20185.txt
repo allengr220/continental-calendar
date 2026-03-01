@@ -1,0 +1,28 @@
+date: 1775-07-22
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: b3c8a2018577d2b36195e0b1d5e69ea49c9b1b78
+chunk_index: 125/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Head Quarters Cambrigde 22d July 1775
+
+Parole Nantafkat Counterfigne Miffipe
+
+Field officer of the Day to Morrow Colo11 Brigg
+
+officer of the Main Guard to Morrow Col" poor
+
+Adjutant of the Day to Morrow Fox
+
+Cap* Ifral putnam and Le1 Samul Webb Being 
+apointed agdcamp to Majr Genl putnam they are to 
+be obey as such in Regularty and Du Sobordernation 
+it being so Esentially Nesafery to the Good orders and 
+Goverment of an army and without it the whole mult 
+soon becom a sene of Disorder and Confution the

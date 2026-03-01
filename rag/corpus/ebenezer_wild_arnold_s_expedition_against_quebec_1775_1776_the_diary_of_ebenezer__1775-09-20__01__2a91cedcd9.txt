@@ -1,0 +1,14 @@
+date: 1775-09-20
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 2a91cedcd959e6b1ed27478314f968135646425e
+chunk_index: 9/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+20th. — Arrived in Kennebec River; rowed and sailed up against
+wind and tide.

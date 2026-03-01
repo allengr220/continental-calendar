@@ -1,0 +1,27 @@
+date: 1776-01-01
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 78024e56eb0d8f09f200039b08f2d24771bbed43
+chunk_index: 38/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+noon and four in the afternoon, and care that absent Persons without
+leave be marked that they may be vished for their Neglect of Duty,
+Every officer to be Presant at Role calling and no Capt nor Subbaltern
+Shall Presume to be absent without Leave of the commanding officer of
+the Reg™ to which he Belongs, or Field officer without License, from
+the commander of the Brigade, The commanding officers of the Several
+Rig™ are ordered to Report those officers who attempt to Sleep at Mistick or any other Place without the Lines and confine Every Solder who
+Shall go there without Leave of his commanding officer the Captains and
+Subalterns are Strictly Req" to give notice to the commanding officer
+when any of their Solders are absent that thay may Instantly confind
+Every commission officer when he Sees a Large Number of Solders collected is to Examine into the cause of their meeting, and unless they can
+asigne a Good Reason for their assembling is to order them to Disperse
+and to confine those that Refuse, this to be more Punctualy attended to
+about Mistick, Those Settlers and Sellers of Strong Drink who shall in
+future Sell Liquors to Solders after Sunset, may Depend on being Removed from the Army

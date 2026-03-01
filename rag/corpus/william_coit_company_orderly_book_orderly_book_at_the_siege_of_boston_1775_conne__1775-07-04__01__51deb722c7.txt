@@ -1,0 +1,21 @@
+date: 1775-07-04
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 51deb722c718257883143e24729a5a0b9864ab96
+chunk_index: 74/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+4th No Soldier belonging to thefe polls or Else where 
+to be Suffered to Stragell at any Diifance from there Re- 
+spective parade on any pertence without Leave from his 
+Officer as an Unguarded hour may prove fatel to a whole 
+army and to the Noble Caufe in which we are Ingaged 
+the Importance of which to Every man of Comman 
+Underitanding Muft Infpier Every Good officer and 
+Soldier with the Nobelalf. Ardour and Strictteif. attention 
+Leall he Should prove the fattel Inftrument of our Ruin

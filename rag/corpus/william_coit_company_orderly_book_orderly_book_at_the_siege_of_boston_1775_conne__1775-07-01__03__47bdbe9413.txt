@@ -1,0 +1,26 @@
+date: 1775-07-01
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 47bdbe941334387e26396d217661aad7d6e79343
+chunk_index: 71/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+* Capt. Callender's commission was afterwards restored by Washington. 
+See Frothingham's " Siege of Boston."
+
+\ "Army" erased, "the" should be also.
+
+\ Punctually, = scrupulously ; to be precisely adhered to.
+
+38
+
+Shrincking from duty in an Ingagment Shall be held 
+up as an Infames Coward and punifhed as Such with 
+Utmort Martial Severity and no Connection Intrilt or 
+Interfestion in his Behalf will avail to prevent the Strict 
+Execution of Juftas

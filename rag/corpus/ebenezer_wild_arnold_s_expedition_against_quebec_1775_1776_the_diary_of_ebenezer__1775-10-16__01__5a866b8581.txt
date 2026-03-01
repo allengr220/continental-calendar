@@ -1,0 +1,14 @@
+date: 1775-10-16
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 5a866b85818e11aa320642aa210d89df9f3739c2
+chunk_index: 24/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+16th. —'The water now being deep and dead, we betook ourselves to
+our oars, and rowed up six miles.

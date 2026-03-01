@@ -1,0 +1,16 @@
+date: 1775-10-08
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 69dc4939392b49dfd2e771ec341c031df47b5cb5
+chunk_index: 20/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+8th. — This day we pushed on very briskly, it being Sunday. The
+foremost companies lying still on account of heavy rains; we marched
+all day, it being very wet and cold, and suffered a good deal from the
+inclemency of the weather, and came up with some of them at night.

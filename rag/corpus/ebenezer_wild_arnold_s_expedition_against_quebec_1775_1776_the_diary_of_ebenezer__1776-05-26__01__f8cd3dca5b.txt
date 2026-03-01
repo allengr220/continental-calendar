@@ -1,0 +1,20 @@
+date: 1776-05-26
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: f8cd3dca5b2d9f43c1333c35f451f9f4f818b6b0
+chunk_index: 81/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+26th to 30th. — One ship went out and twenty came in. There
+were eight or nine prisoners taken out. to work ; they stayed out one
+or two days, and were required to swear allegiance to the King that
+they would not take up arms against them, and to make known all
+experiments against him,
+
+380th and 31st, — Four ships came in; one brig and two ships went
+out.

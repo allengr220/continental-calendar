@@ -1,0 +1,27 @@
+date: 1775-06-14
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 27eb8eaa296cd4ad57bbc9e2ec203eb19c9d14ea
+chunk_index: 17/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders 14th June 1775
+
+Parole Wilks Counterfign Berwik 
+Field Officer of the Day to Morrow Colo11 Gardiner 
+Field officer of the Picquit Night Majr Jackfon 
+Field officer of the Main Guard Mor Lev1 Coln Stern 
+Adjutant of the Day to Morrow Hunt
+
+Regmentel orders
+
+that the officers of Every Company Belonging to Con- 
+necticut now Stationed in Cambridge Excepting Cap* 
+kotton in Cafe of an alarm Shall Repair on the grand 
+parade where Lift. Waterman is Now Incampt and there 
+waite for Further orders the officers of Each Company

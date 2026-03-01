@@ -1,0 +1,18 @@
+date: 1776-08-06
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 12dd3a2725bf0f50542a8f9f718e6920a6896615
+chunk_index: 104/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Tuesday August 6 we got to wood Creek to Major Skeens and crosed
+the Creek about twelve oclock hear we Picht our tents or otherways
+Built Booths with Brush and Lay on the ground Very well contented
+with our New habitation though it hapned to be a very havey Shower
+and in the Morning the Most of the Men wear as wet as so many
+Drownded Rats :

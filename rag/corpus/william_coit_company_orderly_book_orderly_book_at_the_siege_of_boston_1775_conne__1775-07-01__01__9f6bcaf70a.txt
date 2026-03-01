@@ -1,0 +1,34 @@
+date: 1775-07-01
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 9f6bcaf70a5489a0ae06388e5ce8ef68f37ab988
+chunk_index: 47/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders 1st July 1775
+
+Parole Bowdian Counterfign Dexter
+
+Fild officer of the Main Guard to Morrow Le\rt Coln 
+Glover
+
+Field officr of the Day to morrow Lev1 Colo" Glover
+
+Adjutant of the Day to Morrow Fox
+
+that the adjutant of the Refpective Regments Doing 
+duty Cambridge Charlestown and Medway Mak a 
+weekly Return to the adjutant Gen11 at headquartrs of the 
+Number of officers Ranck and File fit for Duty Number 
+unfitt where Stationed what Number on Duty Daily 
+what Duty whether in Camp on Furlow or abfent 
+without Leave
+
+the Drumers in Camps attend on Mr John Bafsett 
+Drum Majr at 7 oclock to Morrow allfo Recv there 
+orders Relpeting thre Duty

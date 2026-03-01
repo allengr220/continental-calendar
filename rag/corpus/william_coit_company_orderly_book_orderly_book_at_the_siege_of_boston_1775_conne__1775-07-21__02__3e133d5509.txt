@@ -1,0 +1,19 @@
+date: 1775-07-21
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 3e133d55097dea78ef5019e19219280340252cdf
+chunk_index: 146/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Andrew Toaly a soldier in Cap1 Ely Company tryed 
+for being out of Camp Contrary to orders and Breaking 
+the windows of a houfe in town Laft Saterday night 
+was found Guilty of the Crime Laid to his Charge and 
+Sentanced to pay Four Shillings Damige and two Shill- 
+ings fine to be Disposed of as the Martial Law Deri&amp;s 
+and to Make Confetion to the people Ingured

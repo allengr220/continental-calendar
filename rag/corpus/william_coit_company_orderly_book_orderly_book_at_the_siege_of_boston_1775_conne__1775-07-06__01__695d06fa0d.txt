@@ -1,0 +1,20 @@
+date: 1775-07-06
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 695d06fa0d7368f056b23f3165945fb23ee306ed
+chunk_index: 53/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+6 article Molt Neturall/ Requires and Expe&amp;s a Du 
+Obfervence of thefe articles of war Eftablished for the 
+goverment of the army which forbids prophain Curling 
+and Swearing and Drunkennefs and in Like Manner 
+Requres and Expe&amp;s of all officers and Soldiers not 
+Engaged in a&lt;5tuel Duty a Punctiul attendance on Devine 
+Service to Emplore the Blefings of heven upon the Means 
+Ufed For Our Safty and Defence

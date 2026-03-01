@@ -1,0 +1,14 @@
+date: 1775-09-13
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 4a38c279cc12f15ff93b9173bb8f837954da3dcc
+chunk_index: 2/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+September 13th. — Marched from Cambridge until evening, and
+encamped at Malden that night.

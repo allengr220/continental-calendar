@@ -1,0 +1,19 @@
+date: 1775-11-21
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: e60bb555d57dea6e992437b7447e415dd7d98342
+chunk_index: 50/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+21st. — Marched up the river twenty miles to Point aux Trembles,
+‘our ammunitions being almost expended and too scant to attack the
+town with. Here we were joined by General Montgomery with the
+York forces from Montreal, who had taken St. Jolin’s, Fort Shamble,
+and Moutreal. In these places they took a great quantity of provisions,
+clothing, ammunition, and cannon, with nine hundred and fifty prisoners,
+Remained here until the 5th of December.

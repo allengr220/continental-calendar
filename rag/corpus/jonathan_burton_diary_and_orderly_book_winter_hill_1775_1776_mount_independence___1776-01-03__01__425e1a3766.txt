@@ -1,0 +1,15 @@
+date: 1776-01-03
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 425e1a37660c28037193ba6fc2116c3d139ff2e9
+chunk_index: 61/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+3” the Quart’ Marster is to make a Return to the commanding officer
+of the Rigt of all the Vitualing Returns week by Week that they may be
+Entred in the Rig"t Book

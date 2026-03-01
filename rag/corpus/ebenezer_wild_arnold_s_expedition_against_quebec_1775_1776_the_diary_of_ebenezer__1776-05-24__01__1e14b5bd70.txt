@@ -1,0 +1,18 @@
+date: 1776-05-24
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 1e14b5bd70884d6ae0bbe0dc99c31b02130ea70e
+chunk_index: 80/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+24th to 26th.— The militia have laid down their arms. One of
+those men that went out of prison was put on board a fifty-gun ship ;
+but as he did not incline to enter on board, they put him in irons, and
+threatened to hang him, but he was taken out of irons and put into
+[them] again in the evening. Robert Burd was taken out of prison,
+and has got his liberty ; he is going to his home in Ireland.

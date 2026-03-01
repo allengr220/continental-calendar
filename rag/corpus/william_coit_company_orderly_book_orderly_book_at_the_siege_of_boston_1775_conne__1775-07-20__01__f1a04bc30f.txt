@@ -1,0 +1,34 @@
+date: 1775-07-20
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: f1a04bc30fb92438c799f2681e9a8730440e224c
+chunk_index: 121/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Head quarters Cambrigde 20th July 1775 
+Parole Albany Counterfign Ticonderoga 
+Field Officer of the Day to Morrow Colo" Brickit 
+Do. officer of the Main Guard to Morw Mjr Lee 
+Adjutant of the Day to Morrow Tylor
+
+General orders
+
+Cartain Drums in and Near Cambrigde Very Im- 
+properly beat the Revelle this morning Before Day 
+although the troops are orderd to be under armes#half 
+a hour* before Day Break it Dos not follow that the 
+Drums are to Beat at that time the Revalley is to Beat 
+when a Sentra Can See Clearly one thousand Yards 
+aRound him and not Before
+
+All Adecamps and Majrs of Brigads are to keep Reg- 
+urlerly Entered in a Book all the General orders of the 
+army as well of those asf the Brigade they Belong to 
+as the General In Chief will not for the Future admit 
+as an Excufe for the Breach of orders the plee of not 
+knowing them

@@ -1,0 +1,21 @@
+date: 1775-12-29
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 073687617d64262dd5f42b76e2f98cfafbf8598c
+chunk_index: 52/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+29th. — This night prepared to storm the city in two different places.
+General Montgomery with the York forces on one quarter, and Colonel
+Arnold on the other hand. Accordingly, about five o'clock in the morning, began the attack ; but they could not get to the wall, but retreated
+back to their quarters, their general and two leading oilicers being killed
+by the fire from the enemy. Colonel Arnold with his party carried on
+the attack on his quarter, and got possession of their two gun battery,
+and took seventy prisoners. Our colonel being wounded in the beginning of the attack, was carried back. The captains themselves then
+took the lead, and drove the enemy until, overpowered by numbers and
+surrounded, we were obliged to surrender ourselves prisoners of war.

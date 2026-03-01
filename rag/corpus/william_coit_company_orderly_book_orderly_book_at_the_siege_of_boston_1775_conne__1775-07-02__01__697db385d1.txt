@@ -1,0 +1,20 @@
+date: 1775-07-02
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 697db385d17c3693065e8c1823e5eb0006cbb621
+chunk_index: 175/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+2 Subaltrans 2 Serf 1 Drum 30 Rank &amp; Fille To 
+parade at head quarters by Noon to Efcort the Prifoners 
+to Woster the Commanding officer to Reeve his orders 
+From the adjutant Gen11
+
+For the Satrsfaition of all Conferned the Gen11 Dere&amp;s 
+the Following Refolution of the Legislature of this 
+Colony to be Inferted in Genor1 orders (Vz) in the houfe

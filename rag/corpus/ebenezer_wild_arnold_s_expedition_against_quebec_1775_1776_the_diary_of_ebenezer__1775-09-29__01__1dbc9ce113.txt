@@ -1,0 +1,14 @@
+date: 1775-09-29
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 1dbc9ce1136562d2bd5c311deb6e9ff793bae307
+chunk_index: 14/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+29th. — Pushed up to the second carrying-place, called Cohiggin
+Falls.

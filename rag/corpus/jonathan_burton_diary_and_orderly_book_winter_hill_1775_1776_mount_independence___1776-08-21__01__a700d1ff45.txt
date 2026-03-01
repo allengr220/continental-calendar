@@ -1,0 +1,13 @@
+date: 1776-08-21
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: a700d1ff45a10a3bc780ebe3a5d6619b9987821c
+chunk_index: 118/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Wednesday August 21 we Set off from our Lodging very Early in

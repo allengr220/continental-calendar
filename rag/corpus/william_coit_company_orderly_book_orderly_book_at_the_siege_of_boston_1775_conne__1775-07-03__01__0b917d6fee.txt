@@ -1,0 +1,18 @@
+date: 1775-07-03
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 0b917d6fee9f11a263424ad5fa036b41ff324837
+chunk_index: 211/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+3. If you should be so Succefsful as to take any of 
+said Vefsels, you are immediately to send them to the 
+nearest and safest Port to this Camp under a Careful 
+Prize Master, directing him to notify me by Express 
+immediately of such Capture with all Particulars, &amp; 
+there to wait my farther Direction.

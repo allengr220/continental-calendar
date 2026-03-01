@@ -1,0 +1,14 @@
+date: 1776-08-14
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 0343d3186910a0fd546921760e29673051573151
+chunk_index: 112/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Wednesday August 14" fair all day and we have one Lt and 7 Privats
+on forteag this Day

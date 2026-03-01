@@ -1,0 +1,12 @@
+date: 1775-01-01
+author: Joseph Plumb Martin
+title: A Narrative of Some of the Adventures, Dangers and Sufferings of a Revolutionary Soldier
+role: enlisted
+service: Continental Army
+source_type: memoir
+chunk_id: 0c4042edc8606e24791bb0f73a910cdcbdbd7af7
+chunk_index: 1/115
+
+---
+
+THE heroes of all Histories, Narratives, Adventures, Novels and Romances, have, or are supposed to have ancestors, or some root from which they sprang. I conclude, then, that it is not altogether inconsistent to suppose that I had parents too. I shall not undertake to trace my pedigree (like the Welsh) some thousand years beyond the creation; but just observe, that my father was the son of a "substantial New England farmer," (as we Yankees say,) in the then Colony, but now State of Connecticut, and county of Windham. When my father arrived at puberty he found his constitution too feeble to endure manual labor, he therefore directed his views to gaining a livelihood by some other means. He, accordingly, fitted himself for, and entered as a student in Yale College, sometime between the years 1750 and '55. My mother was likewise a "farmer's daughter;" her native place was in the county of New-Haven, in the same State. She had a sister, married and settled in the vicinity of the College, who often boarded the students when sick. My father being once in that condition, and being at board at this aunt's, my mother happened to be there on a visit: my father seeing her, it seems, like a great many others in like circumstances, took a fancy to her, followed up his courtship, and very possibly obtained her consent as well as her parents—married her a year and a half before his

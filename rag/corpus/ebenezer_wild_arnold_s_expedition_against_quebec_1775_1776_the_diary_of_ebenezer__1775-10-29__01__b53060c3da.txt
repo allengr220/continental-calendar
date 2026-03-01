@@ -1,0 +1,20 @@
+date: 1775-10-29
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: b53060c3da0b3b400bda58c29dc3d2df4de29b10
+chunk_index: 35/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+29th. — Early this morning set out for the head of Chadore
+River. This day we suffered greatly by our bateaux passing by us,
+for we had to wade waist-high through swamps and rivers, breaking ice before us. Here we wandered round all day, and came at
+night to the same place which we left in the morning, where we
+found a small dry spot, whee we made a fire, and we were obliged to
+stand up all night in order to dry ourselves and keep from freezing.
+We continued so till next day, when a bateau came up and took us
+across the river.

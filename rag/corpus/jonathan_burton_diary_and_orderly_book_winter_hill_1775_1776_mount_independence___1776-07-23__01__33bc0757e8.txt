@@ -1,0 +1,16 @@
+date: 1776-07-23
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 33bc0757e8d19386cda4f775eddc95730ae56d64
+chunk_index: 93/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Tuesday July 23 Wilton Men Joyned with Amherst Dunstable and
+Merrimack Men at Wilton and after Settling the comp’ with under officers
+
+we Began our March and Log? at Millikens in Wilton the first Night.

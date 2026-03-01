@@ -1,0 +1,14 @@
+date: 1775-10-09
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 63f279602b38ab61ef40e77a0d4b5c3d5c61ac1f
+chunk_index: 21/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+9th, 10th, and 11th. — Carried to the first pond, three and one-half
+miles land-carriage ; crossed the pond two miles.

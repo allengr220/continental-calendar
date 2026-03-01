@@ -1,0 +1,23 @@
+date: 1775-07-02
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: f515ecd94d4af2bc092c8a8d8e062aba0f7ee041
+chunk_index: 48/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+July 2th 1775
+
+Parole Pitts Counterfign Bradbury 
+Field officer of the Day to morrow Coln Brackit 
+Field Officer of Main guard Morrow M Majr wood 
+Adjutant of the Day to Morrow Hardy
+
+General orders
+
+That Some Sutible Perfons in Each Company and 
+Regment be Dericted to Infpect Sd Companys Daily

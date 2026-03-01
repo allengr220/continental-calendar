@@ -1,0 +1,14 @@
+date: 1775-10-26
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: a48fa603c480ef7c26cff76e97524d55137b7c86
+chunk_index: 32/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+26th. — Pushed up four ponds, and carried over two carrying-places,
+one of them a mile over; the ground covered with snow.

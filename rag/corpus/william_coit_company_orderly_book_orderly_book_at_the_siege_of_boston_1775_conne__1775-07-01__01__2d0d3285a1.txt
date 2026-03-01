@@ -1,0 +1,18 @@
+date: 1775-07-01
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 2d0d3285a1889d2a609ccc6ec53a8437bdefe28d
+chunk_index: 85/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+1st It is orderd that the Main Guard on no account 
+Whatvever be without a Drum which is to beat to arms 
+on any Alarms and Followed by all the Drums in the 
+Camp on which Every officer &amp; Soldier is Imeadiatly to
+
+Repair to the alarm post

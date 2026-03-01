@@ -1,0 +1,29 @@
+date: 1775-07-02
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: f9651f29a23a2e9937db7bb72f36088e1f920fec
+chunk_index: 215/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+2nd Lieutenant
+
+Surgeon
+
+Ship's Master
+
+Steward
+
+Mate .
+
+Gunner
+
+Boatswain
+
+Gunner's Mate &amp; Serjents
+
+Privates

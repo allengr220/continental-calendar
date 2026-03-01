@@ -1,0 +1,15 @@
+date: 1776-01-25
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 7c994958d5eb553a0a9817f526fbc9249f9517c9
+chunk_index: 61/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+25th to 29th. — There were three men deserted the garrisons. The
+people get out into St. Rochs every day and fetch in the remains of the
+buildings that were burnt.

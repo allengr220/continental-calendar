@@ -1,0 +1,22 @@
+date: 1775-06-20
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 87ad6d4d73f511b5d9bad2b4e77a389f45b3840f
+chunk_index: 29/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders 20th June 1775
+
+That all such perfons as may have in there Posesiton 
+guns packs Clothing and other Apperals that was taken 
+up sence the Engagment on Bunkers Hill that the own- 
+er of Which are unknown are Required to Return them 
+to headquarters that the Right Owners May have them 
+again
+
+See the Next page [Regimental orders under June

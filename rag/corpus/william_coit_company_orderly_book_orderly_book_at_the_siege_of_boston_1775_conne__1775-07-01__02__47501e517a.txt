@@ -1,0 +1,23 @@
+date: 1775-07-01
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 47501e517a57ab5bb4720ee7dccc6f8cf6d10cfd
+chunk_index: 141/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+that a Regment1 Courtmartial be held at Cap1 Gales 
+Markque Cap1 Gale Preafadent Lev* Baldwin Lev1 huet 
+Lev1 Lee &amp; Enfign Babcock Members Thomas Leeds a 
+soldier in Lev1 Colo" Tylors Company Confined for pro- 
+phain Swering the prifoner being brought before the 
+Court Denied the Crime Laid to his Charge : Evidance 
+being produced againft him it Appeared to the Court 
+that the prifoner is Guilty &amp; that he fhall pay a Fine of 
+One Shilling
+
+A Regm11 Court Martial held at the Prefadants Mark-

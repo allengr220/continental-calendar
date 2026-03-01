@@ -1,0 +1,26 @@
+date: 1775-07-17
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 6f20823256568a7ea6a5f50f56714c5fe198ad49
+chunk_index: 114/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Head Ouaters Cambrigde 17th July 1775
+
+Parole Bofton Counterfign Salam
+
+there is Refon to apreheand that the Gen11 orders are 
+not Regulerly published to the Non Commifiond officers 
+and Soldiers in the army as pleading Igornance of orders 
+will not For the Futer Be admitted in Excufe of any 
+Delinquece it is once more ordered that the adjutants 
+of the Sevirol Corps will be Exa&lt;5t in Seeing the orders 
+Read Every Morning &amp; Evning to the men of Duty 
+of there Refpective Corps as they may Depend upon 
+Anfwering it before a Court Martial for any Neglect of 
+obeying this orders

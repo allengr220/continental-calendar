@@ -1,0 +1,29 @@
+date: 1775-07-03
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 60fe25baed21058639abe755400c80361b757a13
+chunk_index: 92/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+3d
+
+The General or in his abfance the Commanding Officer
+
+at Roxbury to Send a Report Every Day in Writing
+
+Sealed up to the Commander in Cheaif to head quarters
+
+in Cambridge of all the Metearals Accomadations of
+
+the Providing [preceding?] Day Mentioning perticulerly
+
+43
+
+all arivels of Ships and Vefsels in the Bay with what 
+Changes and Alterations are made in the harbour and in 
+the Men of war tranfports and Floting Batter[ie]s &amp;C

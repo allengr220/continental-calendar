@@ -1,0 +1,20 @@
+date: 1775-07-02
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: c5305dd984fb197616984497acce33fb96e9cdd2
+chunk_index: 91/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+2d
+
+All Soldiers more then two out of a Company who 
+are presant Abfent on Furlow and all officers Non 
+Comifsioned officers and Soldiers who have not Joyned 
+there Refpe&lt;5tive Corps to be orderd Fourthwith to Camp 
+the Commanding officer of the Corps to be anfwerable 
+to the General to an Obediance to these orders

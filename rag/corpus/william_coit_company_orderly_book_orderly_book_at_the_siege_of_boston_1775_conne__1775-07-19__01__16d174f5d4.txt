@@ -1,0 +1,25 @@
+date: 1775-07-19
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 16d174f5d45a88a9bb207e9bd51fba7578924ab2
+chunk_index: 144/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+that a Court Martial hi Id the 19th July Cap4 Spicer 
+preladant Lev1 Raymond Lev4 Edmunds Lev4 Williams 
+Lev4 Catling Enfign Babcock D° Morgan Members
+
+Tryed Cumfort Chapell Soldier in Cap4 Chapmans 
+Company Confined for Disobying orders and Making 
+Disturbances in Camp the prisoner being Brought before 
+Sd Court Plead Gulty of the Latter Charge Alledged 
+aganft him and found not guilty of the Former it is the 
+opion of this Court that the prisoner pay a fine of 5 
+shillings Lawfull money to be Dispofed of according to 
+the 51 article of the Martal Law &amp; be Returnd to his 
+Duty

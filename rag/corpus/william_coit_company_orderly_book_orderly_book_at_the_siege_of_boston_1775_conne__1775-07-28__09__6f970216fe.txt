@@ -1,0 +1,14 @@
+date: 1775-07-28
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 6f970216fe5e69fc9f06c4f14e9744050fa27743
+chunk_index: 199/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+Secondly the Rank of the Field officers of all the 
+Regmts Forming the Continnential army

@@ -1,0 +1,18 @@
+date: 1776-01-05
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 3cd6ca743f638f967197c26f758aaa995c4dd3c7
+chunk_index: 65/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+A Gen! Court Martial to Set Tomorrow Morning in Camebridge to
+Try Such Prisnors as Shall be Brought before them all Evidence and
+Persons concernde to attend the Court—The Court to assemble at M*
+Pomeroys at Ten o clock in the Fore noon—
+
+Camp on Winter Hill Jan’ 14" 1776

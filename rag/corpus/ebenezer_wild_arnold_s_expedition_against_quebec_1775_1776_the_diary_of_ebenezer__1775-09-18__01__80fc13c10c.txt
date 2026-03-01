@@ -1,0 +1,15 @@
+date: 1775-09-18
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 80fc13c10cb82550955351a04053c84ab50ff7c8
+chunk_index: 7/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+18th. — Had orders to embark in the evening. Our fleet consisted
+of eleven sail of vessels, sloops, and schooners. Our number of troops
+consisted of 1,300; eleven companies of musketmen, and three of riflemen. We were embarked this evening, and lay in the river all night.

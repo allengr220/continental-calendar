@@ -1,0 +1,15 @@
+date: 1775-09-27
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: dcd959bc307d4176dda5f27000dc85b1aa26ddae
+chunk_index: 12/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+27th. — Carried over Ticoneck Falls our bateaux and provisions,
+
+forty rods carriage, and pushed up three miles.

@@ -1,0 +1,19 @@
+date: 1775-07-05
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: bd8bbae5ae52a7061152254fd8513dab459cfded
+chunk_index: 110/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+5o
+
+Contennent as a day of puplick humilation of Failing 
+and Prayer that they may with United hearts and Voice 
+unfaindly Confefs there sins Before God and Suplecate 
+the all-wife and Merfifull Desposer of Events to avert 
+the Defotation and Calamities of an unnatural War

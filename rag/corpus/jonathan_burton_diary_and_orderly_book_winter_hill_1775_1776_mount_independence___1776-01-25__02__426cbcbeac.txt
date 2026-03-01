@@ -1,0 +1,20 @@
+date: 1776-01-25
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 426cbcbeac15b1ad540b820fdab0e269e2ae2f72
+chunk_index: 84/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+The Cap! or commanding officer of the Militia companyes are to have
+their pay Roles Ready by the first of Feb’ in order for Payment the Gen!
+having Borrowed as much money as will answer this Purpose Rather
+than Suffer them to go home withoute. In making oute the Pay Abstract the following meathode is to Be observed . . Upon one Side of an
+Intire Sheet of Paper (is to Be the Roll) or Name of officer and men of
+
+Rig to the Whole company on the other Side (or Back of this) is to be the pay
+it (and abstract in the usual form at the foot of the abstract is to be a Deduction

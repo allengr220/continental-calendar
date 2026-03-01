@@ -1,0 +1,31 @@
+date: 1776-01-08
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 680bd463d4faa95721a7f99b3abbe5b6f0fcb434
+chunk_index: 52/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+m | Cap | o Z. a
+m | Lieut | 4, 0 ed &gt;
+nm | Lieut == te eee, Pe g, ow
+w | Serjt | P&amp;S &amp;
+wt | Drum and fife 1S ~ a 3
+‘S| Privats fit for Duty | = ot cy = Me
+. Sick Presant | a | gs Q
+e | Sick Absent a Os,
+uw =| on command | gy | Of 4
+on Furlough fh Swe
+Recruting a
+SH | Total == —— ore
+Serj" | fes4 | ows
+Drum and fife | S8ok | Sigs
+Rank and File | Beee | ot os
+Inlisted | DD | Ps a
+Dead | eas Bao
+Discharged 5 ee | Sine
+Desarted | #8 ese

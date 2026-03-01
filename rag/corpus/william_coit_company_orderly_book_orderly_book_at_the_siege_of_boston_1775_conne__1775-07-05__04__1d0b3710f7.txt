@@ -1,0 +1,20 @@
+date: 1775-07-05
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 1d0b3710f7900a75f1bb35a48d8dae1d8b905771
+chunk_index: 113/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+officer of the Main Guard Colo11 Johnnott
+
+Adjutant of the Day to Morrow Tylor
+
+Draught of Cap1 Coits Company
+
+One Subaltern 2 Serf 1 Corperal &amp; 30 Privits for 
+Leachmeers point to Night

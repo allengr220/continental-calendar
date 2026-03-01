@@ -1,0 +1,14 @@
+date: 1775-10-04
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 3cee30b1b2920f3ac85a57ede5412e8e243b89ca
+chunk_index: 18/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+4th. — Pushed up eight miles to Tintucket, or Hellgate Falls, and
+carried our boats over forty rods.

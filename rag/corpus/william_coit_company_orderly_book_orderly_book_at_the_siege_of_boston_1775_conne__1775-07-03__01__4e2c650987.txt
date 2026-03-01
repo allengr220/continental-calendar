@@ -1,0 +1,25 @@
+date: 1775-07-03
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 4e2c6509870d90d4562a6eb2e23ffaca5aa6f753
+chunk_index: 166/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+3 Lev* Brufter
+
+Meeting Picquit
+
+Fargo .
+
+3 Enfign hall
+
+Fetigue . . .
+
+Baldin .
+
+.

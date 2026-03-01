@@ -1,0 +1,25 @@
+date: 1775-07-28
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 810e09b3d029b02bd4cde73ef8c0f57cc3cabaf9
+chunk_index: 194/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+that the Main guard to Morrow &amp; Picquit this Night 
+be as Ufual that Colo11 Reed Sind a Cap1 &amp; Colo11 a 
+Subaltran For picquit this Night To Go to Colo11 Bruers 
+alarm post
+
+that all Adjutants Make a Duty Return to adjutant 
+Bruer to morrow
+
+that the officer of the Day when he Goes the Round 
+by Day be Strid [in not] Exhibeting any Information 
+to any guard at what Time of the Night he Intends to 
+Go the Rounds and Sd officer is strictly Injoyned to Viset 
+Every Guard in the Incampment

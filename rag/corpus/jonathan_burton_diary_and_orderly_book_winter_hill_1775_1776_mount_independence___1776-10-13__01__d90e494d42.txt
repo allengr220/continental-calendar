@@ -1,0 +1,16 @@
+date: 1776-10-13
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: d90e494d427f023e616239ccc8bcddd378a07493
+chunk_index: 144/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Sunday October 13" In the Morning we hear’ a very heavy fireing
+Down the Lake and Directly afterward had an acct of our fleets being
+Destroyed and obliged to Retreat—In the afternoo the whole armey
+was mustred to man the Lines—

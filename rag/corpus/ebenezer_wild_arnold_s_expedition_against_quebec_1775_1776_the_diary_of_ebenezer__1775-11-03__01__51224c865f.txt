@@ -1,0 +1,15 @@
+date: 1775-11-03
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 51224c865f465df9192e3643c71b5f31c8238438
+chunk_index: 41/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+3d. — Marched this day twenty miles, wading through several small
+rivers, some of them up to our middle, and very cold. In the evening
+we came in sight of a house, the first we had seen for forty-one days.

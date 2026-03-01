@@ -1,0 +1,18 @@
+date: 1775-07-03
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: c9d9bdd1563d8356d0b62a89b5661426e0e233d1
+chunk_index: 87/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+3d the Commanding ofteser at Roxbury profpecl 
+Winter hill &amp; Sewals point to Send Exprefes in Cafe 
+of alarms to Head quarters with an account of there 
+Situation &amp; the Movement of the Enamy if they are 
+not provided Each with horfes the Adjutant Gen1 to 
+apply to Committee of Supplys

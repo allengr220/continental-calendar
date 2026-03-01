@@ -1,0 +1,19 @@
+date: 1776-01-23
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: f75533e60e97a9cc1ecf4f1527a2a2bbc044e3ed
+chunk_index: 77/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+23
+
+Col Poor, Piquet within the Lines to night
+Col’ Starks Rig' Piquet Main and Magizen gaurd Colo Reed 1-1-2-2-
+56
+Head Quarters Jan’ 234 1776
+Parol fairfax Countersign mountvernum

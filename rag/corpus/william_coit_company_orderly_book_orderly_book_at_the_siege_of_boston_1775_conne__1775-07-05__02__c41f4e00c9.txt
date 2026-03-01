@@ -1,0 +1,26 @@
+date: 1775-07-05
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: c41f4e00c9f820891d28b77c1b5ecbdd5b14c514
+chunk_index: 111/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+the General orders that Day to Be Religously obe- 
+served by the Forfes under his Command Exactly in 
+the Manner Directed By the proclamation of the Con- 
+tinnental Congrefs It is therefore Stri&amp;ly Injoyned all 
+officers and Soldiers not upon Duty to Attend Devine 
+Service at there Accumitomed places of Woshep as 
+well in the Lines as the Incampmen[ts] and Quarters 
+and it is Expected that all thofe who Go to Woshep 
+Do take there armes Amunition and Accurterments and 
+are prepared For Immediat Auticon if Called upon if in 
+the Judgement of the officers the work Should Appear 
+to be in Such Forwardnefs as the Utmoft Security of 
+the Camp Requres they will Command there men to 
+Abitain from all Labour upon that Solom Day

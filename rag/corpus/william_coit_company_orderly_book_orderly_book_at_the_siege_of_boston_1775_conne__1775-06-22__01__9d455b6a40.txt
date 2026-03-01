@@ -1,0 +1,21 @@
+date: 1775-06-22
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 9d455b6a40f8311163f66867cd9f44654b9268bd
+chunk_index: 31/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+General orders June 22d 1775
+
+Parole Langdon— Counterngn Apilton 
+Field officer of the Day to morrow Coln Scammons 
+officer of the Picquit Guard to Night Captains 
+Field officer of the Man Guard to Morw Levt Colo11 
+Nixon
+
+Adjutant of the Day to Morrow Marfdon

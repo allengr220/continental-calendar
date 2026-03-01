@@ -1,0 +1,14 @@
+date: 1775-10-17
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: d5c9d85f786015e9ae2596e2ffa174615e15ce96
+chunk_index: 25/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+17th. — After carrying over a small carrying-place, about ten rods,
+rowed up fifteen miles.

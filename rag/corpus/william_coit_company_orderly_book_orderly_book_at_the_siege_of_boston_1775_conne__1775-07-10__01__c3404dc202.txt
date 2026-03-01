@@ -1,0 +1,23 @@
+date: 1775-07-10
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: c3404dc202318e62a7471a92c329626ae90978e2
+chunk_index: 219/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+10. You are to be extremely careful and frugal of 
+your Ammunition, by no means to waste it on Salutes 
+or for any Purpose but what is absolutely necefsary.
+
+G. WASHINGTON.
+
+Head Quarters,
+
+Octob. 22, 1775.
+
+Note. — The two following journals are by much more illiterate

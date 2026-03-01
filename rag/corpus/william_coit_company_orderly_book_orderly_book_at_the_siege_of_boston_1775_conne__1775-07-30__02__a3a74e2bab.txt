@@ -1,0 +1,20 @@
+date: 1775-07-30
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: a3a74e2babd14a731f851f4359235414c6c0df56
+chunk_index: 165/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+The Drumers and Fifers of the Regmts in and about 
+Cambrigde are Conilantly to attend the Drum and Fife 
+Majrs at the Ulual hours of Inftrution
+
+73
+
+N. B. — Colo11 Pitckin is to Be presadant of the above 
+Courtmartial

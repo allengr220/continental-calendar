@@ -1,0 +1,19 @@
+date: 1775-07-14
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: bc7e23389af1553b4db4af147c6dcf6ac8ebd5af
+chunk_index: 102/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+anfwerable that they are Swept Every morning and all 
+Filth and Durt be Removed from about the houfes next 
+to Clenlynefs Nothing is more Condufive to a Soldiers 
+health then Drefsing his Vituels in a Deasant and proper 
+Maner the officers Commanding Companys Should there- 
+fore Duly Infped the Camp Kitchings and see that the 
+men Drefs there food in a holfom way

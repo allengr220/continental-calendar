@@ -1,0 +1,20 @@
+date: 1775-07-01
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 58c38b14b5890a8b8a61ee9d3882005dd7e344a2
+chunk_index: 67/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+1st It is with in Expresable Concern that the gen- 
+oral upon his Firft Arrivel in the Army Should find an 
+officer Sentanced by a General Courtmartiel to be Cafh- 
+ierd For Cowardife — A Crime of all others the mod 
+Infames in a Soldier the moil Infames to an Army and 
+the Laft to be Forgiven in as much as it m[a]y and 
+often dos happen that the Cowardife of a single officer 
+may prove the Deftrution of the whole Army

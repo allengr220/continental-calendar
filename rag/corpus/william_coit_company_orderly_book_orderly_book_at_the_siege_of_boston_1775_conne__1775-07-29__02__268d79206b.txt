@@ -1,0 +1,26 @@
+date: 1775-07-29
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 268d79206b6a914eb9e1ebe13501bd80db6ccaa3
+chunk_index: 177/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+to the Mufter and pay Matters in the Cambridge and 
+Roxbury and obtain of them A Compleat List of the 
+Noncommifiond officers and Soldiers in there Refped- 
+ive Regmts Distingufhing thole that have ben Mufterd 
+and payd From thofe that have not that such Methords 
+may Be prefued as to Remove all Juft Grounds of Com- 
+plaint and orderd that Colo" Cushing and Mr Webiter 
+with Such as the honourable Boyday [shall appoint] 
+shall Joyn and be a Committe for the purpofe above 
+mentioned Sent up for Concurance Read and Concured
+
+James Warin Speaker attest peris Mortton Secratary 
+the officers Commanding the Mafsechufetts Regmts will 
+pay all Du attention to the Foregoing Refblutions

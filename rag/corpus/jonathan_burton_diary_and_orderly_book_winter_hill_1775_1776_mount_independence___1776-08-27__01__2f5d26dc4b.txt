@@ -1,0 +1,15 @@
+date: 1776-08-27
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 2f5d26dc4b5075dff2882798384f7f2797d2c394
+chunk_index: 125/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Tuesday August 27" 1776 Rainey all Day this Day we built our
+chimney in our but and Lodged comfortable after that on acct of having
+a good fire—

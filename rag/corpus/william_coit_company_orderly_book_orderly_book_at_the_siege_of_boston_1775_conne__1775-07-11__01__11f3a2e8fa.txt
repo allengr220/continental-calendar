@@ -1,0 +1,18 @@
+date: 1775-07-11
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 11f3a2e8fa46830dbaa8a41d1a748e722334d344
+chunk_index: 81/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+11th
+
+A Regmential Courtmartial is orderd to Set to morrow 
+at Ten Oclock on Sam11 Bartlet of the Company Late 
+Cap1 Calanders and Colo" Gridleys Regm1 Confined for 
+Abufive Behavour

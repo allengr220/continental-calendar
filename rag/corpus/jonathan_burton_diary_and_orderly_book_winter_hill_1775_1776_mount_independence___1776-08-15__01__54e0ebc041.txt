@@ -1,0 +1,18 @@
+date: 1776-08-15
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 54e0ebc04119362a32865b6ab73849349068c5e2
+chunk_index: 113/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Thursday August 15" I was on command with a Party of Men over
+the Lake after Turf to build the New fort 20 on the works this Day of
+our company.
+
+Fryday August 15" the Capt and Eleven on the works this Day from
+our company the News of the day was that our Reg' was to go to oswego

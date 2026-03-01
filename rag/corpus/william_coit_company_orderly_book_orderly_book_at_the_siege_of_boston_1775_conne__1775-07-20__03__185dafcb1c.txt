@@ -1,0 +1,30 @@
+date: 1775-07-20
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 185dafcb1c7a0bdc0195cc6815cdbcfd4ae148e7
+chunk_index: 123/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+the General is Determined for the Future not to 
+Excufe any Negle&amp;i in Sending there Returns Every 
+Saterday to the adjutant Gen11 as the Commanding 
+officers of Regments are to be anfwerable for the 
+Disobedance of this orders it is Expected They are 
+Exa6t in Obliging there Refpective Adjutants to Fufill 
+there Duty
+
+Regmential orders
+
+the Court martial that set this Morning for the Tryal 
+of Nathaniel Tuftes Reports that the prisoner is Guilty 
+of Iniolent Behavour and therefore Sentance him to 
+Remain Prisoner untill to morrow Evining at Six oclock 
+and then to ask Pardon of the Serjant Major at the head 
+of the Company
+
+the Sentance Confermed

@@ -1,0 +1,15 @@
+date: 1782-01-01
+author: Joseph Plumb Martin
+title: A Narrative of Some of the Adventures, Dangers and Sufferings of a Revolutionary Soldier
+role: enlisted
+service: Continental Army
+source_type: memoir
+chunk_id: 0bf0e14be935a767afa0aa0c4d0b5ca5e8c84d01
+chunk_index: 97/115
+campaign_year: 1782
+
+---
+
+CHAPTER VIII. Campaign of 1782. A man with morbid pains oppress'd Who feels the nightmare in his breast; Rejoices when the pressure's o'er, And the distress is felt no more: So wars and tumults, when they cease Bring comfort in the thoughts of peace.
+
+THE arm of British power in America being dislocated by the capture of lord Cornwallis and his myrmidons, we had not much to disturb us on account of the enemy; I fared rather better than I did when I was here on my journey to Mud Island in 1777. Our duty was not very hard, but I was a soldier yet, and had to submit to soldier's rules and discipline, and soldier's fare. Either here, or just before, our officers had enlisted a recruit; he had lately been discharged from the New-Jersey line. After enlisting with us, he obtained a furlough to visit his friends; but receiving no money when he engaged with us (which was, I believe, the sole motive of his entering the service at this time) and obtaining his ends in getting home, he took especial care to keep himself there; at least, till he could get another opportunity to try his luck again, which he accordingly did, by enlisting in a corps of new levies in his own State—New-Jersey. My Captain hearing where he was, and how engaged, sent me with two men to find him out, and bring him back to his duty.

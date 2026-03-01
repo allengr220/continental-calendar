@@ -1,0 +1,15 @@
+date: 1775-11-05
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: e222256a3f536e4758c407b296fcbd680553a5f8
+chunk_index: 43/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+5th. — Continued our march down the river; the people very hospitable; provisions plenty, but very dear; milk one shilling sterling
+per quart, and bread a shilling per loaf, weighing no more than three
+pounds. Came this day twelve miles.

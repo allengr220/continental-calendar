@@ -1,0 +1,16 @@
+date: 1776-04-01
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 37257df0082a9930a7e92240f7a15373e313f8bc
+chunk_index: 72/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+April 1st to 14th. — Our people having a battery across the river at
+Point Lewis, they threw shot into the town, very merry. The officers
+of the guard are very particular with us; they call a roll, and count us
+morning aud evening,

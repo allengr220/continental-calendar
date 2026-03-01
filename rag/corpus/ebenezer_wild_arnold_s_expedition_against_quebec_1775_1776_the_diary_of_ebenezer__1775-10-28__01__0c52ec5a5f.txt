@@ -1,0 +1,14 @@
+date: 1775-10-28
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 0c52ec5a5f2fcbc79ab0eb3433cee354bc2c0d64
+chunk_index: 29/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+28d.— The water being shallow, we were obliged to lay by our
+oars and take our setting poles. We pushed up ten miles.

@@ -1,0 +1,19 @@
+date: 1776-08-04
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: c2595071e2e0dd9466d3211b45c8f94126c62a7c
+chunk_index: 91/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Charlestown N° 4 August ye 1 1776
+
+then “.pt Barron Lieut Lund my Selfe and the Ensign Settled the
+Accts for the whole of our Expence from home to that Place
+
+August ye 1* 1776 I Paid the whole of the Board for the officers and
+the use of the House at Bakers In N° 4 when we Came away which was

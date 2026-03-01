@@ -1,0 +1,15 @@
+date: 1777-01-01
+author: Joseph Plumb Martin
+title: A Narrative of Some of the Adventures, Dangers and Sufferings of a Revolutionary Soldier
+role: enlisted
+service: Continental Army
+source_type: memoir
+chunk_id: 85e946cdc989076b43a47b27a30a95d7adbcc74e
+chunk_index: 23/115
+campaign_year: 1777
+
+---
+
+CHAPTER III. Campaign of 1777. When troubles fall within your dish, And things don't tally with your wish: It's just as well to laugh as cry— To sing and joke, as moan and sigh;— For a pound of sorrow never yet Cancel'd a single ounce of debt.
+
+THE spring of 1777 arrived; I had got recruited during the winter, and begun to think again about the army. In the month of April, as the weather warmed, the young men began to enlist. Orders were out for enlisting men for three years, or during the war. The general opinion of the people was, that the war would not continue three years longer; what reasons they had for making such conjectures I cannot imagine, but so it was;—perhaps it was their wish that it might be so, induced them to think that it would be so. One of my mates, and my most familiar associate, who had been out ever since the war commenced, and who had been with me the last campaign, had enlisted for the term of the war, in the capacity of sergeant. He had enlisting orders, and was, every time he saw me, which was often, harrassing me with temptations to engage in the service again. At length he so far overcame my resolution as to get me into the scrape again, although it was, at this time, against my inclination, for I had not fully determined with myself, that if I did engage again, into what corps I should enter. But I would here just inform the reader, that that little insignificant monosyllable—No—was the hardest word in the language for me to pronounce, especially when solicited to do a thing which was in the least degree indifferent to me;—I could say Yes, with half the trouble. But I had enlisted. However, when I was alone, and had time to reflect, I began sorely to repent. The next day I met the sergeant and told him that I repented my bargain; he

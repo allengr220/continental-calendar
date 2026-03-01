@@ -1,0 +1,14 @@
+date: 1775-09-15
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: d762852cd9adb0dc7c766a245c906a4b4de6af0f
+chunk_index: 4/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+15th. — This morning marched briskly along, and got into Newburyport at eight o’clock at night, where we were to make a stay for several
+days.

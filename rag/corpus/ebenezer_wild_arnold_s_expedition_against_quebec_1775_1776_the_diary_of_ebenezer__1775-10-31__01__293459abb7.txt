@@ -1,0 +1,18 @@
+date: 1775-10-31
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 293459abb72ee37faf81e402efb0252dc03aa6c2
+chunk_index: 37/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+31st.— Pushed on for Chadore with all speed, in hopes of overtaking our bateaux in order to get some flour, for ours was all expended ;
+but to our great grief and sorrow our bateaux were stove, and our flour
+was lost, and the men barely escaped with their lives. Now we were
+in a miserable situation, not a mouthful of provision; and by account
+seventy miles from inhabitants, and we had a wilderness, barren and
+destitute of any sustenance, to go through, where we expected to suffer

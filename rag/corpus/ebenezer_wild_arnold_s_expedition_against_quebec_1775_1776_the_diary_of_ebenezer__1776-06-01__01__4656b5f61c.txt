@@ -1,0 +1,22 @@
+date: 1776-06-01
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: 4656b5f61c79b7ecd89fbccc711be0baa7d3cd08
+chunk_index: 82/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+June 1st to 5th. — Twenty-eight ships came in with General Burgoyne. There are six thousand Hessians and Hanoverians come to
+assist the King’s troops. Five hundred marched up the river for
+Montreal.
+
+th. — This day General Carleton and some other officers came to see
+us. He inquired of us whether we had fared as well as he promised
+us we should when we were taken. We told him we fared very well.
+He said he did not take us as enemies, and likewise seid if he could rely
+upon our honors he would send us to N, England if we would promise
+to be quiet and peaceable, and not take up arms any more.

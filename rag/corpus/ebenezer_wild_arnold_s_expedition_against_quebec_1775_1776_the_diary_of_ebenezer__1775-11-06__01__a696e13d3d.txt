@@ -1,0 +1,16 @@
+date: 1775-11-06
+author: Ebenezer Wild
+title: Arnold's Expedition Against Quebec, 1775-1776: The Diary of Ebenezer Wild
+role: enlisted
+service: Continental Army
+source_type: diary
+chunk_id: a696e13d3dc07f3c0d4be40ee2824e01c92de92c
+chunk_index: 44/unknown
+url: https://archive.org/details/cihm_56463
+
+---
+
+6th. — Came up with Colonel Arnold and the advanced party.
+Marched off together at two o’clock, and marched till twelve o’clock
+at night. Roads excessive bad, most of the way mid-leg deep with
+mud and water. Marched seventeen miles.

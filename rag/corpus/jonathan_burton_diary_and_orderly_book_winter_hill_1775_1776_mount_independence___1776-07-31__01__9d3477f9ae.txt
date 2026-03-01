@@ -1,0 +1,17 @@
+date: 1776-07-31
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 9d3477f9ae69527890847bc09a61dd2a3fb515f1
+chunk_index: 101/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Wednesday July 31 two Comp’* more Marcht from Town and we
+Rec* orders for Marching the Next Day
+
+August the 1 three companyes more of our Reg* Marcht Early in the
+Morning and about two o clock our comp” Marched from N° 4 and crosed

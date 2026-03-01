@@ -1,0 +1,21 @@
+date: 1775-07-06
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 35137701a489477ace2c37f2c32e717457eaeeb1
+chunk_index: 89/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+6th A General Courtmartial is Orderd to Set on 
+Munday Next at ten oclock for the Trial of Lev1 Brig- 
+ham Charged with Refcuing a prisoner from Lawfull 
+Custoday the prifoner to have Notice to Day
+
+Draught Cap1 Coits Company
+
+l Subaltran 2 Serjants l Corparl &amp; 30 privits guard 
+Leachmeers point

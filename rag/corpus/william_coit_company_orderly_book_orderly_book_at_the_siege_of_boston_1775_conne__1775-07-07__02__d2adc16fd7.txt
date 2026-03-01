@@ -1,0 +1,25 @@
+date: 1775-07-07
+author: William Coit (company orderly book)
+title: Orderly Book at the Siege of Boston (1775) — Connecticut Historical Society Collections, Vol. VII
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: d2adc16fd730e9c10f9f1602d6ae0c2461f59f14
+chunk_index: 63/unknown
+url: https://archive.org/details/orderlybookjourn00connrich
+
+---
+
+the Colon" or Chiefe Commanding Officer of Each 
+Regment is to Derict an officer of Each Company to 
+Call over the Roles of there Men at 6 oclock oclock 
+Every Morning and to Make proper inquire afFter the 
+Abfenters
+
+NBJ William pattors* David Wells Belonging 
+To Cap4 Gridleys Company and to Colo" Gridleys Reg- 
+ment Gideon Cole Belonging To Cap1 Chellers Com- 
+pany General putnams Regment John Scot Belonging 
+to Murays Company Colo11 Regment James Fofter
+
+Belonging to Butlers Company Colo" Nixons Regment

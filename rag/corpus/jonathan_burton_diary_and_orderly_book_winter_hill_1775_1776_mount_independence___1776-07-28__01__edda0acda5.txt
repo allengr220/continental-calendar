@@ -1,0 +1,13 @@
+date: 1776-07-28
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: edda0acda52a4417ca74dda85e4836de5abfac80
+chunk_index: 98/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Sunday July 28 we Draw ammunition and Divided out to the Company——-

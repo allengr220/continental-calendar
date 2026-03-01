@@ -1,0 +1,15 @@
+date: 1776-07-27
+author: Jonathan Burton
+title: Diary and Orderly Book (Winter Hill 1775–1776; Mount Independence 1776)
+role: enlisted
+service: Continental Army
+source_type: orderly_book
+chunk_id: 35b03a764d954891927f782235fe58ce5815e18f
+chunk_index: 97/unknown
+url: https://archive.org/details/cihm_55028
+
+---
+
+Saturday July 27 the comp’ March! into the Town and after Drawing
+their Provition and Kittles we march about one and % Milds up towards
+the ferry to Loge
