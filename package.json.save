@@ -1,0 +1,34 @@
+{
+  "name": "continental-calendar",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "audit": "node scripts/audit-data.mjs",
+    "promote": "node scripts/promote-intake.mjs --open",
+    "promote:next": "node scripts/promote-intake.mjs 0000-00-00 --next-missing",
+    "promote:publish": "node scripts/promote-intake.mjs 0000-00-00 --publish",
+    "promote:backfill": "node scripts/promote-intake.mjs 0000-00-00 --backfill",
+    "seed:intake": "node scripts/seed-intake.mjs",
+    "seed:intake:publish": "node scripts/seed-intake.mjs 0000-00-00 --publish",
+    "seed:intake:backfill": "node scripts/seed-intake.mjs 0000-00-00 --backfill"   },
+  "dependencies": {
+    "next": "16.1.6",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
