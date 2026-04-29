@@ -20,9 +20,9 @@
     "rag:query": "python3 scripts/rag_query_to_intake.py"
   },
   "dependencies": {
-    "next": "16.1.6",
-    "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "next": "^16.2.4",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
   },
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.18",
